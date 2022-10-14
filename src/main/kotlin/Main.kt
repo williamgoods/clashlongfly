@@ -5,9 +5,6 @@ import java.nio.file.Paths
 import kotlin.io.path.Path
 import java.time.LocalDateTime
 import java.time.format.DateTimeFormatter
-import javax.swing.JScrollBar
-import kotlin.io.path.createFile
-import kotlin.io.path.deleteExisting
 import kotlin.io.path.deleteIfExists
 
 fun ReadYamlFromUrl(url: String, charset: String): String {
@@ -85,36 +82,39 @@ fun main() {
         }
     }
 
-    val todayclashs =
-        Jsoup.connect(todaylink).timeout(0).get()
-    val clashs = todayclashs.getElementsByTag("a")
+    if (todaylink != "") {
+        val todayclashs =
+            Jsoup.connect(todaylink).timeout(0).get()
+        val clashs = todayclashs.getElementsByTag("a")
 
-    val main_proxies = ArrayList<String>()
-    val main_proxies_select = ArrayList<String>()
+        val main_proxies = ArrayList<String>()
+        val main_proxies_select = ArrayList<String>()
 
-    for (clash in clashs) {
-        if (clash.text().contains(".yaml")) {
-            val url = rawprefix +
-                    clash.attr("href")
-                        .replace("/blob", "")
+        for (clash in clashs) {
+            if (clash.text().contains(".yaml")) {
+                val url = rawprefix +
+                        clash.attr("href")
+                            .replace("/blob", "")
 
-            val (proxies, proxies_select) = ParseClash(url)
-            main_proxies.addAll(proxies)
-            main_proxies_select.addAll(proxies_select)
+                val (proxies, proxies_select) = ParseClash(url)
+                main_proxies.addAll(proxies)
+                main_proxies_select.addAll(proxies_select)
+            }
         }
+
+        var proxies = "proxies:\n"
+        for (proxy in main_proxies) {
+            proxies = proxies + proxy + "\n"
+        }
+        println(proxies)
+
+        val currentPath = Paths.get(System.getProperty("user.dir"))
+        val filepath = currentPath.toString() + "/v2rayse.yaml"
+
+        Path(filepath).deleteIfExists()
+        File(filepath).bufferedWriter().use { out -> out.write(proxies) }
+
     }
-
-    var proxies = "proxies:\n"
-    for (proxy in main_proxies) {
-        proxies = proxies + proxy + "\n"
-    }
-    println(proxies)
-
-    val currentPath = Paths.get(System.getProperty("user.dir"))
-    val filepath = currentPath.toString() + "/v2rayse.yaml"
-
-    Path(filepath).deleteIfExists()
-    File(filepath).bufferedWriter().use { out -> out.write(proxies) }
 }
 //fun main(args: Array<String>) {
 //    val url = "https://raw.githubusercontent.com/" +

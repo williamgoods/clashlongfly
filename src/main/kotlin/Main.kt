@@ -4,6 +4,7 @@ import java.io.File
 import java.nio.file.Paths
 import kotlin.io.path.Path
 import java.time.LocalDateTime
+import java.time.ZoneId
 import java.time.format.DateTimeFormatter
 import kotlin.io.path.deleteIfExists
 
@@ -64,7 +65,7 @@ fun ParseClash(url: String): Pair<List<String>, List<String>> {
 fun main() {
     val rawprefix = "https://raw.githubusercontent.com"
 
-    val current = LocalDateTime.now()
+    val current = LocalDateTime.now(ZoneId.of("UTC+8"))
     val formatter = DateTimeFormatter.ofPattern("yyyy_MM_dd")
     val formatted = current.format(formatter)
     println("当前日期和时间为: $formatted")

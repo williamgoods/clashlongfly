@@ -248,6 +248,30 @@ proxies:
   - {"type":"vmess","name":"github.com/freefq-美国Microsoft数据中心39","ws-opts":{"path":"/v2ray","headers":{"host":"ssru.v2.us03.2yun.win"}},"server":"az.hk01.paopaocloud.cyou","port":10018,"uuid":"d8c5b486-84bb-3887-a1d9-07455ea608f2","alterId":0,"cipher":"auto","network":"ws","tls":true}
   - {"type":"vmess","name":"github.com/freefq-美国CloudFlare公司CDN节点40","ws-opts":{"path":"/ray","headers":{"host":"amdjp.fineyoo.cf"}},"server":"amdjp.fineyoo.cf","port":"443","uuid":"023e3958-9565-4086-c765-5e977ef6f166","alterId":"0","cipher":"auto","network":"ws","tls":true}
   - {"type":"vmess","name":"github.com/freefq-美国41","server":"206.119.112.6","port":8189,"uuid":"a90597c1-bab3-4217-ad6f-0838675c8638","alterId":10,"cipher":"auto","network":"auto","tls":true}
+  - {"type":"trojan","name":"@vpn_proxy66🇨🇦","server":"nice-ca01.tiktokcdn.buzz","port":443,"password":"ff37081f-9043-476a-a6ea-854297b06839","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"@vpn_proxy66|KR_1","ws-opts":{"path":"/"},"server":"152.67.218.38","port":443,"uuid":"b5e9480a-b7aa-40a4-f9a7-5299b5e363b4","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"@vpn_proxy66|🇬🇧","server":"5.181.132.234","port":31372,"uuid":"c40b4d06-7684-4c09-d8d9-8de7186b293a","alterId":0,"cipher":"auto","network":"tcp"}
+  - {"type":"trojan","name":"@vpn_proxy66|CZ","server":"185.253.46.121","port":443,"password":"kGrwqmB1nEKUsDwE","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"@vpn_proxy66🇰🇷","server":"152.70.241.18","port":26676,"uuid":"ecd274c0-175d-45f7-8276-a3da93786632","alterId":0,"cipher":"auto","network":"tcp"}
+  - {"type":"trojan","name":"@vpn_proxy66🇯🇵_1","server":"jgwdj4.gaox.ml","port":443,"password":"c09eb137-bf68-4658-84e0-102d94b74168","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"@vpn_proxy66_us","ws-opts":{"path":"/123","headers":{"host":"usamd.ptuu.tk"}},"server":"usamd.ptuu.tk","port":443,"uuid":"009a2a72-afe7-4521-fec0-391908a088c6","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"trojan","name":"@vpn_proxy66🇯🇵_2","server":"202.8.9.27","port":28443,"password":"6b4ced5e-835a-4a7a-9d03-6a46e94668cb","udp":true,"skip-cert-verify":true,"sni":"mzy.hruqoaw.cn"}
+  - {"type":"trojan","name":"@vpn_proxy66🇯🇵_3","server":"jgwdj3.gaox.ml","port":443,"password":"da777aae-defb-41d0-a183-2c27da2b4677","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"@vpn_proxy66🇯🇵_4","server":"150.230.217.213","port":443,"password":"c09eb137-bf68-4658-84e0-102d94b74168","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"@vpn_proxy66|JP_1","server":"54.178.46.155","port":43857,"password":"P9qGW38zz7","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"@vpn_proxy66🇺🇸","server":"138.124.183.222","port":443,"password":"xxoo","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"@vpn_proxy66|US_1","server":"138.2.45.243","port":443,"password":"c19d1432-8b3e-4818-8837-3d160cf65908","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"@vpn_proxy66🇺🇸US_1","ws-opts":{"path":"/123","headers":{"host":"usamd.ptuu.gq"}},"server":"usamd.ptuu.gq","port":443,"uuid":"33653796-feef-43fd-e7cc-1adccd79b7c7","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"@vpn_proxy66|KR_2","server":"129.154.57.134","port":26282,"uuid":"cabbdf5d-3cca-4605-ba1c-c89a7d5b4c07","alterId":0,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"@vpn_proxy66|US_2","ws-opts":{"path":"/123"},"server":"sgamd.ptuu.tk","port":443,"uuid":"80f1e736-4b86-4e31-80d1-aac867666095","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"trojan","name":"@vpn_proxy66🇺🇸US_2","server":"150.230.96.103","port":443,"password":"da777aae-defb-41d0-a183-2c27da2b4677","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"@vpn_proxy66🇩🇪","server":"89.163.220.99","port":28443,"password":"6b4ced5e-835a-4a7a-9d03-6a46e94668cb","udp":true,"skip-cert-verify":true,"sni":"mzy.hruqoaw.cn"}
+  - {"type":"trojan","name":"@vpn_proxy66🇸🇬","server":"194.233.88.109","port":443,"password":"123456","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"@vpn_proxy66|SG","server":"138.2.86.43","port":32574,"uuid":"6e0aae55-230c-45a0-8591-7fce1ec7a326","alterId":0,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"@vpn_proxy66|JP_2","server":"150.230.199.177","port":21696,"uuid":"6b745caf-e7f6-49f1-9b63-e5c416303bac","alterId":0,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"@vpn_proxy66|JP_3","server":"167.179.88.75","port":12363,"uuid":"8ee75e76-9d9d-4f37-bd62-7f7733f49458","alterId":0,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"@vpn_proxy66_TG","ws-opts":{"path":"/ray","headers":{"host":"usarm.ptuu.cf"}},"server":"usarm.ptuu.cf","port":443,"uuid":"cb7c9465-ca11-44c8-ab8f-3585631fa640","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"trojan","name":"@vpn_proxy66|DE","server":"18.194.238.243","port":443,"password":"137032ae-1bdb-445d-85e0-6edd7d343afb","udp":true,"skip-cert-verify":true}
   - {"type":"vmess","name":"github.com/Pawdroid-美国CloudFlare公司CDN节点22","ws-opts":{"path":"/aries","headers":{"host":"dosg.cloudflare.quest"}},"server":"shopify.com","port":"2086","uuid":"147c190d-0407-4133-f2b8-47d11297d771","alterId":"0","cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"🇦🇺_AU_澳大利亚","ws-opts":{"path":"/chat","headers":{"host":"vau1.0bad.com"}},"server":"vau1.0bad.com","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":0,"cipher":"auto","network":"ws","tls":true}
   - {"type":"vmess","name":"github.com/Pawdroid-希腊11","ws-opts":{"path":"/getweather"},"server":"aop.ssfree.ru","port":"443","uuid":"180cae9c-4b10-11ed-bfc7-000017022008","alterId":"64","cipher":"auto","network":"ws","tls":true}

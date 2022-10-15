@@ -62,30 +62,27 @@ fun ParseClash(url: String): Pair<List<String>, List<String>> {
     return Pair(proxies, proxies_select)
 }
 
-fun main() {
-    val rawprefix = "https://raw.githubusercontent.com"
-
-    val current = LocalDateTime.now(ZoneId.of("UTC+8"))
-    val formatter = DateTimeFormatter.ofPattern("yyyy_MM_dd")
-    val formatted = current.format(formatter)
-    println("当前日期和时间为: $formatted")
+fun ParseClash(timeFormatter: String, rawprefix: String): String {
+    var proxies = ""
 
     val data =
-        Jsoup.connect("https://github.com/changfengoss/" +
-                "pub/tree/main/data").timeout(0).get()
+        Jsoup.connect(
+            "https://github.com/changfengoss/" +
+                    "pub/tree/main/data"
+        ).timeout(0).get()
     val times = data.getElementsByTag("a")
 
-    var todaylink = ""
+    var daylink = ""
 
     for (time in times) {
-        if (time.text() == formatted) {
-            todaylink = time.attr("abs:href")
+        if (time.text() == timeFormatter) {
+            daylink = time.attr("abs:href")
         }
     }
 
-    if (todaylink != "") {
+    if (daylink != "") {
         val todayclashs =
-            Jsoup.connect(todaylink).timeout(0).get()
+            Jsoup.connect(daylink).timeout(0).get()
         val clashs = todayclashs.getElementsByTag("a")
 
         val main_proxies = ArrayList<String>()
@@ -103,19 +100,84 @@ fun main() {
             }
         }
 
-        var proxies = "proxies:\n"
         for (proxy in main_proxies) {
             proxies = proxies + proxy + "\n"
         }
         println(proxies)
-
-        val currentPath = Paths.get(System.getProperty("user.dir"))
-        val filepath = currentPath.toString() + "/v2rayse.yaml"
-
-        Path(filepath).deleteIfExists()
-        File(filepath).bufferedWriter().use { out -> out.write(proxies) }
-
     }
+
+    return proxies
+}
+
+fun main() {
+    val rawprefix = "https://raw.githubusercontent.com"
+
+    val current = LocalDateTime.now(ZoneId.of("UTC+8"))
+    val formatter = DateTimeFormatter.ofPattern("yyyy_MM_dd")
+    val formatted = current.format(formatter)
+    println("当前日期和时间为: $formatted")
+
+    val todayproxies = ParseClash(formatted, rawprefix)
+
+    val yesterday = LocalDateTime.now(ZoneId.of("UTC+8")).minusDays(1)
+    val yesterdayformatted = yesterday.format(formatter)
+    val yesterdayproxies = ParseClash(yesterdayformatted, rawprefix)
+
+    var proxies = "proxies:\n"
+
+    proxies = proxies + todayproxies + yesterdayproxies
+    println(proxies)
+
+    val currentPath = Paths.get(System.getProperty("user.dir"))
+    val filepath = currentPath.toString() + "/v2rayse.yaml"
+
+    Path(filepath).deleteIfExists()
+    File(filepath).bufferedWriter().use { out -> out.write(proxies) }
+
+//    val data =
+//        Jsoup.connect("https://github.com/changfengoss/" +
+//                "pub/tree/main/data").timeout(0).get()
+//    val times = data.getElementsByTag("a")
+//
+//    var todaylink = ""
+//
+//    for (time in times) {
+//        if (time.text() == formatted) {
+//            todaylink = time.attr("abs:href")
+//        }
+//    }
+//
+//    if (todaylink != "") {
+//        val todayclashs =
+//            Jsoup.connect(todaylink).timeout(0).get()
+//        val clashs = todayclashs.getElementsByTag("a")
+//
+//        val main_proxies = ArrayList<String>()
+//        val main_proxies_select = ArrayList<String>()
+//
+//        for (clash in clashs) {
+//            if (clash.text().contains(".yaml")) {
+//                val url = rawprefix +
+//                        clash.attr("href")
+//                            .replace("/blob", "")
+//
+//                val (proxies, proxies_select) = ParseClash(url)
+//                main_proxies.addAll(proxies)
+//                main_proxies_select.addAll(proxies_select)
+//            }
+//        }
+//
+//        var proxies = "proxies:\n"
+//        for (proxy in main_proxies) {
+//            proxies = proxies + proxy + "\n"
+//        }
+//        println(proxies)
+
+//        val currentPath = Paths.get(System.getProperty("user.dir"))
+//        val filepath = currentPath.toString() + "/v2rayse.yaml"
+//
+//        Path(filepath).deleteIfExists()
+//        File(filepath).bufferedWriter().use { out -> out.write(proxies) }
 }
 //fun main(args: Array<String>) {
 //    val url = "https://raw.githubusercontent.com/" +

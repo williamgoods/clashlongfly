@@ -203,6 +203,56 @@ proxies:
   - {"type":"vmess","name":"🇭🇰_HK_香港_4","http-opts":{"path":["/"],"headers":{"Host":["47.242.60.8"]}},"server":"47.242.60.8","port":44161,"uuid":"bb170858-0779-484a-a708-7dc1728921cf","alterId":0,"cipher":"auto","network":"http"}
   - {"type":"trojan","name":"🇺🇸_US_美国_2","server":"43.206.84.118","port":2053,"password":"de39d941-eaf6-405d-958a-ebebe1315574","udp":true,"skip-cert-verify":true,"sni":"wel-hk.qchwnd.moe"}
   - {"type":"trojan","name":"🇭🇰_HK_香港_5","server":"1002hk1326.tfzhc.top","port":443,"password":"e1923173-673a-433f-aaed-171cbd083416","udp":true,"skip-cert-verify":true}
+  - {"type":"ss","name":"🇵🇱_PL_波兰_1","server":"217.30.10.64","port":9097,"cipher":"aes-256-cfb","password":"Sn5B7jTqr76aCJT8"}
+  - {"type":"ss","name":"🇵🇱_PL_波兰_2","server":"217.30.10.64","port":9024,"cipher":"aes-256-cfb","password":"BejrQvtu9sqUeNuZ"}
+  - {"type":"ss","name":"🇵🇱_PL_波兰_3","server":"217.30.10.64","port":9001,"cipher":"aes-256-cfb","password":"UkXRsXvR6buDMG2Y"}
+  - {"type":"ssr","name":"🇨🇳_CN_中国->🇭🇰_HK_香港_1","server":"116.162.120.24","port":562,"protocol":"auth_aes128_md5","cipher":"chacha20-ietf","obfs":"plain","password":"mblank1port","protocol-param":"53929:hjgjuy6t655jjg"}
+  - {"type":"ss","name":"🇷🇺_RU_俄罗斯联邦_1","server":"213.183.53.198","port":9058,"cipher":"aes-256-cfb","password":"dML2sfhbVwvtfNPe"}
+  - {"type":"ss","name":"🇯🇵_JP_日本","server":"193.38.139.203","port":809,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"🇵🇱_PL_波兰_4","server":"217.30.10.64","port":9064,"cipher":"aes-256-cfb","password":"cp8pRSUAyLhTfVWH"}
+  - {"type":"ss","name":"🇷🇺_RU_俄罗斯联邦_2","server":"213.183.53.198","port":9093,"cipher":"aes-256-cfb","password":"wfLC2y7rzZyCmuyt"}
+  - {"type":"ss","name":"🇵🇱_PL_波兰_5","server":"217.30.10.64","port":9041,"cipher":"aes-256-cfb","password":"U6qnYRhfyDmn8sgn"}
+  - {"type":"ss","name":"🇵🇱_PL_波兰_6","server":"217.30.10.64","port":9003,"cipher":"aes-256-cfb","password":"JdmRK9gMEqFgs8nP"}
+  - {"type":"ssr","name":"🇨🇳_CN_中国->🇭🇰_HK_香港_2","server":"116.162.120.24","port":560,"protocol":"auth_aes128_md5","cipher":"chacha20-ietf","obfs":"plain","password":"mblank1port","protocol-param":"53929:hjgjuy6t655jjg"}
+  - {"type":"ssr","name":"🇨🇳_CN_中国->🇭🇰_HK_香港_3","server":"oracle.accessconnect.cc","port":7007,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"di15PV","obfs-param":"NTBiYjUyNDQyMzYud3d3Lmdvdi5oaw==","protocol-param":"244236:kRRY5x"}
+  - {"type":"ss","name":"🇵🇱_PL_波兰_7","server":"217.30.10.64","port":9042,"cipher":"aes-256-cfb","password":"S7KwUu7yBy58S3Ga"}
+  - {"type":"ss","name":"🇵🇱_PL_波兰_8","server":"217.30.10.64","port":9043,"cipher":"aes-256-cfb","password":"HSZuyJQcWe8dxNdF"}
+  - {"type":"ss","name":"🇷🇺_RU_俄罗斯联邦_3","server":"213.183.53.198","port":9011,"cipher":"aes-256-cfb","password":"M3t2ZEQcMGRWBjRa"}
+  - {"type":"ss","name":"🇷🇺_RU_俄罗斯联邦_4","server":"213.183.53.198","port":9080,"cipher":"aes-256-cfb","password":"VP8ZPxQpJtZRCjfZ"}
+  - {"type":"ss","name":"🇷🇺_RU_俄罗斯联邦_5","server":"213.183.53.198","port":9059,"cipher":"aes-256-cfb","password":"9XwYyZsK8SNzQDtY"}
+  - {"type":"ss","name":"🇵🇱_PL_波兰_9","server":"217.30.10.64","port":9073,"cipher":"aes-256-cfb","password":"daFYagqDdBdA6VTX"}
+  - {"type":"ssr","name":"🇨🇳_CN_中国->🇯🇵_JP_日本","server":"oracle.accessconnect.cc","port":1126,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"plain","password":"di15PV","obfs-param":"NTBiYjUyNDQyMzYud3d3Lmdvdi5oaw==","protocol-param":"244236:kRRY5x"}
+  - {"type":"ssr","name":"🇨🇳_CN_中国->🇭🇰_HK_香港_4","server":"oracle.accessconnect.cc","port":7002,"protocol":"auth_aes128_md5","cipher":"chacha20-ietf","obfs":"tls1.2_ticket_auth","password":"di15PV","obfs-param":"NTBiYjUyNDQyMzYud3d3Lmdvdi5oaw==","protocol-param":"244236:kRRY5x"}
+  - {"type":"ssr","name":"🇨🇳_CN_中国->🇭🇰_HK_香港_5","server":"oracle.accessconnect.cc","port":7006,"protocol":"auth_aes128_md5","cipher":"chacha20-ietf","obfs":"tls1.2_ticket_auth","password":"di15PV","obfs-param":"NTBiYjUyNDQyMzYud3d3Lmdvdi5oaw==","protocol-param":"244236:kRRY5x"}
+  - {"type":"ss","name":"🇷🇺_RU_俄罗斯联邦_6","server":"213.183.53.198","port":9025,"cipher":"aes-256-cfb","password":"XPtzA9sCug3SPR4c"}
+  - {"type":"trojan","name":"🇸🇬_SG_新加坡->🇯🇵_JP_日本","server":"jp.liangyuandian.top","port":443,"password":"d3aeba25-8c19-42ab-a079-75b71ac43e95","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"🇭🇰_HK_香港_1","http-opts":{"path":["/"],"headers":{"Host":["47.242.60.8"]}},"server":"47.242.60.8","port":44161,"uuid":"bb170858-0779-484a-a708-7dc1728921cf","alterId":0,"cipher":"auto","network":"http"}
+  - {"type":"ssr","name":"🇨🇳_CN_中国->🇭🇰_HK_香港_6","server":"183.232.141.87","port":562,"protocol":"auth_aes128_md5","cipher":"chacha20-ietf","obfs":"plain","password":"mblank1port","obfs-param":"dC5tZS92cG5oYXQ=","protocol-param":"53929:hjgjuy6t655jjg"}
+  - {"type":"ss","name":"🇨🇳_CN_中国->🇭🇰_HK_香港_7","server":"14.29.124.174","port":11020,"cipher":"aes-128-cfb","password":"QazEdcTgb159@$*"}
+  - {"type":"ss","name":"🇵🇱_PL_波兰_10","server":"217.30.10.64","port":9026,"cipher":"aes-256-cfb","password":"QWDDvVE9npNurQfA"}
+  - {"type":"ss","name":"🇵🇱_PL_波兰_11","server":"217.30.10.64","port":9037,"cipher":"aes-256-cfb","password":"TN2YqghxeFDKZfLU"}
+  - {"type":"ss","name":"🇵🇱_PL_波兰_12","server":"217.30.10.64","port":9094,"cipher":"aes-256-cfb","password":"rpgbNnU9rDDU4aWZ"}
+  - {"type":"ss","name":"🇷🇺_RU_俄罗斯联邦_7","server":"213.183.53.198","port":9018,"cipher":"aes-256-cfb","password":"fG2artUmHfNT2cX7"}
+  - {"type":"ss","name":"🇵🇱_PL_波兰_13","server":"217.30.10.64","port":9084,"cipher":"aes-256-cfb","password":"c3NtHJ5ujV2tGDfj"}
+  - {"type":"ss","name":"🇵🇱_PL_波兰_14","server":"217.30.10.64","port":9014,"cipher":"aes-256-cfb","password":"KnJGad3FqTvjqbaX"}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇺🇸_US_美国_1","server":"112.6.212.141","port":49004,"password":"2c895be3-4dd2-4443-b586-cce567532660","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇰🇷_KR_韩国","server":"139.227.182.124","port":28158,"password":"M05d99be","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"🇭🇰_HK_香港_2","http-opts":{"path":["/"],"headers":{"Host":["47.243.18.69"]}},"server":"47.243.18.69","port":39941,"uuid":"f2f964e9-1a9b-43f9-82a5-b80ee2ccb4f7","alterId":0,"cipher":"auto","network":"http"}
+  - {"type":"ss","name":"🇷🇺_RU_俄罗斯联邦_8","server":"213.183.53.198","port":9097,"cipher":"aes-256-cfb","password":"Sn5B7jTqr76aCJT8"}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇺🇸_US_美国_2","server":"112.6.212.141","port":49005,"password":"83ba4ac8-89c7-45a3-9603-15cb312a50e3","udp":true,"skip-cert-verify":true}
+  - {"type":"ss","name":"🇵🇱_PL_波兰_15","server":"217.30.10.64","port":9033,"cipher":"aes-256-cfb","password":"UTJA57ypk2XKQpnm"}
+  - {"type":"ss","name":"🇷🇺_RU_俄罗斯联邦_9","server":"213.183.53.198","port":9014,"cipher":"aes-256-cfb","password":"KnJGad3FqTvjqbaX"}
+  - {"type":"ss","name":"🇵🇱_PL_波兰_16","server":"217.30.10.64","port":9088,"cipher":"aes-256-cfb","password":"f8npKgNzdkss2ytn"}
+  - {"type":"ss","name":"🇵🇱_PL_波兰_17","server":"217.30.10.64","port":9057,"cipher":"aes-256-cfb","password":"wjTugX3ZtHMB9c3Z"}
+  - {"type":"ss","name":"🇵🇱_PL_波兰_18","server":"217.30.10.64","port":9046,"cipher":"aes-256-cfb","password":"NvS8N4Vf8qAGPSCL"}
+  - {"type":"ss","name":"🇷🇺_RU_俄罗斯联邦_10","server":"213.183.53.198","port":9040,"cipher":"aes-256-cfb","password":"p9z5BVADH2YFs3MN"}
+  - {"type":"ss","name":"🇵🇱_PL_波兰_19","server":"217.30.10.64","port":9045,"cipher":"aes-256-cfb","password":"Lp27rqyJq72bZsqX"}
+  - {"type":"ssr","name":"🇨🇳_CN_中国->🇺🇸_US_美国_3","server":"223.166.145.12","port":568,"protocol":"auth_aes128_md5","cipher":"chacha20-ietf","obfs":"plain","password":"mblank1port","protocol-param":"53929:hjgjuy6t655jjg"}
+  - {"type":"ss","name":"🇷🇺_RU_俄罗斯联邦_11","server":"213.183.53.198","port":9003,"cipher":"aes-256-cfb","password":"JdmRK9gMEqFgs8nP"}
+  - {"type":"ss","name":"🇵🇱_PL_波兰_20","server":"217.30.10.64","port":9008,"cipher":"aes-256-cfb","password":"y9VURyNzJWNRYEGQ"}
+  - {"type":"ss","name":"🇵🇱_PL_波兰_21","server":"217.30.10.64","port":9015,"cipher":"aes-256-cfb","password":"ZpNDDKRu9MagNvaf"}
+  - {"type":"ss","name":"🇷🇺_RU_俄罗斯联邦_12","server":"213.183.53.198","port":9032,"cipher":"aes-256-cfb","password":"UWZQeLRWnkqgkseq"}
+  - {"type":"ss","name":"🇵🇱_PL_波兰_22","server":"217.30.10.64","port":9005,"cipher":"aes-256-cfb","password":"ZET59LF6DvCC8KVt"}
   - {"type":"vmess","name":"@VMESSIRANسرورهلند24مهر_1","ws-opts":{"path":"/kingis0000"},"server":"95.211.148.5","port":"36318","uuid":"318c4650-f649-448e-ceda-0aa589ac5e87","alterId":"0","cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"@VMESSIRANسرورهلند24مهر_2","ws-opts":{"path":"/asAJED564"},"server":"95.211.148.9","port":"39332","uuid":"ce88842c-59e5-486e-bac3-22c157ea753e","alterId":"0","cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"@VMESSIRANسرورهلند24مهر_3","ws-opts":{"path":"/Af5645tr"},"server":"85.17.5.150","port":"36306","uuid":"4070fdde-43d5-4b3f-dbcf-7751c77e4bf6","alterId":"0","cipher":"auto","network":"ws"}

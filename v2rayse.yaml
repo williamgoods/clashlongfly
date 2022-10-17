@@ -1,4 +1,7 @@
 proxies:
+  - {"type":"ss","name":"default_name_1","server":"103.172.116.6","port":9037,"cipher":"aes-256-cfb","password":"TN2YqghxeFDKZfLU"}
+  - {"type":"trojan","name":"🇮🇳_IN_印度","server":"jgwhdlb2.gaox.ml","port":443,"password":"54080134-2cba-4535-8599-95650bd9aa54","udp":true,"skip-cert-verify":true}
+  - {"type":"ss","name":"default_name_2","server":"103.172.116.6","port":9006,"cipher":"aes-256-cfb","password":"FAdUvMJUq5vDgKEq"}
   - {"type":"ssr","name":"www.dongtaiwang.com洛杉矶1","server":"ssrfree.zhujicn2.net","port":20001,"protocol":"auth_chain_a","cipher":"dummy","obfs":"tls1.2_ticket_auth","password":"dongtaiwang.com"}
   - {"type":"ssr","name":"www.dongtaiwang.com洛杉矶2","server":"ssrfree.zhujicn2.net","port":20002,"protocol":"auth_chain_a","cipher":"dummy","obfs":"tls1.2_ticket_auth","password":"dongtaiwang.com"}
   - {"type":"ssr","name":"www.dongtaiwang.com洛杉矶3","server":"ssrfree.zhujicn2.net","port":20003,"protocol":"auth_chain_a","cipher":"dummy","obfs":"tls1.2_ticket_auth","password":"dongtaiwang.com"}

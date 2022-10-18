@@ -89,6 +89,10 @@ proxies:
   - {"type":"hysteria","name":"Hys-1.2.3.4","server":"1.2.3.4","port":12854,"auth_str":"pekopeko","alpn":"h3","protocol":"udp","up":50,"down":250,"sni":"wechat.com","skip-cert-verify":true,"recv_window":104857600,"recv_window_conn":26214400,"disable_mtu_discovery":true}
   - {"type":"vless","name":"test","server":"1.2.3.4","port":7777,"uuid":"abc-def-ghi-fge-zsx","skip-cert-verify":true,"network":"tcp","tls":true,"udp":true}
   - {"type":"socks5","name":"telegram_proxy","server":"1.2.3.4","port":123,"username":"username","password":"password","udp":true}
+  - {"type":"trojan","name":"🇫🇷_FR_法国_1","server":"content-provider12.cdn-delivery.akamaicd.com","port":443,"password":"origin","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"🇳🇱_NL_荷兰","server":"94.177.8.87","port":23453,"uuid":"2F094845-E2BD-EBF7-DEB7-995992436FAF","alterId":0,"cipher":"auto","network":"tcp","tls":true}
+  - {"type":"vmess","name":"🇺🇸_US_美国->🇩🇪_DE_德国","ws-opts":{"path":"/dongtaiwang.com","headers":{"host":"clash2.trump2023.us"}},"server":"172.64.153.102","port":443,"uuid":"bed3d876-2d26-4d4d-b789-3063438ee774","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"trojan","name":"🇫🇷_FR_法国_2","server":"51.77.71.131","port":443,"password":"Sp3eDVp","udp":true,"skip-cert-verify":true}
   - {"type":"ssr","name":"www.dongtaiwang.com洛杉矶1","server":"ssrfree.zhujicn2.net","port":20001,"protocol":"auth_chain_a","cipher":"dummy","obfs":"tls1.2_ticket_auth","password":"dongtaiwang.com"}
   - {"type":"ssr","name":"www.dongtaiwang.com洛杉矶2","server":"ssrfree.zhujicn2.net","port":20002,"protocol":"auth_chain_a","cipher":"dummy","obfs":"tls1.2_ticket_auth","password":"dongtaiwang.com"}
   - {"type":"ssr","name":"www.dongtaiwang.com洛杉矶3","server":"ssrfree.zhujicn2.net","port":20003,"protocol":"auth_chain_a","cipher":"dummy","obfs":"tls1.2_ticket_auth","password":"dongtaiwang.com"}

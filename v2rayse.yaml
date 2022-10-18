@@ -107,6 +107,10 @@ proxies:
   - {"type":"ss","name":"default_name_2","server":"103.172.116.6","port":9006,"cipher":"aes-256-cfb","password":"FAdUvMJUq5vDgKEq"}
   - {"type":"trojan","name":"🇭🇰_HK_香港","server":"aewfhe5z1pokrkw8bi9g03.xingbayun.buzz","port":10001,"password":"862e68d2-05f3-4253-9116-819623bb7335","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"🇸🇬_SG_新加坡","server":"aewfhe5z1pokrkw8bi9g11.xingbayun.buzz","port":10001,"password":"862e68d2-05f3-4253-9116-819623bb7335","udp":true,"skip-cert-verify":true}
+  - {"type":"ss","name":"🇺🇸_US_美国","server":"167.88.62.62","port":3389,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"vmess","name":"🇨🇳_CN_中国->🇸🇦_SA_沙特阿拉伯","server":"221.181.185.153","port":11910,"uuid":"2cc15326-cd0f-34da-bbfb-f8cdc9b71eb2","alterId":0,"cipher":"auto","network":"tcp"}
+  - {"type":"trojan","name":"🇫🇷_FR_法国","server":"de.tjvpn.org","port":443,"password":"c60fbf90-4b55-11ed-b935-225401db9d57","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"🇨🇳_CN_中国->🇺🇸_US_美国","server":"221.181.185.171","port":11911,"uuid":"2cc15326-cd0f-34da-bbfb-f8cdc9b71eb2","alterId":0,"cipher":"auto","network":"tcp"}
   - {"type":"vmess","name":"🇨🇳_CN_中国->🇸🇦_SA_沙特阿拉伯","server":"221.181.185.153","port":11910,"uuid":"2cc15326-cd0f-34da-bbfb-f8cdc9b71eb2","alterId":0,"cipher":"auto","network":"tcp"}
   - {"type":"trojan","name":"🇫🇷_FR_法国_1","server":"content-provider26.cdn-delivery.akamaicd.com","port":443,"password":"origin","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"🇫🇷_FR_法国_2","server":"de.tjvpn.org","port":443,"password":"c60fbf90-4b55-11ed-b935-225401db9d57","udp":true,"skip-cert-verify":true}

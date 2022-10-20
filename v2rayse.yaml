@@ -173,6 +173,25 @@ proxies:
   - {"type":"trojan","name":"🇫🇷_FR_法国_5","server":"content-provider12.cdn-delivery.akamaicd.com","port":443,"password":"origin","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"🇯🇵_JP_日本_3","server":"aewfhe5z1pokrkw8bi9g07.xingbayun.buzz","port":10001,"password":"862e68d2-05f3-4253-9116-819623bb7335","udp":true,"skip-cert-verify":true}
   - {"type":"vmess","name":"🇭🇰_HK_香港","ws-opts":{"path":"/"},"server":"165.154.244.82","port":443,"uuid":"5282f68b-14ca-4325-a630-d911abf59c54","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"trojan","name":"🇳🇱_NL_荷兰_1","server":"185.212.200.75","port":443,"password":"Sp3eDVp","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇫🇷_FR_法国_1","server":"content-provider26.cdn-delivery.akamaicd.com","port":443,"password":"origin","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇺🇸_US_美国_1","server":"129.146.190.42","port":443,"password":"dbf9bf9c-2c3f-474a-8031-d4c00666a989","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"🇹🇼_TW_台湾","ws-opts":{"path":"/"},"server":"azt01.kctr2038.icu","port":10778,"uuid":"88939272-790a-441f-b12b-8ce531aca810","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"trojan","name":"🇫🇷_FR_法国_2","server":"content-provider5.cdn-delivery.akamaicd.com","port":443,"password":"Sp3eDVp","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇫🇷_FR_法国_3","server":"de.tjvpn.org","port":443,"password":"c60fbf90-4b55-11ed-b935-225401db9d57","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"🇺🇸_US_美国_2","ws-opts":{"path":"/"},"server":"47.87.149.164","port":443,"uuid":"5282f68b-14ca-4325-a630-d911abf59c54","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"trojan","name":"🇯🇵_JP_日本_1","server":"168.138.43.89","port":443,"password":"d06a3f01-1ff0-4792-9b8e-a5a604bc74a2","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇯🇵_JP_日本_2","server":"aewfhe5z1pokrkw8bi9g08.xingbayun.buzz","port":10001,"password":"862e68d2-05f3-4253-9116-819623bb7335","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇰🇷_KR_韩国_1","server":"kr1.api-aws.com","port":443,"password":"374e524b-834f-4764-93d2-64f9f734f596","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇫🇷_FR_法国_4","server":"51.77.71.131","port":443,"password":"Sp3eDVp","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"🇰🇷_KR_韩国_2","ws-opts":{"path":"/"},"server":"3.35.214.217","port":443,"uuid":"5282f68b-14ca-4325-a630-d911abf59c54","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ss","name":"🇨🇳_CN_中国->🇭🇰_HK_香港","server":"iplcdn.in","port":8010,"cipher":"aes-128-gcm","password":"70906fed-4f59-495e-942a-2cda06391411"}
+  - {"type":"vmess","name":"🇸🇬_SG_新加坡","server":"168.138.171.65","port":443,"uuid":"4af6fd9a-e8b4-46f2-da3a-207f4577656c","alterId":0,"cipher":"auto","network":"tcp","tls":true}
+  - {"type":"trojan","name":"🇳🇱_NL_荷兰_2","server":"content-provider23.cdn-delivery.akamaicd.com","port":443,"password":"Sp3eDVp","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇯🇵_JP_日本->🇺🇸_US_美国","server":"15.152.207.82","port":2053,"password":"de39d941-eaf6-405d-958a-ebebe1315574","udp":true,"skip-cert-verify":true,"sni":"wel-usgt.qchwnd.moe"}
+  - {"type":"trojan","name":"🇫🇷_FR_法国_5","server":"content-provider12.cdn-delivery.akamaicd.com","port":443,"password":"origin","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇯🇵_JP_日本_3","server":"aewfhe5z1pokrkw8bi9g07.xingbayun.buzz","port":10001,"password":"862e68d2-05f3-4253-9116-819623bb7335","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"🇭🇰_HK_香港","ws-opts":{"path":"/"},"server":"165.154.244.82","port":443,"uuid":"5282f68b-14ca-4325-a630-d911abf59c54","alterId":0,"cipher":"auto","network":"ws"}
   - {"type":"ss","name":"t.me/wbnet_🇫🇮_FI_1","server":"135.181.114.242","port":8478,"cipher":"chacha20-ietf-poly1305","password":"siF98xBL2v1i"}
   - {"type":"ss","name":"t.me/wbnet_🇦🇪_AE_2","server":"217.138.193.10","port":809,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
   - {"type":"ss","name":"t.me/wbnet_🇦🇪_AE_3","server":"217.138.193.10","port":808,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}

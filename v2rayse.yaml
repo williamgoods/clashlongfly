@@ -311,6 +311,16 @@ proxies:
   - {"type":"trojan","name":"🇯🇵_JP_日本_3","server":"aewfhe5z1pokrkw8bi9g07.xingbayun.buzz","port":10001,"password":"862e68d2-05f3-4253-9116-819623bb7335","udp":true,"skip-cert-verify":true}
   - {"type":"vmess","name":"🇭🇰_HK_香港","ws-opts":{"path":"/"},"server":"165.154.244.82","port":443,"uuid":"5282f68b-14ca-4325-a630-d911abf59c54","alterId":0,"cipher":"auto","network":"ws"}
   - {"type":"trojan","name":"🇺🇸_US_美国","server":"45.33.109.181","port":10002,"password":"862e68d2-05f3-4253-9116-819623bb7335","udp":true,"skip-cert-verify":true,"sni":"aewfhe5z1pokrkw8bi9g16.xingbayun.buzz"}
+  - {"type":"trojan","name":"🇺🇸_US_美国_1","server":"143.198.237.122","port":10002,"password":"862e68d2-05f3-4253-9116-819623bb7335","udp":true,"skip-cert-verify":true,"sni":"aewfhe5z1pokrkw8bi9g13.xingbayun.buzz"}
+  - {"type":"trojan","name":"🇺🇸_US_美国_2","server":"45.33.109.181","port":10002,"password":"862e68d2-05f3-4253-9116-819623bb7335","udp":true,"skip-cert-verify":true,"sni":"aewfhe5z1pokrkw8bi9g16.xingbayun.buzz"}
+  - {"type":"trojan","name":"🇺🇸_US_美国_3","server":"170.187.240.199","port":10003,"password":"862e68d2-05f3-4253-9116-819623bb7335","udp":true,"skip-cert-verify":true,"sni":"aewfhe5z1pokrkw8bi9g27.xingbayun.buzz"}
+  - {"type":"trojan","name":"🇺🇸_US_美国_4","server":"139.144.183.244","port":10020,"password":"862e68d2-05f3-4253-9116-819623bb7335","udp":true,"skip-cert-verify":true,"sni":"aewfhe5z1pokrkw8bi9g18.xingbayun.buzz"}
+  - {"type":"trojan","name":"🇰🇷_KR_韩国","server":"kr1.api-aws.com","port":443,"password":"545034ab-8179-46ea-a7d4-a5c992cce000","udp":true,"skip-cert-verify":true}
+  - {"type":"ss","name":"🇨🇳_CN_中国->🇭🇰_HK_香港","server":"iplcdn.in","port":8010,"cipher":"aes-128-gcm","password":"70906fed-4f59-495e-942a-2cda06391411"}
+  - {"type":"trojan","name":"🇯🇵_JP_日本_1","server":"aewfhe5z1pokrkw8bi9g05.xingbayun.buzz","port":10001,"password":"862e68d2-05f3-4253-9116-819623bb7335","udp":true,"skip-cert-verify":true,"sni":"aewfhe5z1pokrkw8bi9g05.xingbayun.buzz"}
+  - {"type":"trojan","name":"🇯🇵_JP_日本_2","server":"172.105.237.183","port":10001,"password":"862e68d2-05f3-4253-9116-819623bb7335","udp":true,"skip-cert-verify":true,"sni":"aewfhe5z1pokrkw8bi9g06.xingbayun.buzz"}
+  - {"type":"trojan","name":"🇭🇰_HK_香港_1","server":"aewfhe5z1pokrkw8bi9g03.xingbayun.buzz","port":10001,"password":"862e68d2-05f3-4253-9116-819623bb7335","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇭🇰_HK_香港_2","server":"16.163.103.71","port":10001,"password":"862e68d2-05f3-4253-9116-819623bb7335","udp":true,"skip-cert-verify":true,"sni":"aewfhe5z1pokrkw8bi9g03.xingbayun.buzz"}
   - {"type":"ss","name":"t.me/wbnet_🇫🇮_FI_1","server":"135.181.114.242","port":8478,"cipher":"chacha20-ietf-poly1305","password":"siF98xBL2v1i"}
   - {"type":"ss","name":"t.me/wbnet_🇦🇪_AE_2","server":"217.138.193.10","port":809,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
   - {"type":"ss","name":"t.me/wbnet_🇦🇪_AE_3","server":"217.138.193.10","port":808,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}

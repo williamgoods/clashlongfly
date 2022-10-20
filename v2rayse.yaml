@@ -9,6 +9,53 @@ proxies:
   - {"type":"vmess","name":"🇸🇬_SG_新加坡","ws-opts":{"path":"/","headers":{"host":"ar.linkedin.com"}},"server":"madush.duckdns.org","port":40515,"uuid":"f0e69c63-99e9-455c-a8ae-cbab068c7481","alterId":0,"cipher":"auto","network":"ws"}
   - {"type":"trojan","name":"🇺🇸_US_美国","server":"node-do-us-1.gitspeed.cyou","port":443,"password":"pNDxTmWL","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"🇫🇷_FR_法国","server":"content-provider5.cdn-delivery.akamaicd.com","port":443,"password":"Sp3eDVp","udp":true,"skip-cert-verify":true}
+  - {"type":"ss","name":"香港+01+[1.5]","server":"moblev2.mipglxi.cn","port":5601,"cipher":"aes-128-gcm","password":"27fdeaac-dee2-469d-928f-4de839daac45"}
+  - {"type":"ss","name":"香港+02+[1.5]","server":"moblev2.mipglxi.cn","port":5602,"cipher":"aes-128-gcm","password":"27fdeaac-dee2-469d-928f-4de839daac45"}
+  - {"type":"ss","name":"香港+03+[1.5]","server":"moblev2.mipglxi.cn","port":5603,"cipher":"aes-128-gcm","password":"27fdeaac-dee2-469d-928f-4de839daac45"}
+  - {"type":"ss","name":"香港+04+[1.5]","server":"moblev2.mipglxi.cn","port":5604,"cipher":"aes-128-gcm","password":"27fdeaac-dee2-469d-928f-4de839daac45"}
+  - {"type":"ss","name":"香港+05+[1.5]","server":"moblev2.mipglxi.cn","port":5605,"cipher":"aes-128-gcm","password":"27fdeaac-dee2-469d-928f-4de839daac45"}
+  - {"type":"ss","name":"香港+06+[1.5]","server":"moblev2.mipglxi.cn","port":5606,"cipher":"aes-128-gcm","password":"27fdeaac-dee2-469d-928f-4de839daac45"}
+  - {"type":"ss","name":"香港+07+[1.5]","server":"moblev2.mipglxi.cn","port":5607,"cipher":"aes-128-gcm","password":"27fdeaac-dee2-469d-928f-4de839daac45"}
+  - {"type":"ss","name":"香港+08+[1.5]","server":"moblev2.mipglxi.cn","port":5608,"cipher":"aes-128-gcm","password":"27fdeaac-dee2-469d-928f-4de839daac45"}
+  - {"type":"ss","name":"日本+01+[1.5]","server":"unicomv2.mipglxi.cn","port":5615,"cipher":"aes-128-gcm","password":"27fdeaac-dee2-469d-928f-4de839daac45"}
+  - {"type":"ss","name":"日本+02+[1.5]","server":"unicomv2.mipglxi.cn","port":5616,"cipher":"aes-128-gcm","password":"27fdeaac-dee2-469d-928f-4de839daac45"}
+  - {"type":"ss","name":"日本+04+[1.5]","server":"unicomv2.mipglxi.cn","port":5618,"cipher":"aes-128-gcm","password":"27fdeaac-dee2-469d-928f-4de839daac45"}
+  - {"type":"ss","name":"日本+05+[1.5]","server":"unicomv2.mipglxi.cn","port":5619,"cipher":"aes-128-gcm","password":"27fdeaac-dee2-469d-928f-4de839daac45"}
+  - {"type":"ss","name":"日本+06+[1.5]","server":"unicomv2.mipglxi.cn","port":5620,"cipher":"aes-128-gcm","password":"27fdeaac-dee2-469d-928f-4de839daac45"}
+  - {"type":"ss","name":"台湾+01+[1.5]","server":"moblev2.mipglxi.cn","port":5621,"cipher":"aes-128-gcm","password":"27fdeaac-dee2-469d-928f-4de839daac45"}
+  - {"type":"ss","name":"台湾+02+[1.5]","server":"moblev2.mipglxi.cn","port":5622,"cipher":"aes-128-gcm","password":"27fdeaac-dee2-469d-928f-4de839daac45"}
+  - {"type":"ss","name":"台湾+03+[1.5]","server":"moblev2.mipglxi.cn","port":5623,"cipher":"aes-128-gcm","password":"27fdeaac-dee2-469d-928f-4de839daac45"}
+  - {"type":"ss","name":"台湾+04+[1.5]","server":"moblev2.mipglxi.cn","port":5624,"cipher":"aes-128-gcm","password":"27fdeaac-dee2-469d-928f-4de839daac45"}
+  - {"type":"ss","name":"台湾+05+[1.5]","server":"moblev2.mipglxi.cn","port":5625,"cipher":"aes-128-gcm","password":"27fdeaac-dee2-469d-928f-4de839daac45"}
+  - {"type":"ss","name":"台湾+06+[1.5]","server":"moblev2.mipglxi.cn","port":5626,"cipher":"aes-128-gcm","password":"27fdeaac-dee2-469d-928f-4de839daac45"}
+  - {"type":"ss","name":"美国+01+[1.5]","server":"unicomus.mipglxi.cn","port":5627,"cipher":"aes-128-gcm","password":"27fdeaac-dee2-469d-928f-4de839daac45"}
+  - {"type":"ss","name":"美国+02+[1.5]","server":"unicomus.mipglxi.cn","port":5628,"cipher":"aes-128-gcm","password":"27fdeaac-dee2-469d-928f-4de839daac45"}
+  - {"type":"ss","name":"美国+03+[1.5]","server":"unicomus.mipglxi.cn","port":5629,"cipher":"aes-128-gcm","password":"27fdeaac-dee2-469d-928f-4de839daac45"}
+  - {"type":"ss","name":"美国+04+[1.5]","server":"unicomus.mipglxi.cn","port":5630,"cipher":"aes-128-gcm","password":"27fdeaac-dee2-469d-928f-4de839daac45"}
+  - {"type":"ss","name":"美国+06+[1.5]","server":"unicomus.mipglxi.cn","port":5632,"cipher":"aes-128-gcm","password":"27fdeaac-dee2-469d-928f-4de839daac45"}
+  - {"type":"vmess","name":"香港01","server":"120.226.189.121","port":"26010","uuid":"969a2445-04d8-3f35-abe0-15fd31e05585","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"香港02","server":"120.226.189.121","port":"26011","uuid":"969a2445-04d8-3f35-abe0-15fd31e05585","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"香港03","server":"120.226.189.121","port":"26012","uuid":"969a2445-04d8-3f35-abe0-15fd31e05585","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"香港04","server":"120.226.189.121","port":"26013","uuid":"969a2445-04d8-3f35-abe0-15fd31e05585","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"香港05","server":"120.226.189.121","port":"26014","uuid":"969a2445-04d8-3f35-abe0-15fd31e05585","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"香港06","server":"120.226.189.121","port":"26015","uuid":"969a2445-04d8-3f35-abe0-15fd31e05585","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"台湾01","server":"120.226.189.121","port":"26059","uuid":"969a2445-04d8-3f35-abe0-15fd31e05585","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"台湾02","server":"120.226.189.121","port":"26060","uuid":"969a2445-04d8-3f35-abe0-15fd31e05585","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"台湾03","server":"120.226.189.121","port":"26061","uuid":"969a2445-04d8-3f35-abe0-15fd31e05585","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"台湾04","server":"120.226.189.121","port":"26062","uuid":"969a2445-04d8-3f35-abe0-15fd31e05585","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"日本01","server":"120.226.189.121","port":"26006","uuid":"969a2445-04d8-3f35-abe0-15fd31e05585","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"日本02","server":"120.226.189.121","port":"26007","uuid":"969a2445-04d8-3f35-abe0-15fd31e05585","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"日本03","server":"120.226.189.121","port":"26008","uuid":"969a2445-04d8-3f35-abe0-15fd31e05585","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"日本04","server":"120.226.189.121","port":"26009","uuid":"969a2445-04d8-3f35-abe0-15fd31e05585","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"韩国01","server":"120.226.189.121","port":"26072","uuid":"969a2445-04d8-3f35-abe0-15fd31e05585","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"韩国02","server":"120.226.189.121","port":"26073","uuid":"969a2445-04d8-3f35-abe0-15fd31e05585","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"韩国03","server":"120.226.189.121","port":"26074","uuid":"969a2445-04d8-3f35-abe0-15fd31e05585","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"韩国04","server":"120.226.189.121","port":"26075","uuid":"969a2445-04d8-3f35-abe0-15fd31e05585","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"新加坡_1","server":"120.226.189.121","port":"26020","uuid":"969a2445-04d8-3f35-abe0-15fd31e05585","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"新加坡_2","server":"120.226.189.121","port":"26021","uuid":"969a2445-04d8-3f35-abe0-15fd31e05585","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"新加坡_3","server":"120.226.189.121","port":"26022","uuid":"969a2445-04d8-3f35-abe0-15fd31e05585","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"新加坡_4","server":"120.226.189.121","port":"26023","uuid":"969a2445-04d8-3f35-abe0-15fd31e05585","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"美国01","server":"116.129.254.6","port":"26001","uuid":"969a2445-04d8-3f35-abe0-15fd31e05585","alterId":"0","cipher":"auto","network":"tcp"}
   - {"type":"trojan","name":"🇺🇸_US_美国_1","server":"143.198.237.122","port":10002,"password":"862e68d2-05f3-4253-9116-819623bb7335","udp":true,"skip-cert-verify":true,"sni":"aewfhe5z1pokrkw8bi9g13.xingbayun.buzz"}
   - {"type":"trojan","name":"🇺🇸_US_美国_2","server":"45.33.109.181","port":10002,"password":"862e68d2-05f3-4253-9116-819623bb7335","udp":true,"skip-cert-verify":true,"sni":"aewfhe5z1pokrkw8bi9g16.xingbayun.buzz"}
   - {"type":"trojan","name":"🇺🇸_US_美国_3","server":"170.187.240.199","port":10003,"password":"862e68d2-05f3-4253-9116-819623bb7335","udp":true,"skip-cert-verify":true,"sni":"aewfhe5z1pokrkw8bi9g27.xingbayun.buzz"}

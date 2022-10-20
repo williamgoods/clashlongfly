@@ -408,6 +408,15 @@ proxies:
   - {"type":"ss","name":"台湾_(TG频道univstar)_124","server":"fn600mlines021.fnline.info","port":443,"cipher":"chacha20-ietf-poly1305","password":"0ac84efef442","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","tls":true,"host":"fn600mlines021.fnline.info"}}
   - {"type":"ss","name":"中国_(TG频道univstar)_125","server":"14.29.124.174","port":11032,"cipher":"aes-128-cfb","password":"QazEdcTgb159@$*"}
   - {"type":"vmess","name":"(TG频道univstar)_126","ws-opts":{"path":"/b356a4/","headers":{"host":"1dcelis.qiqis.ml"}},"server":"qiqis.cf","port":"443","uuid":"4e6d153c-e5b2-4911-bc72-e11c64f3ce93","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"🇨🇳_CN_中国","server":"120.226.189.121","port":26073,"uuid":"969a2445-04d8-3f35-abe0-15fd31e05585","alterId":0,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇬🇧_GB_英国","server":"185.194.30.40","port":23453,"uuid":"2F094845-E2BD-EBF7-DEB7-995992436FAF","alterId":0,"cipher":"auto","network":"tcp","tls":true}
+  - {"type":"trojan","name":"🇫🇷_FR_法国_1","server":"51.75.76.22","port":443,"password":"c60fbf90-4b55-11ed-b935-225401db9d57","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"🇭🇰_HK_香港","server":"165.154.244.29","port":443,"uuid":"e13a9c42-54d6-4fe1-9578-0ca3bfc17122","alterId":0,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇸🇬_SG_新加坡_1","ws-opts":{"path":"/"},"server":"18.143.123.35","port":80,"uuid":"68df4838-46d0-4b5b-c3f0-a40ec7063245","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇸🇬_SG_新加坡_2","server":"168.138.171.65","port":443,"uuid":"4af6fd9a-e8b4-46f2-da3a-207f4577656c","alterId":0,"cipher":"auto","network":"tcp","tls":true}
+  - {"type":"trojan","name":"🇫🇷_FR_法国_2","server":"de.tjvpn.org","port":443,"password":"c60fbf90-4b55-11ed-b935-225401db9d57","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"🇺🇸_US_美国","server":"tr.33yun.xyz","port":33003,"uuid":"27c24fb6-9c82-4278-bf19-1658e0579795","alterId":0,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳_CN_中国->🇭🇰_HK_香港","server":"4.3.1.fuckppppp.today","port":58418,"uuid":"244effd9-0204-3c4a-8537-0dca4e5fd9b5","alterId":0,"cipher":"auto","network":"tcp"}
   - {"type":"trojan","name":"🇳🇱_NL_荷兰_1","server":"185.212.200.75","port":443,"password":"Sp3eDVp","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"🇫🇷_FR_法国_1","server":"content-provider26.cdn-delivery.akamaicd.com","port":443,"password":"origin","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"🇺🇸_US_美国_1","server":"129.146.190.42","port":443,"password":"dbf9bf9c-2c3f-474a-8031-d4c00666a989","udp":true,"skip-cert-verify":true}

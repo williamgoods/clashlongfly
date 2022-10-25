@@ -1,4 +1,14 @@
 proxies:
+  - {"type":"trojan","name":"🇸🇬_SG_新加坡_1","server":"5.44.249.45","port":3389,"password":"faf42aa0a9ad4c1e","udp":true,"skip-cert-verify":true,"sni":"5.44.249.45"}
+  - {"type":"trojan","name":"🇹🇼_TW_台湾","server":"download1tw.windowsupdate.lol","port":443,"password":"6248895b-4255-4f07-9479-d198bc1eb8db","udp":true,"skip-cert-verify":true,"sni":"dc1-download.windowsupdate1.com"}
+  - {"type":"vmess","name":"🇺🇸_US_美国_1","server":"45.33.59.108","port":50449,"uuid":"b0d194d9-2e63-4806-87c1-318ad3d0501d","alterId":0,"cipher":"auto","network":"tcp"}
+  - {"type":"ss","name":"🇺🇸_US_美国_2","server":"45.33.59.108","port":23910,"cipher":"aes-256-gcm","password":"YlFiRlA1RW1FUlRsMGxJbUZRZTEwNXVMU0hEdHdaVDZ0ckVuMHROZ2U0djhRTXlkVlZpQmtLTUxEV0FHZkszRQ=="}
+  - {"type":"trojan","name":"🇸🇬_SG_新加坡_2","server":"5.44.249.43","port":3389,"password":"faf42aa0a9ad4c1e","udp":true,"skip-cert-verify":true,"sni":"5.44.249.43"}
+  - {"type":"vmess","name":"🇭🇰_HK_香港->🇬🇧_GB_英国","ws-opts":{"path":"/aries","headers":{"host":"uk.cloudflare.quest"}},"server":"8.210.159.196","port":2086,"uuid":"ad1454a4-c9e2-4836-c98d-66e3646c2aa4","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"trojan","name":"default_name_1","server":"idc1.vpn-akcelluler.my.id","port":443,"password":"idc117okt","udp":true,"skip-cert-verify":true,"sni":"idc1.vpn-akcelluler.my.id"}
+  - {"type":"trojan","name":"🇭🇰_HK_香港->🇯🇵_JP_日本","server":"219.76.13.180","port":443,"password":"F3CSSRxD8uljgF73IAn34C3aE9wSqAzZDp5ZOCpxDBRacNYelOYayKTe826Xy0","udp":true,"skip-cert-verify":true,"sni":"stutter.freetrade.link"}
+  - {"type":"trojan","name":"🇸🇬_SG_新加坡_3","server":"5.44.249.42","port":3389,"password":"faf42aa0a9ad4c1e","udp":true,"skip-cert-verify":true,"sni":"5.44.249.42"}
+  - {"type":"trojan","name":"default_name_2","server":"103.176.78.153","port":443,"password":"idc117okt","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"🇨🇳_CN_中国->🇺🇸_US_美国","server":"183.245.146.6","port":11002,"password":"24913fd0-a94b-4ed9-9b0e-fddb06af63d3","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"🇨🇳_CN_中国->🇯🇵_JP_日本_1","server":"111.29.60.217","port":11001,"password":"24913fd0-a94b-4ed9-9b0e-fddb06af63d3","udp":true,"skip-cert-verify":true,"sni":"65-108-102-32.nhost.00cdn.com"}
   - {"type":"trojan","name":"🇨🇳_CN_中国->🇹🇼_TW_台湾_1","server":"117.164.185.220","port":41001,"password":"24913fd0-a94b-4ed9-9b0e-fddb06af63d3","udp":true,"skip-cert-verify":true,"sni":"65-108-102-32.nhost.00cdn.com"}

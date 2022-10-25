@@ -1,4 +1,8 @@
 proxies:
+  - {"type":"ss","name":"v2rayse_test_1","server":"198.57.27.218","port":5004,"cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId"}
+  - {"type":"vmess","name":"v2rayse_test_2","server":"154.23.190.162","port":443,"uuid":"b9984674-f771-4e67-a198-c7e60720ba2c","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"v2rayse_test_3","server":"20.239.49.44","port":59814,"protocol":"origin","cipher":"dummy","obfs":"plain","password":"3df57276-03ef-45cf-bdd4-4edb6dfaa0ef"}
+  - {"type":"trojan","name":"v2rayse_test_4","server":"ca-trojan.bonds.id","port":443,"password":"bc7593fe-0604-4fbe-a70bYWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTaclWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"🇸🇬_SG_新加坡_1","server":"5.44.249.45","port":3389,"password":"faf42aa0a9ad4c1e","udp":true,"skip-cert-verify":true,"sni":"5.44.249.45"}
   - {"type":"trojan","name":"🇹🇼_TW_台湾","server":"download1tw.windowsupdate.lol","port":443,"password":"6248895b-4255-4f07-9479-d198bc1eb8db","udp":true,"skip-cert-verify":true,"sni":"dc1-download.windowsupdate1.com"}
   - {"type":"vmess","name":"🇺🇸_US_美国_1","server":"45.33.59.108","port":50449,"uuid":"b0d194d9-2e63-4806-87c1-318ad3d0501d","alterId":0,"cipher":"auto","network":"tcp"}

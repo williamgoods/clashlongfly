@@ -1,4 +1,70 @@
 proxies:
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇺🇸_US_美国","server":"183.245.146.6","port":11002,"password":"24913fd0-a94b-4ed9-9b0e-fddb06af63d3","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇯🇵_JP_日本_1","server":"111.29.60.217","port":11001,"password":"24913fd0-a94b-4ed9-9b0e-fddb06af63d3","udp":true,"skip-cert-verify":true,"sni":"65-108-102-32.nhost.00cdn.com"}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇹🇼_TW_台湾_1","server":"117.164.185.220","port":41001,"password":"24913fd0-a94b-4ed9-9b0e-fddb06af63d3","udp":true,"skip-cert-verify":true,"sni":"65-108-102-32.nhost.00cdn.com"}
+  - {"type":"ss","name":"🇳🇱_NL_荷兰","server":"213.183.59.185","port":9046,"cipher":"aes-256-cfb","password":"NvS8N4Vf8qAGPSCL"}
+  - {"type":"vmess","name":"🇷🇺_RU_俄罗斯联邦","server":"pf.napsternetv.com","port":40046,"uuid":"2F094845-E2BD-EBF7-DEB7-995992436FAF","alterId":0,"cipher":"auto","network":"tcp","tls":true}
+  - {"type":"trojan","name":"🇭🇰_HK_香港->🇸🇬_SG_新加坡","server":"219.76.13.175","port":443,"password":"ZlYZ0KxC8uxngp736aR34y3TaFwFOC95DO2XR8yeeAD3cESNDSCBqAYIjpaSlz","udp":true,"skip-cert-verify":true,"sni":"python.protocolbuffer.com"}
+  - {"type":"trojan","name":"default_name_1","server":"103.176.78.153","port":443,"password":"idc117okt","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇹🇼_TW_台湾_2","server":"iplc.xiaohouzi.club","port":20029,"password":"c32c56fb-64d9-33c4-b42a-af81b7a33fe7","udp":true,"skip-cert-verify":true,"sni":"nh-hinet02.xiaohouzi.club"}
+  - {"type":"ssr","name":"🇨🇳_CN_中国->🇯🇵_JP_日本_2","server":"42.157.195.244","port":12127,"protocol":"auth_aes128_sha1","cipher":"aes-256-cfb","obfs":"http_simple","password":"68xdgu9eyif","obfs-param":"TUdZd09UazJNREEzTnpjdWRqSXpaamR1VFRBPQ==","protocol-param":"600777:154T8b"}
+  - {"type":"trojan","name":"default_name_2","server":"idc1.vpn-akcelluler.my.id","port":443,"password":"idc117okt","udp":true,"skip-cert-verify":true,"sni":"idc1.vpn-akcelluler.my.id"}
+  - {"type":"trojan","name":"🇭🇰_HK_香港","server":"219.76.13.180","port":443,"password":"F3CSSRxD8uljgF73IAn34C3aE9wSqAzZDp5ZOCpxDBRacNYelOYayKTe826Xy0","udp":true,"skip-cert-verify":true,"sni":"stutter.freetrade.link"}
+  - {"type":"trojan","name":"🇺🇸_US_美国->🇦🇺_AU_澳大利亚","server":"ap.liangyuandian.top","port":443,"password":"53f20cd4-b381-4a80-8059-7bcd484bbb52","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇺🇸_US_美国_1","server":"45.82.253.237","port":443,"password":"6248895b-4255-4f07-9479-d198bc1eb8db","udp":true,"skip-cert-verify":true,"sni":"dc1-download.windowsupdate1.com"}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇹🇼_TW_台湾","server":"183.232.141.154","port":19214,"password":"a992be42-bed4-3037-8788-9e860cd635d3","udp":true,"skip-cert-verify":true}
+  - {"type":"ss","name":"🇳🇱_NL_荷兰_1","server":"213.183.59.185","port":9057,"cipher":"aes-256-cfb","password":"wjTugX3ZtHMB9c3Z"}
+  - {"type":"trojan","name":"🇺🇸_US_美国_2","server":"45.88.148.237","port":443,"password":"6248895b-4255-4f07-9479-d198bc1eb8db","udp":true,"skip-cert-verify":true,"sni":"dc1-download.windowsupdate1.com"}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇱🇹_LT_立陶宛","server":"183.245.146.6","port":21001,"password":"24913fd0-a94b-4ed9-9b0e-fddb06af63d3","udp":true,"skip-cert-verify":true,"sni":"65-108-102-32.nhost.00cdn.com"}
+  - {"type":"trojan","name":"🇰🇷_KR_韩国_1","server":"15.164.177.214","port":443,"password":"6248895b-4255-4f07-9479-d198bc1eb8db","udp":true,"skip-cert-verify":true,"sni":"dc1-download.windowsupdate1.com"}
+  - {"type":"vmess","name":"🇮🇱_IL_以色列","ws-opts":{"path":"/"},"server":"129.159.139.101","port":443,"uuid":"b7519a6f-c1de-4667-e606-b60c65d19078","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"ss","name":"🇳🇱_NL_荷兰_2","server":"213.183.59.185","port":9025,"cipher":"aes-256-cfb","password":"XPtzA9sCug3SPR4c"}
+  - {"type":"vmess","name":"🇷🇺_RU_俄罗斯联邦_1","server":"pf.napsternetv.com","port":40046,"uuid":"2F094845-E2BD-EBF7-DEB7-995992436FAF","alterId":0,"cipher":"auto","network":"tcp","tls":true}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇭🇰_HK_香港","server":"183.232.141.154","port":19202,"password":"a992be42-bed4-3037-8788-9e860cd635d3","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇯🇵_JP_日本_1","server":"c47ab06.pf.glados-config.net","port":3389,"password":"7b06d22a8a7c764f","udp":true,"skip-cert-verify":true,"sni":"n2.gladns.com"}
+  - {"type":"ss","name":"🇷🇺_RU_俄罗斯联邦_2","server":"213.183.53.222","port":9042,"cipher":"aes-256-cfb","password":"S7KwUu7yBy58S3Ga"}
+  - {"type":"vmess","name":"🇰🇷_KR_韩国_2","ws-opts":{"path":"/"},"server":"152.70.88.47","port":10486,"uuid":"9eaabb90-c98b-4fa3-9890-8622d53c878c","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ss","name":"🇳🇱_NL_荷兰_3","server":"213.183.59.229","port":9045,"cipher":"aes-256-cfb","password":"Lp27rqyJq72bZsqX"}
+  - {"type":"ss","name":"🇳🇱_NL_荷兰_4","server":"213.183.59.185","port":9031,"cipher":"aes-256-cfb","password":"BwcAUZk8hUFAkDGN"}
+  - {"type":"trojan","name":"🇯🇵_JP_日本_2","server":"c47ab06.pc.glados-config.net","port":3389,"password":"7b06d22a8a7c764f","udp":true,"skip-cert-verify":true,"sni":"n2.gladns.com"}
+  - {"type":"ss","name":"🇷🇺_RU_俄罗斯联邦_3","server":"213.183.53.222","port":9058,"cipher":"aes-256-cfb","password":"dML2sfhbVwvtfNPe"}
+  - {"type":"trojan","name":"default_name","server":"103.176.78.153","port":443,"password":"idc117okt","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"🇺🇸_US_美国_3","ws-opts":{"path":"/"},"server":"138.2.66.153","port":10011,"uuid":"04235a12-7668-46f0-c9f1-def54682c8ef","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"trojan","name":"🇭🇰_HK_香港->🇸🇬_SG_新加坡","server":"219.76.13.175","port":443,"password":"ZlYZ0KxC8uxngp736aR34y3TaFwFOC95DO2XR8yeeAD3cESNDSCBqAYIjpaSlz","udp":true,"skip-cert-verify":true,"sni":"python.protocolbuffer.com"}
+  - {"type":"ss","name":"🇳🇱_NL_荷兰_5","server":"213.183.59.185","port":9059,"cipher":"aes-256-cfb","password":"9XwYyZsK8SNzQDtY"}
+  - {"type":"trojan","name":"🇨🇳_CN_中国","server":"183.245.146.6","port":21002,"password":"24913fd0-a94b-4ed9-9b0e-fddb06af63d3","udp":true,"skip-cert-verify":true,"sni":"65-108-102-32.nhost.00cdn.com"}
+  - {"type":"trojan","name":"🇺🇸_US_美国_1","server":"45.82.253.237","port":443,"password":"6248895b-4255-4f07-9479-d198bc1eb8db","udp":true,"skip-cert-verify":true,"sni":"dc1-download.windowsupdate1.com"}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇹🇼_TW_台湾","server":"183.232.141.154","port":19214,"password":"a992be42-bed4-3037-8788-9e860cd635d3","udp":true,"skip-cert-verify":true}
+  - {"type":"ss","name":"🇳🇱_NL_荷兰_1","server":"213.183.59.185","port":9057,"cipher":"aes-256-cfb","password":"wjTugX3ZtHMB9c3Z"}
+  - {"type":"trojan","name":"🇺🇸_US_美国_2","server":"45.88.148.237","port":443,"password":"6248895b-4255-4f07-9479-d198bc1eb8db","udp":true,"skip-cert-verify":true,"sni":"dc1-download.windowsupdate1.com"}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇱🇹_LT_立陶宛","server":"183.245.146.6","port":21001,"password":"24913fd0-a94b-4ed9-9b0e-fddb06af63d3","udp":true,"skip-cert-verify":true,"sni":"65-108-102-32.nhost.00cdn.com"}
+  - {"type":"trojan","name":"🇰🇷_KR_韩国","server":"15.164.177.214","port":443,"password":"6248895b-4255-4f07-9479-d198bc1eb8db","udp":true,"skip-cert-verify":true,"sni":"dc1-download.windowsupdate1.com"}
+  - {"type":"vmess","name":"🇮🇱_IL_以色列","ws-opts":{"path":"/"},"server":"129.159.139.101","port":443,"uuid":"b7519a6f-c1de-4667-e606-b60c65d19078","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"ss","name":"🇳🇱_NL_荷兰_2","server":"213.183.59.185","port":9025,"cipher":"aes-256-cfb","password":"XPtzA9sCug3SPR4c"}
+  - {"type":"vmess","name":"🇷🇺_RU_俄罗斯联邦","server":"pf.napsternetv.com","port":40046,"uuid":"2F094845-E2BD-EBF7-DEB7-995992436FAF","alterId":0,"cipher":"auto","network":"tcp","tls":true}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇭🇰_HK_香港","server":"183.232.141.154","port":19202,"password":"a992be42-bed4-3037-8788-9e860cd635d3","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇺🇸_US_美国_1","server":"45.82.253.237","port":443,"password":"6248895b-4255-4f07-9479-d198bc1eb8db","udp":true,"skip-cert-verify":true,"sni":"dc1-download.windowsupdate1.com"}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇹🇼_TW_台湾","server":"183.232.141.154","port":19214,"password":"a992be42-bed4-3037-8788-9e860cd635d3","udp":true,"skip-cert-verify":true}
+  - {"type":"ss","name":"🇳🇱_NL_荷兰_1","server":"213.183.59.185","port":9057,"cipher":"aes-256-cfb","password":"wjTugX3ZtHMB9c3Z"}
+  - {"type":"trojan","name":"🇺🇸_US_美国_2","server":"45.88.148.237","port":443,"password":"6248895b-4255-4f07-9479-d198bc1eb8db","udp":true,"skip-cert-verify":true,"sni":"dc1-download.windowsupdate1.com"}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇱🇹_LT_立陶宛","server":"183.245.146.6","port":21001,"password":"24913fd0-a94b-4ed9-9b0e-fddb06af63d3","udp":true,"skip-cert-verify":true,"sni":"65-108-102-32.nhost.00cdn.com"}
+  - {"type":"trojan","name":"🇰🇷_KR_韩国_1","server":"15.164.177.214","port":443,"password":"6248895b-4255-4f07-9479-d198bc1eb8db","udp":true,"skip-cert-verify":true,"sni":"dc1-download.windowsupdate1.com"}
+  - {"type":"vmess","name":"🇮🇱_IL_以色列","ws-opts":{"path":"/"},"server":"129.159.139.101","port":443,"uuid":"b7519a6f-c1de-4667-e606-b60c65d19078","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"ss","name":"🇳🇱_NL_荷兰_2","server":"213.183.59.185","port":9025,"cipher":"aes-256-cfb","password":"XPtzA9sCug3SPR4c"}
+  - {"type":"vmess","name":"🇷🇺_RU_俄罗斯联邦_1","server":"pf.napsternetv.com","port":40046,"uuid":"2F094845-E2BD-EBF7-DEB7-995992436FAF","alterId":0,"cipher":"auto","network":"tcp","tls":true}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇭🇰_HK_香港","server":"183.232.141.154","port":19202,"password":"a992be42-bed4-3037-8788-9e860cd635d3","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇯🇵_JP_日本_1","server":"c47ab06.pf.glados-config.net","port":3389,"password":"7b06d22a8a7c764f","udp":true,"skip-cert-verify":true,"sni":"n2.gladns.com"}
+  - {"type":"ss","name":"🇷🇺_RU_俄罗斯联邦_2","server":"213.183.53.222","port":9042,"cipher":"aes-256-cfb","password":"S7KwUu7yBy58S3Ga"}
+  - {"type":"vmess","name":"🇰🇷_KR_韩国_2","ws-opts":{"path":"/"},"server":"152.70.88.47","port":10486,"uuid":"9eaabb90-c98b-4fa3-9890-8622d53c878c","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ss","name":"🇳🇱_NL_荷兰_3","server":"213.183.59.229","port":9045,"cipher":"aes-256-cfb","password":"Lp27rqyJq72bZsqX"}
+  - {"type":"ss","name":"🇳🇱_NL_荷兰_4","server":"213.183.59.185","port":9031,"cipher":"aes-256-cfb","password":"BwcAUZk8hUFAkDGN"}
+  - {"type":"trojan","name":"🇯🇵_JP_日本_2","server":"c47ab06.pc.glados-config.net","port":3389,"password":"7b06d22a8a7c764f","udp":true,"skip-cert-verify":true,"sni":"n2.gladns.com"}
+  - {"type":"ss","name":"🇷🇺_RU_俄罗斯联邦_3","server":"213.183.53.222","port":9058,"cipher":"aes-256-cfb","password":"dML2sfhbVwvtfNPe"}
+  - {"type":"trojan","name":"default_name","server":"103.176.78.153","port":443,"password":"idc117okt","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"🇺🇸_US_美国_3","ws-opts":{"path":"/"},"server":"138.2.66.153","port":10011,"uuid":"04235a12-7668-46f0-c9f1-def54682c8ef","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"trojan","name":"🇭🇰_HK_香港->🇸🇬_SG_新加坡","server":"219.76.13.175","port":443,"password":"ZlYZ0KxC8uxngp736aR34y3TaFwFOC95DO2XR8yeeAD3cESNDSCBqAYIjpaSlz","udp":true,"skip-cert-verify":true,"sni":"python.protocolbuffer.com"}
+  - {"type":"ss","name":"🇳🇱_NL_荷兰_5","server":"213.183.59.185","port":9059,"cipher":"aes-256-cfb","password":"9XwYyZsK8SNzQDtY"}
+  - {"type":"trojan","name":"🇨🇳_CN_中国","server":"183.245.146.6","port":21002,"password":"24913fd0-a94b-4ed9-9b0e-fddb06af63d3","udp":true,"skip-cert-verify":true,"sni":"65-108-102-32.nhost.00cdn.com"}
   - {"type":"vmess","name":"🇸🇬_SG_新加坡_1","server":"168.138.171.65","port":443,"uuid":"4af6fd9a-e8b4-46f2-da3a-207f4577656c","alterId":0,"cipher":"auto","network":"tcp","tls":true}
   - {"type":"trojan","name":"🇺🇸_US_美国_1","server":"jgwcc2.gaox.ml","port":443,"password":"9c822f05-cfdc-479a-9534-60f3d4127435","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"default_name","server":"idc1.vpn-akcelluler.my.id","port":443,"password":"idc117okt","udp":true,"skip-cert-verify":true,"sni":"idc1.vpn-akcelluler.my.id"}

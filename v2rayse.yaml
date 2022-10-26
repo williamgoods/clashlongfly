@@ -1,4 +1,19 @@
 proxies:
+  - {"type":"trojan","name":"🇸🇬_SG_新加坡_1","server":"5.44.249.42","port":3389,"password":"7b06d22a8a7c764f","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇸🇬_SG_新加坡_2","server":"5.44.249.45","port":3389,"password":"6c8b18adb11737af","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇸🇬_SG_新加坡_3","server":"5.44.249.44","port":3389,"password":"faf42aa0a9ad4c1e","udp":true,"skip-cert-verify":true,"sni":"5.44.249.44"}
+  - {"type":"ss","name":"🇷🇺_RU_俄罗斯联邦","server":"213.183.53.221","port":9058,"cipher":"aes-256-cfb","password":"dML2sfhbVwvtfNPe"}
+  - {"type":"trojan","name":"🇸🇬_SG_新加坡_4","server":"5.44.249.43","port":3389,"password":"7b06d22a8a7c764f","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇸🇬_SG_新加坡_1","server":"5.44.249.42","port":3389,"password":"7b06d22a8a7c764f","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇸🇬_SG_新加坡_2","server":"5.44.249.45","port":3389,"password":"6c8b18adb11737af","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇸🇬_SG_新加坡_3","server":"5.44.249.44","port":3389,"password":"faf42aa0a9ad4c1e","udp":true,"skip-cert-verify":true,"sni":"5.44.249.44"}
+  - {"type":"ss","name":"🇷🇺_RU_俄罗斯联邦","server":"213.183.53.221","port":9058,"cipher":"aes-256-cfb","password":"dML2sfhbVwvtfNPe"}
+  - {"type":"trojan","name":"🇸🇬_SG_新加坡_4","server":"5.44.249.43","port":3389,"password":"7b06d22a8a7c764f","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇸🇬_SG_新加坡_1","server":"5.44.249.42","port":3389,"password":"7b06d22a8a7c764f","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇸🇬_SG_新加坡_2","server":"5.44.249.45","port":3389,"password":"6c8b18adb11737af","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇸🇬_SG_新加坡_3","server":"5.44.249.44","port":3389,"password":"faf42aa0a9ad4c1e","udp":true,"skip-cert-verify":true,"sni":"5.44.249.44"}
+  - {"type":"ss","name":"🇷🇺_RU_俄罗斯联邦","server":"213.183.53.221","port":9058,"cipher":"aes-256-cfb","password":"dML2sfhbVwvtfNPe"}
+  - {"type":"trojan","name":"🇸🇬_SG_新加坡_4","server":"5.44.249.43","port":3389,"password":"7b06d22a8a7c764f","udp":true,"skip-cert-verify":true}
   - {"type":"ss","name":"v2rayse_test_1","server":"198.57.27.218","port":5004,"cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId"}
   - {"type":"vmess","name":"v2rayse_test_2","server":"154.23.190.162","port":443,"uuid":"b9984674-f771-4e67-a198-c7e60720ba2c","alterId":"0","cipher":"auto","network":"ws"}
   - {"type":"ssr","name":"v2rayse_test_3","server":"20.239.49.44","port":59814,"protocol":"origin","cipher":"dummy","obfs":"plain","password":"3df57276-03ef-45cf-bdd4-4edb6dfaa0ef"}

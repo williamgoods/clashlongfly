@@ -1,4 +1,6 @@
 proxies:
+  - {"type":"trojan","name":"🇲🇴_MO_澳门","server":"45.64.22.55","port":443,"password":"Me650d5Uec2c3iwJ","udp":true,"skip-cert-verify":true,"sni":"service.fireplay.io"}
+  - {"type":"vmess","name":"🇷🇺_RU_俄罗斯联邦","server":"pf.napsternetv.com","port":34146,"uuid":"2F094845-E2BD-EBF7-DEB7-995992436FAF","alterId":0,"cipher":"auto","network":"tcp","tls":true}
   - {"type":"trojan","name":"🇺🇸_US_美国","server":"27fr.networklinkpro.net","port":443,"password":"e392bfdd-d4ce-4df2-9534-fef23f037121","udp":true,"skip-cert-verify":true}
   - {"type":"ss","name":"🇯🇵_JP_日本_1","server":"85.208.108.60","port":8091,"cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27"}
   - {"type":"vmess","name":"🇨🇳_CN_中国->🇺🇸_US_美国","server":"111.45.22.136","port":11910,"uuid":"454f865f-2660-3acb-a453-7c2382954196","alterId":0,"cipher":"auto","network":"tcp"}

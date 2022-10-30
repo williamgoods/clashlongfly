@@ -1,4 +1,12 @@
 proxies:
+  - {"type":"vmess","name":"🇸🇬_SG_新加坡","ws-opts":{"path":"/"},"server":"128.199.109.233","port":80,"uuid":"af92e301-273c-4dab-bb38-995ba630ec67","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"trojan","name":"🇲🇴_MO_澳门->🇸🇬_SG_新加坡","server":"45.64.22.55","port":443,"password":"ZDAAFTxBNu5j9pl3Re834a3xSXwOZYeIlE30Dp86qc7yYgKaDCaROCSSnz2FCy","udp":true,"skip-cert-verify":true,"sni":"csharp.protocolbuffer.com"}
+  - {"type":"trojan","name":"🇺🇸_US_美国","server":"samkr.xyz","port":443,"password":"Sam123321","udp":true,"skip-cert-verify":true,"sni":"samkr.xyz"}
+  - {"type":"vmess","name":"🇷🇺_RU_俄罗斯联邦->🇩🇪_DE_德国","server":"pf.napsternetv.com","port":34147,"uuid":"2F094845-E2BD-EBF7-DEB7-995992436FAF","alterId":0,"cipher":"auto","network":"tcp","tls":true}
+  - {"type":"trojan","name":"🇮🇩_ID_印度尼西亚","server":"103.226.139.201","port":443,"password":"idc117okt","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇺🇸_US_美国->🇭🇰_HK_香港","server":"zf1.windowsupdate1.com","port":50040,"password":"275d9aa8-b271-43d1-b1cf-1f3e6e881047","udp":true,"skip-cert-verify":true,"sni":"zf1.windowsupdate1.com"}
+  - {"type":"trojan","name":"🇰🇷_KR_韩国->🇸🇬_SG_新加坡","server":"121.78.213.3","port":443,"password":"ZRYSly2IRuFlgpZCaep3Ey3DDXqTDczO04aeC8F36OjaYSCABnA573wN8xxK9S","udp":true,"skip-cert-verify":true,"sni":"httah.freetrade.link"}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇳🇱_NL_荷兰","server":"223.111.122.199","port":30090,"password":"275d9aa8-b271-43d1-b1cf-1f3e6e881047","udp":true,"skip-cert-verify":true,"sni":"glc.hruqoaw.cn"}
   - {"type":"trojan","name":"🇲🇴_MO_澳门","server":"45.64.22.55","port":443,"password":"Me650d5Uec2c3iwJ","udp":true,"skip-cert-verify":true,"sni":"service.fireplay.io"}
   - {"type":"vmess","name":"🇷🇺_RU_俄罗斯联邦","server":"pf.napsternetv.com","port":34146,"uuid":"2F094845-E2BD-EBF7-DEB7-995992436FAF","alterId":0,"cipher":"auto","network":"tcp","tls":true}
   - {"type":"vmess","name":"🇸🇬_SG_新加坡","ws-opts":{"path":"/"},"server":"128.199.109.233","port":80,"uuid":"af92e301-273c-4dab-bb38-995ba630ec67","alterId":0,"cipher":"auto","network":"ws"}

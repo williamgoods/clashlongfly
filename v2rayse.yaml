@@ -1,4 +1,30 @@
 proxies:
+  - {"type":"vmess","name":"🇷🇺_RU_俄罗斯联邦->🇩🇪_DE_德国","server":"91.243.82.15","port":34147,"uuid":"2F094845-E2BD-EBF7-DEB7-995992436FAF","alterId":0,"cipher":"auto","network":"tcp","tls":true}
+  - {"type":"ss","name":"🇨🇦_CA_加拿大","server":"134.195.198.106","port":8009,"cipher":"aes-256-gcm","password":"XKFKl2rULjIp74"}
+  - {"type":"vmess","name":"🇺🇸_US_美国","http-opts":{"path":["/"]},"server":"154.85.62.219","port":56924,"uuid":"6c086fcc-6b05-4a28-9c3d-30a949585b25","alterId":0,"cipher":"auto","network":"http"}
+  - {"type":"ssr","name":"🇸🇬_SG_新加坡","server":"sg-am3.eqsunshine.com","port":32001,"protocol":"origin","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","password":"3g0dHlKME"}
+  - {"type":"trojan","name":"🇨🇦_CA_加拿大->🇸🇬_SG_新加坡","server":"univstar.167.114.67.25.sslip.io","port":443,"password":"ZRYSly2IRuFlgpZCaep3Ey3DDXqTDczO04aeC8F36OjaYSCABnA573wN8xxK9S","udp":true,"skip-cert-verify":true,"sni":"httah.freetrade.link"}
+  - {"type":"trojan","name":"🇮🇩_ID_印度尼西亚","server":"103.226.139.201","port":443,"password":"idc117okt","udp":true,"skip-cert-verify":true}
+  - {"type":"ssr","name":"🇯🇵_JP_日本","server":"jp-am48-6.eqnode.net","port":8081,"protocol":"origin","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","password":"eAokbaDN6"}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇺🇸_US_美国","server":"oss-cn-shanghai.westdatacloud.xyz","port":20048,"password":"30030B00-A596-87B4-965A-511CD7E05351","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"🇭🇰_HK_香港","http-opts":{"path":["/"]},"server":"156.240.115.144","port":60489,"uuid":"d04d549f-ce8f-4c02-84aa-414fa7d437f8","alterId":0,"cipher":"auto","network":"http"}
+  - {"type":"trojan","name":"🇭🇰_HK_香港->🇸🇬_SG_新加坡","server":"47.52.101.237","port":443,"password":"A5gRXcqzaSY2lN87FaDxx34Ka33ROYj9eSZFIDCueEyl8ySBn0TpwC3OCApDZ6","udp":true,"skip-cert-verify":true,"sni":"rmoinee.freetrade.link"}
+  - {"type":"vmess","name":"🇷🇺_RU_俄罗斯联邦->🇩🇪_DE_德国","server":"91.243.82.15","port":34147,"uuid":"2F094845-E2BD-EBF7-DEB7-995992436FAF","alterId":0,"cipher":"auto","network":"tcp","tls":true}
+  - {"type":"ss","name":"🇨🇦_CA_加拿大","server":"134.195.198.106","port":8009,"cipher":"aes-256-gcm","password":"XKFKl2rULjIp74"}
+  - {"type":"vmess","name":"🇺🇸_US_美国_1","http-opts":{"path":["/"]},"server":"154.85.62.219","port":56924,"uuid":"6c086fcc-6b05-4a28-9c3d-30a949585b25","alterId":0,"cipher":"auto","network":"http"}
+  - {"type":"ssr","name":"🇸🇬_SG_新加坡","server":"sg-am3.eqsunshine.com","port":32001,"protocol":"origin","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","password":"3g0dHlKME"}
+  - {"type":"trojan","name":"🇨🇦_CA_加拿大->🇸🇬_SG_新加坡","server":"univstar.167.114.67.25.sslip.io","port":443,"password":"ZRYSly2IRuFlgpZCaep3Ey3DDXqTDczO04aeC8F36OjaYSCABnA573wN8xxK9S","udp":true,"skip-cert-verify":true,"sni":"httah.freetrade.link"}
+  - {"type":"trojan","name":"🇮🇩_ID_印度尼西亚_1","server":"103.226.139.201","port":443,"password":"idc117okt","udp":true,"skip-cert-verify":true}
+  - {"type":"ssr","name":"🇯🇵_JP_日本","server":"jp-am48-6.eqnode.net","port":8081,"protocol":"origin","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","password":"eAokbaDN6"}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇺🇸_US_美国","server":"oss-cn-shanghai.westdatacloud.xyz","port":20048,"password":"30030B00-A596-87B4-965A-511CD7E05351","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"🇭🇰_HK_香港_1","http-opts":{"path":["/"]},"server":"156.240.115.144","port":60489,"uuid":"d04d549f-ce8f-4c02-84aa-414fa7d437f8","alterId":0,"cipher":"auto","network":"http"}
+  - {"type":"trojan","name":"🇭🇰_HK_香港->🇸🇬_SG_新加坡","server":"47.52.101.237","port":443,"password":"A5gRXcqzaSY2lN87FaDxx34Ka33ROYj9eSZFIDCueEyl8ySBn0TpwC3OCApDZ6","udp":true,"skip-cert-verify":true,"sni":"rmoinee.freetrade.link"}
+  - {"type":"trojan","name":"🇲🇴_MO_澳门->🇯🇵_JP_日本","server":"45.64.22.55","port":443,"password":"ZEIR0qFZau9jOp7x6e8e4y3AaXwS2SzD3llxTyRYKCF8DCD3c5Y3pgNnaSOBAC","udp":true,"skip-cert-verify":true,"sni":"tensely.freetrade.link"}
+  - {"type":"trojan","name":"🇮🇩_ID_印度尼西亚_2","server":"idc1.vpn-akcelluler.my.id","port":443,"password":"idc117okt","udp":true,"skip-cert-verify":true,"sni":"idc1.vpn-akcelluler.my.id"}
+  - {"type":"trojan","name":"🇺🇸_US_美国_2","server":"ussj.iamnotagoodman.com","port":443,"password":"e785e5d2-a05e-486c-8b4f-78b205382b4e","udp":true,"skip-cert-verify":true}
+  - {"type":"ss","name":"🇺🇸_US_美国_3","server":"167.88.61.119","port":8009,"cipher":"aes-256-gcm","password":"XKFKl2rULjIp74"}
+  - {"type":"trojan","name":"🇭🇰_HK_香港_2","server":"45.136.14.70","port":15410,"password":"6A30qqSh8W","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"default_name","ws-opts":{"path":"/"},"server":"ca.0112233.xyz","port":443,"uuid":"c3000e9d-bee7-4fdb-b312-dd07030f325d","alterId":0,"cipher":"auto","network":"ws","tls":true}
   - {"type":"ss","name":"🇺🇸_US_美国_1","server":"167.88.61.119","port":7002,"cipher":"aes-256-gcm","password":"RexnBgU7EV5ADxG"}
   - {"type":"trojan","name":"🇺🇸_US_美国_2","server":"20.24.192.3","port":20712,"password":"ca2345ba-46e7-3991-b1b7-45d18954caf1","udp":true,"skip-cert-verify":true,"sni":"ssl.ssl12.xyz"}
   - {"type":"trojan","name":"🇭🇰_HK_香港->🇸🇬_SG_新加坡_1","server":"47.52.101.237","port":443,"password":"A5gRXcqzaSY2lN87FaDxx34Ka33ROYj9eSZFIDCueEyl8ySBn0TpwC3OCApDZ6","udp":true,"skip-cert-verify":true,"sni":"rmoinee.freetrade.link"}

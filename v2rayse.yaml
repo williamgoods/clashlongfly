@@ -1,4 +1,5 @@
 proxies:
+  - {"type":"http","name":"http_proxy","server":"43.142.103.115","port":8888,"udp":true}
   - {"type":"vmess","name":"🇺🇸_US_美国_1","server":"202.144.192.27","port":51134,"uuid":"54a9bd0e-bc83-431f-933c-c0cc614236b1","alterId":0,"cipher":"auto","network":"tcp"}
   - {"type":"vmess","name":"🇷🇺_RU_俄罗斯联邦","server":"91.243.82.15","port":34146,"uuid":"2F094845-E2BD-EBF7-DEB7-995992436FAF","alterId":0,"cipher":"auto","network":"tcp","tls":true}
   - {"type":"trojan","name":"🇺🇸_US_美国_2","server":"kr05.wangxd.life","port":443,"password":"3a2c0c6c-9ee5-c05f-c951-fcd73831983e","udp":true,"skip-cert-verify":true}

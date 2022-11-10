@@ -1,4 +1,12 @@
 proxies:
+  - {"type":"trojan","name":"唯云专线_tg+univstar1","server":"211.99.96.117","port":65022,"password":"967126bb-b719-36c3-977c-6409aff8c899","udp":true,"skip-cert-verify":true,"sni":"dl.sg6.cc.tjcct.xyz"}
+  - {"type":"trojan","name":"唯云专线_tg+univstar2","server":"211.99.96.118","port":65023,"password":"967126bb-b719-36c3-977c-6409aff8c899","udp":true,"skip-cert-verify":true,"sni":"dl.sghgch3.cc.tjcct.xyz"}
+  - {"type":"trojan","name":"唯云专线_tg+univstar3","server":"211.99.96.117","port":65025,"password":"967126bb-b719-36c3-977c-6409aff8c899","udp":true,"skip-cert-verify":true,"sni":"dl.sg7.cc.tjcct.xyz"}
+  - {"type":"trojan","name":"唯云专线_tg+univstar4","server":"211.99.96.117","port":65025,"password":"967126bb-b719-36c3-977c-6409aff8c899","udp":true,"skip-cert-verify":true,"sni":"dl.sg7.cc.tjcct.xyz"}
+  - {"type":"trojan","name":"唯云专线_tg+univstar5","server":"211.99.96.117","port":65302,"password":"967126bb-b719-36c3-977c-6409aff8c899","udp":true,"skip-cert-verify":true,"sni":"dl.sghkta.cc.tjcct.xyz"}
+  - {"type":"trojan","name":"唯云专线_tg+univstar6","server":"211.99.96.118","port":65501,"password":"967126bb-b719-36c3-977c-6409aff8c899","udp":true,"skip-cert-verify":true,"sni":"dl.sg2.cc.tjcct.xyz"}
+  - {"type":"trojan","name":"唯云专线_tg+univstar7","server":"211.99.96.117","port":65522,"password":"967126bb-b719-36c3-977c-6409aff8c899","udp":true,"skip-cert-verify":true,"sni":"dl.sg1.cc.tjcct.xyz"}
+  - {"type":"trojan","name":"唯云专线_tg+univstar8","server":"211.99.96.117","port":65523,"password":"967126bb-b719-36c3-977c-6409aff8c899","udp":true,"skip-cert-verify":true,"sni":"dl.sg3.cc.tjcct.xyz"}
   - {"type":"trojan","name":"🇭🇰_HK_香港->🇯🇵_JP_日本","server":"219.76.13.180","port":443,"password":"F3CSSRxD8uljgF73IAn34C3aE9wSqAzZDp5ZOCpxDBRacNYelOYayKTe826Xy0","udp":true,"skip-cert-verify":true,"sni":"stutter.freetrade.link"}
   - {"type":"ss","name":"🇨🇳_CN_中国->🇬🇧_GB_英国","server":"apollo.cn.v4.hdsky.org","port":23201,"cipher":"chacha20-ietf-poly1305","password":"f32f863d-2e3c-4bf3-9f95-049f22e2302d"}
   - {"type":"vmess","name":"🇭🇰_HK_香港_1","http-opts":{"path":["/"]},"server":"47.243.36.34","port":55986,"uuid":"87ed289f-cae3-49b4-bbe3-23da298c0e81","alterId":0,"cipher":"auto","network":"http"}

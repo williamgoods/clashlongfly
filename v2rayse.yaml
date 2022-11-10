@@ -1,4 +1,18 @@
 proxies:
+  - {"type":"ss","name":"🇺🇸_US_美国_1","server":"54.191.177.147","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇺🇸_US_美国_1","server":"223.111.202.148","port":30020,"password":"6b4ced5e-835a-4a7a-9d03-6a46e94668cb","udp":true,"skip-cert-verify":true,"sni":"mzy.hruqoaw.cn"}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇺🇸_US_美国_2","server":"223.111.202.148","port":30030,"password":"6b4ced5e-835a-4a7a-9d03-6a46e94668cb","udp":true,"skip-cert-verify":true,"sni":"mzy.hruqoaw.cn"}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇺🇸_US_美国_3","server":"223.111.202.148","port":30010,"password":"6b4ced5e-835a-4a7a-9d03-6a46e94668cb","udp":true,"skip-cert-verify":true,"sni":"mzy.hruqoaw.cn"}
+  - {"type":"vmess","name":"🇱🇺_LU_卢森堡->🇫🇷_FR_法国","ws-opts":{"path":"/"},"server":"frs.xlkjjs.top","port":443,"uuid":"2451d1d1-b50c-3aea-83a6-d1ff3e966fad","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇩🇪_DE_德国","server":"223.111.202.148","port":30070,"password":"6b4ced5e-835a-4a7a-9d03-6a46e94668cb","udp":true,"skip-cert-verify":true,"sni":"mzy.hruqoaw.cn"}
+  - {"type":"ss","name":"🇺🇸_US_美国_2","server":"35.92.135.123","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
+  - {"type":"ss","name":"🇯🇵_JP_日本_1","server":"18.183.134.201","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
+  - {"type":"ss","name":"🇺🇸_US_美国_3","server":"18.237.70.232","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
+  - {"type":"ssr","name":"🇯🇵_JP_日本_2","server":"jp-am48-6.eqnode.net","port":8081,"protocol":"origin","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","password":"eAokbaDN6"}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇭🇰_HK_香港","server":"223.111.202.148","port":30100,"password":"6b4ced5e-835a-4a7a-9d03-6a46e94668cb","udp":true,"skip-cert-verify":true,"sni":"mzy.hruqoaw.cn"}
+  - {"type":"ssr","name":"🇸🇬_SG_新加坡_1","server":"sg-am3.eqsunshine.com","port":32001,"protocol":"origin","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","password":"3g0dHlKME"}
+  - {"type":"ss","name":"🇸🇬_SG_新加坡_2","server":"13.215.254.97","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
+  - {"type":"ss","name":"🇸🇬_SG_新加坡_3","server":"52.77.255.130","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
   - {"type":"trojan","name":"唯云专线_tg+univstar1","server":"211.99.96.117","port":65022,"password":"967126bb-b719-36c3-977c-6409aff8c899","udp":true,"skip-cert-verify":true,"sni":"dl.sg6.cc.tjcct.xyz"}
   - {"type":"trojan","name":"唯云专线_tg+univstar2","server":"211.99.96.118","port":65023,"password":"967126bb-b719-36c3-977c-6409aff8c899","udp":true,"skip-cert-verify":true,"sni":"dl.sghgch3.cc.tjcct.xyz"}
   - {"type":"trojan","name":"唯云专线_tg+univstar3","server":"211.99.96.117","port":65025,"password":"967126bb-b719-36c3-977c-6409aff8c899","udp":true,"skip-cert-verify":true,"sni":"dl.sg7.cc.tjcct.xyz"}

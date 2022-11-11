@@ -1,4 +1,16 @@
 proxies:
+  - {"type":"trojan","name":"🇭🇰_HK_香港","server":"hk-02.proxyvip.top","port":23002,"password":"66ab1fb2-48c4-4587-978f-a44d1cfd68de","udp":true,"skip-cert-verify":true}
+  - {"type":"ssr","name":"🇯🇵_JP_日本_1","server":"jp-am48-6.eqnode.net","port":8081,"protocol":"origin","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","password":"eAokbaDN6"}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇯🇵_JP_日本","server":"official.tokyometropolis.kiev.ua","port":2053,"password":"96983eb4-c8f1-316e-ab00-500014ed3d8b","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇯🇵_JP_日本_2","server":"trs07.bolab.net","port":443,"password":"14bdba6dede262387ebdebaa706e1c90","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"🇸🇬_SG_新加坡","http-opts":{"path":["/"]},"server":"8.218.63.184","port":20113,"uuid":"cdc72c7d-6ab8-4cb4-a0f7-18b0ec7bfbfa","alterId":0,"cipher":"auto","network":"http"}
+  - {"type":"trojan","name":"🇯🇵_JP_日本_3","server":"trs12.bolab.net","port":443,"password":"14bdba6dede262387ebdebaa706e1c90","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇬🇧_GB_英国","server":"20002.purefast2.com","port":20002,"password":"83a3b688-04e5-3c28-85b7-82698a174e41","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇹🇼_TW_台湾_1","server":"official.taipeicitygovernment.com.ua","port":8443,"password":"96983eb4-c8f1-316e-ab00-500014ed3d8b","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇹🇼_TW_台湾_2","server":"official.taipeicitygovernment.co.ua","port":8443,"password":"96983eb4-c8f1-316e-ab00-500014ed3d8b","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"🇺🇸_US_美国","ws-opts":{"path":"/"},"server":"43.200.181.74","port":42517,"uuid":"b5b5209f-bcbd-4bac-b044-0d179698c62d","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇹🇼_TW_台湾_3","server":"official.taipeicitygovernment.kyiv.ua","port":8443,"password":"96983eb4-c8f1-316e-ab00-500014ed3d8b","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"🇨🇭_CH_瑞士","ws-opts":{"path":"/","headers":{"host":"www.liuyiyang19891222.tk"}},"server":"www.liuyiyang19891222.tk","port":443,"uuid":"ad48ebeb-f949-472b-9717-e8c8f0f7984d","alterId":0,"cipher":"auto","network":"ws","tls":true}
   - {"type":"ss","name":"🇺🇸_US_美国_1","server":"54.191.177.147","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
   - {"type":"trojan","name":"🇨🇳_CN_中国->🇺🇸_US_美国_1","server":"223.111.202.148","port":30020,"password":"6b4ced5e-835a-4a7a-9d03-6a46e94668cb","udp":true,"skip-cert-verify":true,"sni":"mzy.hruqoaw.cn"}
   - {"type":"trojan","name":"🇨🇳_CN_中国->🇺🇸_US_美国_2","server":"223.111.202.148","port":30030,"password":"6b4ced5e-835a-4a7a-9d03-6a46e94668cb","udp":true,"skip-cert-verify":true,"sni":"mzy.hruqoaw.cn"}

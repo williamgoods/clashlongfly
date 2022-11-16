@@ -49,6 +49,7 @@ proxies:
   - {"type":"ss","name":"🇨🇳_CN_中国_3","server":"211.99.114.100","port":43719,"cipher":"aes-128-gcm","password":"6afcc0c41d6846f1"}
   - {"type":"ss","name":"🇨🇳_CN_中国->🇺🇸_US_美国_7","server":"180.101.133.70","port":45225,"cipher":"aes-128-gcm","password":"6afcc0c41d6846f1"}
   - {"type":"ss","name":"🇨🇳_CN_中国->🇯🇵_JP_日本_6","server":"180.101.133.70","port":46868,"cipher":"aes-128-gcm","password":"6afcc0c41d6846f1"}
+  - {"type":"vmess","name":"Alien","ws-opts":{"path":"ws","headers":{"host":"free-sg-01.unblocknetflix.cf"}},"server":"free-sg-01.unblocknetflix.cf","port":"443","uuid":"402d7490-6d4b-42d4-80ed-e681b0e6f1f9","alterId":"0","cipher":"auto","network":"ws","tls":true}
   - {"type":"ss","name":"🇸🇬_SG_新加坡","server":"13.215.254.97","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
   - {"type":"ssr","name":"🇯🇵_JP_日本","server":"jp-am48-6.eqnode.net","port":8081,"protocol":"origin","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","password":"eAokbaDN6"}
   - {"type":"ssr","name":"🇨🇳_CN_中国->🇳🇱_NL_荷兰","server":"eduall.buzzline.org","port":611,"protocol":"auth_aes128_md5","cipher":"chacha20-ietf","obfs":"plain","password":"mblank1port","obfs-param":"VkZkd1QySldjSFJWVkU1T1ZrVldNVmxzWkhOaGJVNTBUMWh3YVUxc2IzZFVSekZQWkcxS1Vn","protocol-param":"63809:SVIPTIZ8"}

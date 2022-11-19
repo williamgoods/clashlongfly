@@ -1,4 +1,10 @@
 proxies:
+  - {"type":"trojan","name":"🇺🇸_US_美国_1","server":"147.182.228.64","port":10001,"password":"496202d8-19c4-4023-ad85-04217a74e790","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇬🇧_GB_英国","server":"178.62.44.237","port":10001,"password":"496202d8-19c4-4023-ad85-04217a74e790","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇫🇷_FR_法国","server":"51.77.71.134","port":443,"password":"origin","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇺🇸_US_美国_2","server":"143.110.235.62","port":10001,"password":"496202d8-19c4-4023-ad85-04217a74e790","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇺🇸_US_美国_3","server":"164.90.146.171","port":10001,"password":"496202d8-19c4-4023-ad85-04217a74e790","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇺🇸_US_美国_4","server":"146.190.234.44","port":10001,"password":"496202d8-19c4-4023-ad85-04217a74e790","udp":true,"skip-cert-verify":true}
   - {"type":"vmess","name":"default_name_1","ws-opts":{"path":"/","headers":{"host":"xui.mycf.ml"}},"server":"techplanet.today","port":2083,"uuid":"8a21b84d-183e-450d-ec82-8d45855d8180","alterId":0,"cipher":"auto","network":"ws","tls":true}
   - {"type":"vmess","name":"default_name_2","ws-opts":{"path":"/dongtaiwang.com","headers":{"host":"clash6.ssr-free.xyz"}},"server":"198.41.212.150","port":443,"uuid":"5f64fa65-7b14-49c5-954d-aa15c6bfcacd","alterId":0,"cipher":"auto","network":"ws","tls":true}
   - {"type":"vmess","name":"🇺🇸_US_美国_1","ws-opts":{"path":"/hfhqqweqwxxx"},"server":"jp1.mayaa.cf","port":443,"uuid":"595b4629-116d-4fe1-dcab-d2a6b112b81a","alterId":0,"cipher":"auto","network":"ws","tls":true}

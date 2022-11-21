@@ -1,1 +1,3 @@
 proxies:
+  - {"type":"vmess","name":"@aries_init-NATVPSUK_UK🇬🇧-iPv6直连","ws-opts":{"path":"/aries"},"server":"uk.oppo.quest","port":"2086","uuid":"80837af3-1ed8-4686-fa8a-6bf9214d5351","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"@aries_init-NATVPSUK_UK🇬🇧-iPv6直连","ws-opts":{"path":"/aries"},"server":"uk.oppo.quest","port":"2086","uuid":"80837af3-1ed8-4686-fa8a-6bf9214d5351","alterId":"0","cipher":"auto","network":"ws"}

@@ -17,6 +17,36 @@ proxies:
   - {"type":"hysteria","name":"Hys-1.2.3.4","server":"1.2.3.4","port":12854,"auth_str":"pekopeko","alpn":"h3","protocol":"udp","up":50,"down":250,"sni":"wechat.com","skip-cert-verify":true,"recv_window":104857600,"recv_window_conn":26214400,"disable_mtu_discovery":true}
   - {"type":"vless","name":"test","server":"1.2.3.4","port":7777,"uuid":"abc-def-ghi-fge-zsx","skip-cert-verify":true,"network":"tcp","tls":true,"udp":true}
   - {"type":"socks5","name":"telegram_proxy","server":"1.2.3.4","port":123,"username":"username","password":"password","udp":true}
+allow-lan: true
+mode: Rule
+log-level: info
+external-controller: 0.0.0.0:9090
+dns:
+  enabled: true
+  nameserver:
+    - 119.29.29.29
+    - 223.5.5.5
+  fallback:
+    - 8.8.8.8
+    - 8.8.4.4
+    - tls://1.0.0.1:853
+    - tls://dns.google:853
+proxies: []
+allow-lan: true
+mode: Rule
+log-level: info
+external-controller: 0.0.0.0:9090
+dns:
+  enabled: true
+  nameserver:
+    - 119.29.29.29
+    - 223.5.5.5
+  fallback:
+    - 8.8.8.8
+    - 8.8.4.4
+    - tls://1.0.0.1:853
+    - tls://dns.google:853
+proxies: []
   - {"type":"trojan","name":"🇨🇳_CN_中国->🇦🇷_AR_阿根廷","server":"client.asucaeva.net","port":31007,"password":"3a06a53d-9969-4490-b34b-9d6c56a1b3e2","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"🇨🇳_CN_中国->🇹🇷_TR_土耳其","server":"client.asucaeva.net","port":33002,"password":"3a06a53d-9969-4490-b34b-9d6c56a1b3e2","udp":true,"skip-cert-verify":true}
   - {"type":"vmess","name":"🇸🇬_SG_新加坡","server":"lll.277428.xyz","port":40771,"uuid":"61194810-5193-48bc-eb0a-7978a059d681","alterId":0,"cipher":"auto","network":"tcp","tls":true}

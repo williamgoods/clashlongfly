@@ -1,3 +1,43 @@
 proxies:
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇦🇷_AR_阿根廷","server":"client.asucaeva.net","port":31007,"password":"3a06a53d-9969-4490-b34b-9d6c56a1b3e2","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇹🇷_TR_土耳其","server":"client.asucaeva.net","port":33002,"password":"3a06a53d-9969-4490-b34b-9d6c56a1b3e2","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"🇸🇬_SG_新加坡","server":"lll.277428.xyz","port":40771,"uuid":"61194810-5193-48bc-eb0a-7978a059d681","alterId":0,"cipher":"auto","network":"tcp","tls":true}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇩🇪_DE_德国","server":"client.asucaeva.net","port":37001,"password":"3a06a53d-9969-4490-b34b-9d6c56a1b3e2","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇳🇱_NL_荷兰_1","server":"content-provider23.cdn-delivery.akamaicd.com","port":443,"password":"Sp3eDVp","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇫🇷_FR_法国_1","server":"content-provider12.cdn-delivery.akamaicd.com","port":443,"password":"origin","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇫🇷_FR_法国_2","server":"176.31.83.90","port":443,"password":"origin","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇳🇱_NL_荷兰_1","server":"client.asucaeva.net","port":35002,"password":"3a06a53d-9969-4490-b34b-9d6c56a1b3e2","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇯🇵_JP_日本_1","server":"client.asucaeva.net","port":32001,"password":"3a06a53d-9969-4490-b34b-9d6c56a1b3e2","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇫🇷_FR_法国_3","server":"51.77.71.134","port":443,"password":"origin","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"🇨🇭_CH_瑞士","ws-opts":{"path":"/","headers":{"host":"www.liuyiyang19891222.tk"}},"server":"www.liuyiyang19891222.tk","port":443,"uuid":"ad48ebeb-f949-472b-9717-e8c8f0f7984d","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"trojan","name":"🇨🇳_CN_中国","server":"client.asucaeva.net","port":35001,"password":"3a06a53d-9969-4490-b34b-9d6c56a1b3e2","udp":true,"skip-cert-verify":true}
+  - {"type":"ss","name":"🇨🇳_CN_中国->🇲🇾_MY_马来西亚_1","server":"clientss.asucaeva.net","port":40004,"cipher":"chacha20-ietf-poly1305","password":"3a06a53d-9969-4490-b34b-9d6c56a1b3e2"}
+  - {"type":"trojan","name":"🇫🇷_FR_法国_4","server":"51.77.71.131","port":443,"password":"Sp3eDVp","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇫🇷_FR_法国_5","server":"content-provider26.cdn-delivery.akamaicd.com","port":443,"password":"origin","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇳🇱_NL_荷兰_2","server":"content-provider24.cdn-delivery.akamaicd.com","port":443,"password":"Sp3eDVp","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇳🇱_NL_荷兰_3","server":"185.212.200.75","port":443,"password":"Sp3eDVp","udp":true,"skip-cert-verify":true}
+  - {"type":"ss","name":"🇨🇳_CN_中国->🇯🇵_JP_日本_2","server":"h745768.waihuizhibiaowang.com","port":15443,"cipher":"chacha20-ietf-poly1305","password":"3dbdf038-ef96-4b51-834e-ac7e5ce94fe2"}
+  - {"type":"vmess","name":"🇺🇸_US_美国->🇩🇪_DE_德国","ws-opts":{"path":"/dongtaiwang.com","headers":{"host":"clash1.trump2023.net"}},"server":"23.237.33.106","port":443,"uuid":"176b598f-445b-41ac-9d2a-430c5c4df26a","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"ss","name":"🇨🇳_CN_中国->🇺🇸_US_美国_1","server":"clientss.asucaeva.net","port":41009,"cipher":"chacha20-ietf-poly1305","password":"3a06a53d-9969-4490-b34b-9d6c56a1b3e2"}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇺🇸_US_美国_2","server":"client.asucaeva.net","port":31002,"password":"3a06a53d-9969-4490-b34b-9d6c56a1b3e2","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇷🇴_RO_罗马尼亚","server":"client.asucaeva.net","port":31004,"password":"3a06a53d-9969-4490-b34b-9d6c56a1b3e2","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇯🇵_JP_日本_1","server":"168.138.43.89","port":443,"password":"d06a3f01-1ff0-4792-9b8e-a5a604bc74a2","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇲🇾_MY_马来西亚_2","server":"client.asucaeva.net","port":39001,"password":"3a06a53d-9969-4490-b34b-9d6c56a1b3e2","udp":true,"skip-cert-verify":true}
+  - {"type":"ss","name":"🇨🇳_CN_中国->🇲🇾_MY_马来西亚_3","server":"clientss.asucaeva.net","port":40005,"cipher":"chacha20-ietf-poly1305","password":"3a06a53d-9969-4490-b34b-9d6c56a1b3e2"}
+  - {"type":"trojan","name":"🇺🇸_US_美国","server":"129.146.255.158","port":443,"password":"f39bd244-f5fe-415c-8b98-a1e5250bf178","udp":true,"skip-cert-verify":true}
+  - {"type":"ss","name":"🇨🇳_CN_中国->🇻🇳_VN_越南","server":"clientss.asucaeva.net","port":43004,"cipher":"chacha20-ietf-poly1305","password":"3a06a53d-9969-4490-b34b-9d6c56a1b3e2"}
+  - {"type":"trojan","name":"🇯🇵_JP_日本_2","server":"168.138.44.176","port":443,"password":"8d2d5953-d649-4034-94f2-72f2df2623da","udp":true,"skip-cert-verify":true}
+  - {"type":"ss","name":"🇯🇵_JP_日本->🇵🇱_PL_波兰","server":"clientss.asucaeva.net","port":41001,"cipher":"chacha20-ietf-poly1305","password":"3a06a53d-9969-4490-b34b-9d6c56a1b3e2"}
+  - {"type":"vmess","name":"default_name","ws-opts":{"path":"/dongtaiwang.com","headers":{"host":"clash6.ssr-free.xyz"}},"server":"141.101.115.160","port":443,"uuid":"5f64fa65-7b14-49c5-954d-aa15c6bfcacd","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇸🇬_SG_新加坡_1","server":"client.asucaeva.net","port":33001,"password":"3a06a53d-9969-4490-b34b-9d6c56a1b3e2","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇹🇼_TW_台湾_1","server":"client.asucaeva.net","port":38101,"password":"3a06a53d-9969-4490-b34b-9d6c56a1b3e2","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇸🇬_SG_新加坡_2","server":"client.asucaeva.net","port":33005,"password":"3a06a53d-9969-4490-b34b-9d6c56a1b3e2","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇭🇰_HK_香港_1","server":"client.asucaeva.net","port":30003,"password":"3a06a53d-9969-4490-b34b-9d6c56a1b3e2","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇹🇼_TW_台湾_2","server":"client.asucaeva.net","port":38001,"password":"3a06a53d-9969-4490-b34b-9d6c56a1b3e2","udp":true,"skip-cert-verify":true}
+  - {"type":"ss","name":"🇯🇵_JP_日本->🇭🇰_HK_香港","server":"clientss.asucaeva.net","port":40002,"cipher":"chacha20-ietf-poly1305","password":"3a06a53d-9969-4490-b34b-9d6c56a1b3e2"}
+  - {"type":"ss","name":"🇨🇳_CN_中国->🇳🇱_NL_荷兰_2","server":"clientss.asucaeva.net","port":43003,"cipher":"chacha20-ietf-poly1305","password":"3a06a53d-9969-4490-b34b-9d6c56a1b3e2"}
+  - {"type":"ss","name":"🇨🇳_CN_中国->🇹🇼_TW_台湾_3","server":"clientss.asucaeva.net","port":48101,"cipher":"chacha20-ietf-poly1305","password":"3a06a53d-9969-4490-b34b-9d6c56a1b3e2"}
+  - {"type":"ss","name":"🇨🇳_CN_中国->🇭🇰_HK_香港_2","server":"clientss.asucaeva.net","port":40001,"cipher":"chacha20-ietf-poly1305","password":"3a06a53d-9969-4490-b34b-9d6c56a1b3e2"}
+  - {"type":"trojan","name":"🇭🇰_HK_香港->🇺🇸_US_美国","server":"azhj001.xibai6.top","port":20803,"password":"ca2345ba-46e7-3991-b1b7-45d18954caf1","udp":true,"skip-cert-verify":true}
   - {"type":"vmess","name":"@aries_init-NATVPSUK_UK🇬🇧-iPv6直连","ws-opts":{"path":"/aries"},"server":"uk.oppo.quest","port":"2086","uuid":"80837af3-1ed8-4686-fa8a-6bf9214d5351","alterId":"0","cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"@aries_init-NATVPSUK_UK🇬🇧-iPv6直连","ws-opts":{"path":"/aries"},"server":"uk.oppo.quest","port":"2086","uuid":"80837af3-1ed8-4686-fa8a-6bf9214d5351","alterId":"0","cipher":"auto","network":"ws"}

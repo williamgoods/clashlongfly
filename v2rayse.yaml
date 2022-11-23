@@ -409,6 +409,46 @@ proxies:
   - {"type":"trojan","name":"🇫🇷_FR_法国_3","server":"content-provider26.cdn-delivery.akamaicd.com","port":443,"password":"origin","udp":true,"skip-cert-verify":true}
   - {"type":"vmess","name":"🇺🇸_US_美国_2","ws-opts":{"path":"/hyproxy","headers":{"host":"17v2-cdn.hyproxy.xyz"}},"server":"17v2-cdn.hyproxy.xyz","port":443,"uuid":"b596935c-bc36-43b1-b2f6-8a61c480b38a","alterId":0,"cipher":"auto","network":"ws","tls":true}
   - {"type":"trojan","name":"🇫🇷_FR_法国_4","server":"51.77.71.134","port":443,"password":"origin","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"test10","ws-opts":{"path":"/"},"server":"de6.ultranetir.cf","port":15318,"uuid":"db4edd69-d99f-4adf-b3c0-3c998c2d7fb3","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"test11","ws-opts":{"path":"/"},"server":"de6.ultranetir.cf","port":54708,"uuid":"5ee8e875-5b08-4466-c61c-493944c1aa56","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"test12","server":"de6.ultranetir.cf","port":21808,"uuid":"e5fa714e-153b-4fd7-a9c1-31cd8b7fb391","alterId":0,"cipher":"auto","network":"h2","tls":true}
+  - {"type":"vmess","name":"test13","server":"de6.ultranetir.cf","port":31251,"uuid":"74387aea-f568-4de2-df00-3b1112d99c75","alterId":0,"cipher":"auto","network":"quic","tls":true}
+  - {"type":"vmess","name":"test14","server":"de6.ultranetir.cf","port":39996,"uuid":"a50b98cb-1b34-4638-b23c-7df1a77484fc","alterId":0,"cipher":"auto","network":"quic","tls":true}
+  - {"type":"vmess","name":"test15","server":"de6.ultranetir.cf","port":31778,"uuid":"4af82092-d306-4747-c388-8f44fb38bd10","alterId":0,"cipher":"auto","network":"quic","tls":true}
+  - {"type":"vmess","name":"test16","server":"de6.ultranetir.cf","port":33029,"uuid":"07726f5f-6ee4-4846-affa-99845bf805a7","alterId":0,"cipher":"auto","network":"quic","tls":true}
+  - {"type":"vmess","name":"test17","server":"de6.ultranetir.cf","port":41372,"uuid":"8092ffc9-74f8-4b64-acde-af5c88ef8800","alterId":0,"cipher":"auto","network":"quic","tls":true}
+  - {"type":"vmess","name":"test18","grpc-opts":{"grpc-service-name":"Ultra"},"server":"de6.ultranetir.cf","port":43830,"uuid":"160cff3b-90cf-4786-f07a-c419a90cd89d","alterId":0,"cipher":"auto","network":"grpc","tls":true}
+  - {"type":"vless","name":"test19","server":"de6.ultranetir.cf","port":20612,"uuid":"1de5d60d-2e8b-4698-eca6-b4d592eedd73","skip-cert-verify":true,"network":"tcp","servername":"de6.ultranetir.cf","tls":true,"udp":true}
+  - {"type":"vless","name":"test20","server":"de6.ultranetir.cf","port":18112,"uuid":"16af7d1e-8272-4888-abae-6e607362bd1b","skip-cert-verify":true,"network":"tcp","flow":"xtls-rprx-direct","tls":false,"udp":true}
+  - {"type":"vless","name":"test21","server":"de6.ultranetir.cf","port":53477,"uuid":"e9a9d188-2e5e-4a16-e557-799f166bfb07","skip-cert-verify":true,"network":"tcp","servername":"de6.ultranetir.cf","tls":true,"udp":true}
+  - {"type":"vless","name":"test22","server":"de6.ultranetir.cf","port":54462,"uuid":"dbe963ba-d0f6-4d2a-a3e2-08eec136c965","skip-cert-verify":true,"network":"tcp","servername":"de6.ultranetir.cf","tls":true,"udp":true}
+  - {"type":"vless","name":"test23","server":"de6.ultranetir.cf","port":44695,"uuid":"9baf6281-2a1c-47ef-c55c-9c76807355b2","skip-cert-verify":true,"network":"tcp","flow":"xtls-rprx-direct","tls":false,"udp":true}
+  - {"type":"vless","name":"test24","server":"de6.ultranetir.cf","port":37329,"uuid":"1add5c25-3074-44bd-d3ac-291bec4401a9","skip-cert-verify":true,"network":"tcp","flow":"xtls-rprx-origin","tls":false,"udp":true}
+  - {"type":"vless","name":"test25","server":"de6.ultranetir.cf","port":54837,"uuid":"c6d7f2c2-f46b-4d55-d947-5fe566a9b5ec","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
+  - {"type":"vless","name":"test26","server":"de6.ultranetir.cf","port":27870,"uuid":"5234ea47-2860-475f-c33b-929def65dfe0","skip-cert-verify":true}
+  - {"type":"vless","name":"test27","server":"de6.ultranetir.cf","port":29484,"uuid":"ae17fbe5-a2c5-4164-a11a-ef438a15a789","skip-cert-verify":true}
+  - {"type":"vless","name":"test28","server":"de6.ultranetir.cf","port":41581,"uuid":"f767f461-8d76-441a-a821-7951284808c0","skip-cert-verify":true}
+  - {"type":"vless","name":"test29","server":"de6.ultranetir.cf","port":47513,"uuid":"4fee233a-2068-4768-e521-beb5e127aea6","skip-cert-verify":true,"udp":true,"tls":true,"network":"ws","servername":"de6.ultranetir.cf","ws-opts":{"path":"/","headers":{"host":"de6.ultranetir.cf"}}}
+  - {"type":"vless","name":"test30","server":"de6.ultranetir.cf","port":15775,"uuid":"d3b545e2-e496-4691-f061-a53758fb3280","skip-cert-verify":true}
+  - {"type":"vless","name":"test31","server":"de6.ultranetir.cf","port":45096,"uuid":"864b1aa2-c1be-4dcf-b534-10b3dcf092b8","skip-cert-verify":true}
+  - {"type":"vless","name":"test32","server":"de6.ultranetir.cf","port":49198,"uuid":"a486ef76-3eab-42cf-fed9-9398081d90be","skip-cert-verify":true}
+  - {"type":"vless","name":"test33","server":"de6.ultranetir.cf","port":27689,"uuid":"bc6c6c47-40ea-4b3e-c5a0-50ebdcb94e28","skip-cert-verify":true}
+  - {"type":"vless","name":"test34","server":"de6.ultranetir.cf","port":27786,"uuid":"5f89da70-b568-4acf-b43f-b4c284eb2dba","skip-cert-verify":true}
+  - {"type":"vless","name":"test35","server":"de6.ultranetir.cf","port":49955,"uuid":"d7c2905d-67cb-4672-eccb-61c6005df2a7","skip-cert-verify":true}
+  - {"type":"vless","name":"test36","server":"de6.ultranetir.cf","port":36180,"uuid":"b90d5c53-812b-482a-f839-21dbfc1974d5","skip-cert-verify":true,"udp":true,"network":"grpc","tls":true,"grpc-opts":{"grpc-service-name":"Ultra2"},"servername":"de6.ultranetir.cf"}
+  - {"type":"trojan","name":"test37","server":"de6.ultranetir.cf","port":21386,"password":"KaOxy6pGpQ","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"test38","server":"de6.ultranetir.cf","port":51675,"password":"uKKoKm5KDR","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"test39","server":"de6.ultranetir.cf","port":23627,"password":"FYECVXXsiD","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"test40","server":"de6.ultranetir.cf","port":34033,"password":"YZ9qpTyhLh","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"test9","ws-opts":{"path":"/"},"server":"de6.ultranetir.cf","port":20334,"uuid":"5813258f-fbd7-4d54-aea5-7e1936531aef","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"test8","server":"de6.ultranetir.cf","port":55006,"uuid":"e2ecbb21-1112-4971-d5bf-8c9adb6c404b","alterId":0,"cipher":"auto","network":"kcp"}
+  - {"type":"vmess","name":"test7","server":"de6.ultranetir.cf","port":56846,"uuid":"91af8978-e71c-452f-945f-85c7729fea84","alterId":0,"cipher":"auto","network":"kcp"}
+  - {"type":"vmess","name":"test6","server":"de6.ultranetir.cf","port":48374,"uuid":"5d73d948-8c38-414a-b70f-a8e764ad5fb2","alterId":0,"cipher":"auto","network":"kcp"}
+  - {"type":"vmess","name":"test5","server":"de6.ultranetir.cf","port":20683,"uuid":"1264f931-a148-466b-8570-85ce5a0b68c3","alterId":0,"cipher":"auto","network":"kcp"}
+  - {"type":"vmess","name":"test4","server":"de6.ultranetir.cf","port":48809,"uuid":"ecbf4851-1298-40f0-a175-6e18ef9096d6","alterId":0,"cipher":"auto","network":"kcp"}
+  - {"type":"vmess","name":"test3","server":"de6.ultranetir.cf","port":57240,"uuid":"040d61d1-764f-4115-d936-03d1f829137e","alterId":0,"cipher":"auto","network":"kcp"}
+  - {"type":"vmess","name":"test2","server":"de6.ultranetir.cf","port":22963,"uuid":"6fa2b4dd-8268-46a8-aef6-07e8ce92029f","alterId":0,"cipher":"auto","network":"tcp","tls":true}
+  - {"type":"vmess","name":"test1","server":"de6.ultranetir.cf","port":26279,"uuid":"02f063f1-3e51-404f-f25c-fe5562e35143","alterId":0,"cipher":"auto","network":"tcp","tls":true}
 allow-lan: true
 mode: Rule
 log-level: info

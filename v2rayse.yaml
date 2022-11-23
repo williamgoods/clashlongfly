@@ -309,6 +309,22 @@ proxies:
   - {"type":"vmess","name":"🇭🇰_HK_香港","ws-opts":{"path":"/","headers":{"host":"univstar-104-208-117-86.nip.io"}},"server":"univstar-104-208-117-86.nip.io","port":443,"uuid":"328b2547-d141-4df4-a76e-4f1c2e361f5c","alterId":0,"cipher":"auto","network":"ws","tls":true}
   - {"type":"trojan","name":"🇨🇳_CN_中国->🇹🇼_TW_台湾_7","server":"oss-cn-guangzhou.westdatacloud.xyz","port":20015,"password":"8A613C3A-E24E-18C2-4B5E-CB104D83C88C","udp":true,"skip-cert-verify":true}
   - {"type":"ss","name":"🇨🇳_CN_中国->🇭🇰_HK_香港","server":"untmkks.twxvdp.xyz","port":42821,"cipher":"aes-128-gcm","password":"ac1b2888889340eb"}
+  - {"type":"trojan","name":"🇺🇸_US_美国_1","server":"138.2.113.248","port":443,"password":"9c822f05-cfdc-479a-9534-60f3d4127435","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"🇨🇭_CH_瑞士","ws-opts":{"path":"/","headers":{"host":"www.liuyiyang19891222.tk"}},"server":"www.liuyiyang19891222.tk","port":443,"uuid":"ad48ebeb-f949-472b-9717-e8c8f0f7984d","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"trojan","name":"🇰🇷_KR_韩国->🇺🇸_US_美国","server":"fhcamd2.gaox.ml","port":443,"password":"dbf9bf9c-2c3f-474a-8031-d4c00666a989","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇺🇸_US_美国_2","server":"51.81.211.171","port":443,"password":"2dab5d78-5c56-4252-850d-c037753a40db","udp":true,"skip-cert-verify":true}
+  - {"type":"ss","name":"🇨🇳_CN_中国->🇩🇪_DE_德国","server":"h217022.waihuizhibiaowang.com","port":15743,"cipher":"chacha20-ietf-poly1305","password":"3dbdf038-ef96-4b51-834e-ac7e5ce94fe2"}
+  - {"type":"trojan","name":"🇹🇼_TW_台湾","server":"TW.xibai6.top","port":31006,"password":"ca2345ba-46e7-3991-b1b7-45d18954caf1","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇫🇷_FR_法国_1","server":"content-provider12.cdn-delivery.akamaicd.com","port":443,"password":"origin","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇭🇰_HK_香港","server":"oss-cn-guangzhou.westdatacloud.xyz","port":20004,"password":"7D886417-7ACE-010A-6B08-81BF7931552B","udp":true,"skip-cert-verify":true}
+  - {"type":"ssr","name":"🇯🇵_JP_日本_1","server":"jp-am48-6.eqnode.net","port":8081,"protocol":"origin","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","password":"eAokbaDN6"}
+  - {"type":"trojan","name":"🇺🇸_US_美国_3","server":"148.113.141.99","port":443,"password":"HdsUZmsHQW","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"default_name","ws-opts":{"path":"/dongtaiwang.com","headers":{"host":"v2ray1.zhujicn2.org"}},"server":"141.101.114.100","port":443,"uuid":"4679f00e-90ce-430d-9714-6a19367ba112","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"ss","name":"🇯🇵_JP_日本_2","server":"85.208.108.60","port":8882,"cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4"}
+  - {"type":"trojan","name":"🇳🇱_NL_荷兰","server":"185.212.200.75","port":443,"password":"Sp3eDVp","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇹🇼_TW_台湾_1","server":"oss-cn-guangzhou.westdatacloud.xyz","port":20013,"password":"1BC2AF70-7052-CAE1-D253-D643788FFCF5","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇫🇷_FR_法国_2","server":"51.77.71.134","port":443,"password":"origin","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇹🇼_TW_台湾_2","server":"oss-cn-guangzhou.westdatacloud.xyz","port":20011,"password":"1BC2AF70-7052-CAE1-D253-D643788FFCF5","udp":true,"skip-cert-verify":true}
   - {"type":"ss","name":"v2rayse_test_1","server":"198.57.27.218","port":5004,"cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId"}
   - {"type":"vmess","name":"v2rayse_test_2","ws-opts":{"path":"/"},"server":"154.23.190.162","port":443,"uuid":"b9984674-f771-4e67-a198-c7e60720ba2c","alterId":"0","cipher":"auto","network":"ws"}
   - {"type":"ssr","name":"v2rayse_test_3","server":"20.239.49.44","port":59814,"protocol":"origin","cipher":"dummy","obfs":"plain","password":"3df57276-03ef-45cf-bdd4-4edb6dfaa0ef"}
@@ -391,6 +407,22 @@ proxies:
   - {"type":"trojan","name":"🇫🇷_FR_法国","server":"51.77.71.134","port":443,"password":"origin","udp":true,"skip-cert-verify":true}
   - {"type":"vmess","name":"🇨🇳_CN_中国->🇹🇼_TW_台湾","server":"zfd-moble.gatknqh.cn","port":16129,"uuid":"ee867204-3f52-3faf-8de4-6f4180939d7c","alterId":0,"cipher":"auto","network":"tcp"}
   - {"type":"trojan","name":"🇺🇸_US_美国","server":"51.81.211.171","port":443,"password":"2dab5d78-5c56-4252-850d-c037753a40db","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇺🇸_US_美国_1","server":"138.2.113.248","port":443,"password":"9c822f05-cfdc-479a-9534-60f3d4127435","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"🇨🇭_CH_瑞士","ws-opts":{"path":"/","headers":{"host":"www.liuyiyang19891222.tk"}},"server":"www.liuyiyang19891222.tk","port":443,"uuid":"ad48ebeb-f949-472b-9717-e8c8f0f7984d","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"trojan","name":"🇰🇷_KR_韩国->🇺🇸_US_美国","server":"fhcamd2.gaox.ml","port":443,"password":"dbf9bf9c-2c3f-474a-8031-d4c00666a989","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇺🇸_US_美国_2","server":"51.81.211.171","port":443,"password":"2dab5d78-5c56-4252-850d-c037753a40db","udp":true,"skip-cert-verify":true}
+  - {"type":"ss","name":"🇨🇳_CN_中国->🇩🇪_DE_德国","server":"h217022.waihuizhibiaowang.com","port":15743,"cipher":"chacha20-ietf-poly1305","password":"3dbdf038-ef96-4b51-834e-ac7e5ce94fe2"}
+  - {"type":"trojan","name":"🇹🇼_TW_台湾","server":"TW.xibai6.top","port":31006,"password":"ca2345ba-46e7-3991-b1b7-45d18954caf1","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇫🇷_FR_法国_1","server":"content-provider12.cdn-delivery.akamaicd.com","port":443,"password":"origin","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇭🇰_HK_香港","server":"oss-cn-guangzhou.westdatacloud.xyz","port":20004,"password":"7D886417-7ACE-010A-6B08-81BF7931552B","udp":true,"skip-cert-verify":true}
+  - {"type":"ssr","name":"🇯🇵_JP_日本_1","server":"jp-am48-6.eqnode.net","port":8081,"protocol":"origin","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","password":"eAokbaDN6"}
+  - {"type":"trojan","name":"🇺🇸_US_美国_3","server":"148.113.141.99","port":443,"password":"HdsUZmsHQW","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"default_name","ws-opts":{"path":"/dongtaiwang.com","headers":{"host":"v2ray1.zhujicn2.org"}},"server":"141.101.114.100","port":443,"uuid":"4679f00e-90ce-430d-9714-6a19367ba112","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"ss","name":"🇯🇵_JP_日本_2","server":"85.208.108.60","port":8882,"cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4"}
+  - {"type":"trojan","name":"🇳🇱_NL_荷兰","server":"185.212.200.75","port":443,"password":"Sp3eDVp","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇹🇼_TW_台湾_1","server":"oss-cn-guangzhou.westdatacloud.xyz","port":20013,"password":"1BC2AF70-7052-CAE1-D253-D643788FFCF5","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇫🇷_FR_法国_2","server":"51.77.71.134","port":443,"password":"origin","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇹🇼_TW_台湾_2","server":"oss-cn-guangzhou.westdatacloud.xyz","port":20011,"password":"1BC2AF70-7052-CAE1-D253-D643788FFCF5","udp":true,"skip-cert-verify":true}
   - {"type":"ss","name":"v2rayse_test_1","server":"198.57.27.218","port":5004,"cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId"}
   - {"type":"vmess","name":"v2rayse_test_2","ws-opts":{"path":"/"},"server":"154.23.190.162","port":443,"uuid":"b9984674-f771-4e67-a198-c7e60720ba2c","alterId":"0","cipher":"auto","network":"ws"}
   - {"type":"ssr","name":"v2rayse_test_3","server":"20.239.49.44","port":59814,"protocol":"origin","cipher":"dummy","obfs":"plain","password":"3df57276-03ef-45cf-bdd4-4edb6dfaa0ef"}

@@ -68,6 +68,9 @@ proxies:
   - {"type":"trojan","name":"🇺🇸_US_美国_2","server":"129.146.135.157","port":443,"password":"e23f408a-012e-4030-8b31-02022031cb50","udp":true,"skip-cert-verify":true}
   - {"type":"ssr","name":"🇸🇬_SG_新加坡","server":"sg-am3.eqsunshine.com","port":32001,"protocol":"origin","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","password":"3g0dHlKME"}
   - {"type":"trojan","name":"🇺🇸_US_美国_3","server":"148.113.141.99","port":443,"password":"HdsUZmsHQW","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"香港~新加坡~1","ws-opts":{"path":"/GenshinMinecraft","headers":{"host":"xingzidashabimeiyoumuqin.gmlovebaipiao.tech"}},"server":"47.242.184.128","port":"2083","uuid":"9ed79552-08cf-402f-e190-91f24eda1681","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"香港~新加坡~2","ws-opts":{"path":"/GenshinMinecraft","headers":{"host":"xingzidashabimeiyoumuqin.gmlovebaipiao.tech"}},"server":"47.242.174.27","port":"2083","uuid":"9ed79552-08cf-402f-e190-91f24eda1681","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"新加坡~新加坡~3","ws-opts":{"path":"/GenshinMinecraft","headers":{"host":"xingzidashabimeiyoumuqin.gmlovebaipiao.tech"}},"server":"8.218.136.25","port":"2083","uuid":"9ed79552-08cf-402f-e190-91f24eda1681","alterId":"0","cipher":"auto","network":"ws","tls":true}
   - {"type":"ss","name":"🇬🇧_GB_英国","server":"212.102.53.80","port":443,"cipher":"aes-128-gcm","password":"shadowsocks"}
   - {"type":"trojan","name":"🇺🇸_US_美国_1","server":"51.81.211.171","port":443,"password":"2dab5d78-5c56-4252-850d-c037753a40db","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"🇺🇸_US_美国_2","server":"129.146.242.130","port":443,"password":"05742120-ce23-4cc8-88f5-6d221ce45bf4","udp":true,"skip-cert-verify":true}

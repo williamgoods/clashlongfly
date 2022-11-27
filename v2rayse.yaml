@@ -1,4 +1,14 @@
 proxies:
+  - {"type":"trojan","name":"🇺🇸_US_美国_1","server":"148.113.141.99","port":443,"password":"HdsUZmsHQW","udp":true,"skip-cert-verify":true}
+  - {"type":"ssr","name":"🇸🇬_SG_新加坡","server":"sg-am3.eqsunshine.com","port":32001,"protocol":"origin","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","password":"3g0dHlKME"}
+  - {"type":"ss","name":"🇨🇳_CN_中国->🇷🇺_RU_俄罗斯联邦","server":"hnt.cndns.shop","port":27766,"cipher":"chacha20-ietf-poly1305","password":"31347057-7af5-4562-b912-f1c217c4c160"}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇯🇵_JP_日本","server":"116.129.253.134","port":3389,"password":"faf42aa0a9ad4c1e","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"🇺🇸_US_美国_2","ws-opts":{"path":"/","headers":{"host":"d200.clco.in"}},"server":"d200.clco.in","port":54279,"uuid":"0bbe1b09-9ff0-473a-fc00-a3ddba9e7ace","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"trojan","name":"🇺🇸_US_美国_1","server":"148.113.141.99","port":443,"password":"HdsUZmsHQW","udp":true,"skip-cert-verify":true}
+  - {"type":"ssr","name":"🇸🇬_SG_新加坡","server":"sg-am3.eqsunshine.com","port":32001,"protocol":"origin","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","password":"3g0dHlKME"}
+  - {"type":"ss","name":"🇨🇳_CN_中国->🇷🇺_RU_俄罗斯联邦","server":"hnt.cndns.shop","port":27766,"cipher":"chacha20-ietf-poly1305","password":"31347057-7af5-4562-b912-f1c217c4c160"}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇯🇵_JP_日本","server":"116.129.253.134","port":3389,"password":"faf42aa0a9ad4c1e","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"🇺🇸_US_美国_2","ws-opts":{"path":"/","headers":{"host":"d200.clco.in"}},"server":"d200.clco.in","port":54279,"uuid":"0bbe1b09-9ff0-473a-fc00-a3ddba9e7ace","alterId":0,"cipher":"auto","network":"ws","tls":true}
   - {"type":"ssr","name":"🇸🇬_SG_新加坡","server":"sg-am3.eqsunshine.com","port":32001,"protocol":"origin","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","password":"3g0dHlKME"}
   - {"type":"trojan","name":"🇳🇱_NL_荷兰_1","server":"5.255.103.209","port":443,"password":"3dacbaa8-784b-430c-9c1e-57d33648981d","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"🇳🇱_NL_荷兰_2","server":"185.212.200.75","port":443,"password":"Sp3eDVp","udp":true,"skip-cert-verify":true}

@@ -44,6 +44,24 @@ proxies:
   - {"type":"hysteria","name":"Hys-1.2.3.4","server":"1.2.3.4","port":12854,"auth_str":"pekopeko","alpn":"h3","protocol":"udp","up":50,"down":250,"sni":"wechat.com","skip-cert-verify":true,"recv_window":104857600,"recv_window_conn":26214400,"disable_mtu_discovery":true}
   - {"type":"vless","name":"test","server":"1.2.3.4","port":7777,"uuid":"abc-def-ghi-fge-zsx","skip-cert-verify":true,"network":"tcp","tls":true,"udp":true}
   - {"type":"socks5","name":"telegram_proxy","server":"1.2.3.4","port":123,"username":"username","password":"password","udp":true}
+  - {"type":"trojan","name":"🇬🇧_GB_英国","server":"t1.samsung.bforward2.uk","port":443,"password":"67e200f1-4ff5-42ca-8425-3f16f7986c29","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"default_name_1","ws-opts":{"path":"/dongtaiwang.com","headers":{"host":"v2ray1.zhujicn2.org"}},"server":"141.101.114.100","port":443,"uuid":"4679f00e-90ce-430d-9714-6a19367ba112","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"trojan","name":"🇩🇪_DE_德国","server":"bdvasxmahl.injafarvpnwebelieve.gq","port":443,"password":"TvBypqQJ9b","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇹🇼_TW_台湾","server":"TW.xibai6.top","port":31006,"password":"ca2345ba-46e7-3991-b1b7-45d18954caf1","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇫🇷_FR_法国_1","server":"51.77.71.131","port":443,"password":"Sp3eDVp","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇻🇳_VN_越南_1","server":"103.81.85.238","port":443,"password":"52171d41-9367-429f-baa6-43660a6c84e4","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇻🇳_VN_越南_2","server":"103.195.236.24","port":443,"password":"52171d41-9367-429f-baa6-43660a6c84e4","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"default_name_2","ws-opts":{"path":"/VHONOFZ3","headers":{"host":"lg1.cfcdn2.xyz"}},"server":"198.41.203.1","port":443,"uuid":"267a9f38-40d8-4ed6-ab58-cafc67e9c933","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"trojan","name":"🇫🇷_FR_法国_2","server":"content-provider26.cdn-delivery.akamaicd.com","port":443,"password":"origin","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇺🇸_US_美国_1","server":"20.255.33.139","port":443,"password":"52171d41-9367-429f-baa6-43660a6c84e4","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇯🇵_JP_日本","server":"116.129.253.134","port":3389,"password":"182228812d1e0f23","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇳🇱_NL_荷兰_1","server":"content-provider23.cdn-delivery.akamaicd.com","port":443,"password":"Sp3eDVp","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇫🇷_FR_法国_3","server":"176.31.83.90","port":443,"password":"origin","udp":true,"skip-cert-verify":true}
+  - {"type":"ssr","name":"🇯🇵_JP_日本_1","server":"jp-am48-6.eqnode.net","port":8081,"protocol":"origin","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","password":"eAokbaDN6"}
+  - {"type":"trojan","name":"🇺🇸_US_美国_2","server":"20.212.200.159","port":443,"password":"52171d41-9367-429f-baa6-43660a6c84e4","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇯🇵_JP_日本_2","server":"40.115.213.4","port":443,"password":"52171d41-9367-429f-baa6-43660a6c84e4","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇺🇸_US_美国_3","server":"20.214.248.129","port":443,"password":"52171d41-9367-429f-baa6-43660a6c84e4","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇳🇱_NL_荷兰_2","server":"185.212.200.75","port":443,"password":"Sp3eDVp","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"🇺🇸_US_美国_1","server":"148.113.141.99","port":443,"password":"HdsUZmsHQW","udp":true,"skip-cert-verify":true}
   - {"type":"ssr","name":"🇸🇬_SG_新加坡","server":"sg-am3.eqsunshine.com","port":32001,"protocol":"origin","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","password":"3g0dHlKME"}
   - {"type":"ss","name":"🇨🇳_CN_中国->🇷🇺_RU_俄罗斯联邦","server":"hnt.cndns.shop","port":27766,"cipher":"chacha20-ietf-poly1305","password":"31347057-7af5-4562-b912-f1c217c4c160"}

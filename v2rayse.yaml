@@ -515,6 +515,24 @@ proxies:
   - {"name":"🏁ZZ_406|61.63Mb","server":"134.195.196.149","type":"ss","country":"🏁ZZ","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm","index":377}
   - {"name":"🏁ZZ_407|47.98Mb","server":"188.114.97.111","type":"vmess","country":"🏁ZZ","port":443,"uuid":"9e6ceeff-2546-3690-ac00-6fcdf31dec94","alterId":0,"cipher":"auto","network":"ws","ws-path":"/chcara","servername":"v2fly.samrt.website","ws-headers":{"HOST":"v2fly.samrt.website"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true,"index":378}
   - {"name":"🏁ZZ_408","server":"45.11.104.94","type":"trojan","country":"🏁ZZ","port":3389,"password":"d4e41ff772c7fd45","skip-cert-verify":true,"udp":true,"index":379}
+  - {"type":"trojan","name":"🇺🇸_US_美国_1","server":"au2-4.vegemitepie.com","port":443,"password":"drpzqcrmquWSuZKNd7","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇯🇵_JP_日本_1","server":"os2-4.crabyakiniku.com","port":443,"password":"drpzqcrmquWSuZKNd7","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇺🇸_US_美国->🇦🇺_AU_澳大利亚_1","server":"au1-2.vegemitepie.com","port":443,"password":"drpzqcrmquWSuZKNd7","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇭🇰_HK_香港","server":"hk1-2.dimsumyumcha.com","port":443,"password":"drpzqcrmquWSuZKNd7","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"🇯🇵_JP_日本_2","server":"jpgithub.edgehelper.com","port":53900,"uuid":"d8860258-4ce1-4412-9ede-ecfd8d827ca4","alterId":2,"cipher":"auto","network":"tcp","tls":true}
+  - {"type":"trojan","name":"🇺🇸_US_美国_2","server":"au2-3.vegemitepie.com","port":443,"password":"drpzqcrmquWSuZKNd7","udp":true,"skip-cert-verify":true}
+  - {"type":"ss","name":"🇨🇳_CN_中国->🇷🇺_RU_俄罗斯联邦","server":"hnt.cndns.shop","port":27761,"cipher":"chacha20-ietf-poly1305","password":"31347057-7af5-4562-b912-f1c217c4c160"}
+  - {"type":"vmess","name":"🇺🇸_US_美国->🇫🇷_FR_法国","ws-opts":{"path":"/sshocean","headers":{"host":"uk2.v2rayserv.com"}},"server":"powerservice.com","port":443,"uuid":"0764a598-82c4-4b41-ba10-551a625beed5","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"trojan","name":"🇺🇸_US_美国->🇦🇺_AU_澳大利亚_2","server":"au3-1.vegemitepie.com","port":443,"password":"drpzqcrmquWSuZKNd7","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇺🇸_US_美国->🇦🇺_AU_澳大利亚_3","server":"au3-3.vegemitepie.com","port":443,"password":"drpzqcrmquWSuZKNd7","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇺🇸_US_美国->🇦🇺_AU_澳大利亚_4","server":"au1-3.vegemitepie.com","port":443,"password":"drpzqcrmquWSuZKNd7","udp":true,"skip-cert-verify":true}
+  - {"type":"ss","name":"🇯🇵_JP_日本_3","server":"85.208.108.60","port":8882,"cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4"}
+  - {"type":"trojan","name":"🇺🇸_US_美国->🇦🇺_AU_澳大利亚_5","server":"au1-1.vegemitepie.com","port":443,"password":"drpzqcrmquWSuZKNd7","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇺🇸_US_美国_3","server":"au2-1.vegemitepie.com","port":443,"password":"drpzqcrmquWSuZKNd7","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇺🇸_US_美国->🇦🇺_AU_澳大利亚_6","server":"au1-4.vegemitepie.com","port":443,"password":"drpzqcrmquWSuZKNd7","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇺🇸_US_美国->🇦🇺_AU_澳大利亚_7","server":"au3-2.vegemitepie.com","port":443,"password":"drpzqcrmquWSuZKNd7","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇺🇸_US_美国->🇦🇺_AU_澳大利亚_8","server":"au3-4.vegemitepie.com","port":443,"password":"drpzqcrmquWSuZKNd7","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"🇰🇷_KR_韩国","http-opts":{"path":["/"]},"server":"152.70.89.67","port":44631,"uuid":"198d8957-377e-4a06-d9ea-414cc0067de4","alterId":0,"cipher":"auto","network":"http"}
   - {"type":"ssr","name":"🇨🇳_CN_中国->🇭🇰_HK_香港_1","server":"116.162.120.31","port":562,"protocol":"auth_aes128_md5","cipher":"chacha20-ietf","obfs":"plain","password":"mblank1port","obfs-param":"dC5tZS92cG5oYXQ=","protocol-param":"27445:jgjgjgjgjgjg"}
   - {"type":"ssr","name":"🇨🇳_CN_中国->🇭🇰_HK_香港_2","server":"116.162.120.49","port":560,"protocol":"auth_aes128_md5","cipher":"chacha20-ietf","obfs":"plain","password":"mblank1port","obfs-param":"dC5tZS92cG5oYXQ=","protocol-param":"27445:jgjgjgjgjgjg"}
   - {"type":"trojan","name":"🇬🇧_GB_英国_1","server":"t1.samsung.bforward2.uk","port":443,"password":"67e200f1-4ff5-42ca-8425-3f16f7986c29","udp":true,"skip-cert-verify":true}

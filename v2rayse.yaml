@@ -1,4 +1,23 @@
 proxies:
+  - {"type":"ss","name":"default_name_1","server":"103.172.116.5","port":9060,"cipher":"aes-256-cfb","password":"ueLXVkvh4hckhErQ"}
+  - {"type":"ssr","name":"🇸🇬_SG_新加坡","server":"sg-am3.eqsunshine.com","port":32001,"protocol":"origin","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","password":"3g0dHlKME"}
+  - {"type":"ss","name":"default_name_2","server":"103.172.116.5","port":9006,"cipher":"aes-256-cfb","password":"FAdUvMJUq5vDgKEq"}
+  - {"type":"ssr","name":"🇯🇵_JP_日本_1","server":"jp-am48-6.eqnode.net","port":8081,"protocol":"origin","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","password":"eAokbaDN6"}
+  - {"type":"ss","name":"default_name_3","server":"103.172.116.5","port":9018,"cipher":"aes-256-cfb","password":"fG2artUmHfNT2cX7"}
+  - {"type":"vmess","name":"🇧🇿_BZ_伯利兹->🇫🇷_FR_法国","ws-opts":{"path":"/IYKLD53M","headers":{"host":"opfr1.v2rayfree1.xyz"}},"server":"203.30.188.120","port":443,"uuid":"4612618c-24cd-4379-9924-cfdf3d61fa5a","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"ss","name":"🇮🇷_IR_伊朗->🇨🇭_CH_瑞士","server":"samanehha.co","port":443,"cipher":"chacha20-ietf-poly1305","password":"jinajina123"}
+  - {"type":"vmess","name":"default_name_4","ws-opts":{"path":"/ray","headers":{"host":"lg30.cfcdn3.xyz"}},"server":"141.101.115.120","port":443,"uuid":"91646f9a-b4e9-4aca-bfe3-8892b3e58fe7","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"🇺🇸_US_美国","ws-opts":{"path":"/A2DJOPFT","headers":{"host":"lg10.cfcdn1.xyz"}},"server":"66.235.200.22","port":443,"uuid":"17b2a313-37a0-4945-a8e4-e63375506b4a","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"default_name_5","ws-opts":{"path":"/9JZFDTKE","headers":{"host":"fr1.trump2023.org"}},"server":"198.41.203.6","port":443,"uuid":"2b214122-1906-428a-bbb7-a039cbb7cd5c","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"default_name_6","ws-opts":{"path":"/5QNROSRV","headers":{"host":"oplg1.zhujicn2.com"}},"server":"141.101.114.31","port":443,"uuid":"56a2188b-2ab7-402c-b9b8-34847fdf0958","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"ss","name":"default_name_7","server":"103.172.116.5","port":9097,"cipher":"aes-256-cfb","password":"Sn5B7jTqr76aCJT8"}
+  - {"type":"ss","name":"🇨🇳_CN_中国->🇷🇺_RU_俄罗斯联邦_1","server":"hnt.cndns.shop","port":27766,"cipher":"chacha20-ietf-poly1305","password":"31347057-7af5-4562-b912-f1c217c4c160"}
+  - {"type":"ss","name":"🇨🇳_CN_中国->🇷🇺_RU_俄罗斯联邦_2","server":"hnt.cndns.shop","port":27761,"cipher":"chacha20-ietf-poly1305","password":"31347057-7af5-4562-b912-f1c217c4c160"}
+  - {"type":"ss","name":"🇯🇵_JP_日本_2","server":"85.208.108.60","port":8882,"cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4"}
+  - {"type":"vmess","name":"default_name_8","ws-opts":{"path":"/"},"server":"cdn2.soft98.download","port":8443,"uuid":"41e41e46-9bdb-4666-ae89-754c4cc8255b","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"ss","name":"default_name_9","server":"103.172.116.5","port":9045,"cipher":"aes-256-cfb","password":"Lp27rqyJq72bZsqX"}
+  - {"type":"ss","name":"default_name_10","server":"103.172.116.5","port":9003,"cipher":"aes-256-cfb","password":"JdmRK9gMEqFgs8nP"}
+  - {"type":"vmess","name":"🇦🇲_AM_亚美尼亚->🇺🇸_US_美国","ws-opts":{"path":"/5QNROSRV","headers":{"host":"oplg1.zhujicn2.com"}},"server":"185.162.228.229","port":443,"uuid":"56a2188b-2ab7-402c-b9b8-34847fdf0958","alterId":0,"cipher":"auto","network":"ws","tls":true}
   - {"type":"vmess","name":"@filternet0142سرورهای.رایگان.در.کانال👈🇺🇸","ws-opts":{"path":"/"},"server":"150.230.149.55","port":"6374","uuid":"80f25361-877d-46d4-8404-f0dce1faf84f","alterId":"0","cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"@filternet0142سرورهای.رایگان.در.کانال👈🇳🇱","ws-opts":{"path":"/graphql"},"server":"104.248.80.136","port":"80","uuid":"df756db8-a7de-4ff9-a847-d2632bd021e2","alterId":"0","cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"@filternet0142سرورهای.رایگان.در.کانال👈🇩🇪","ws-opts":{"path":"/"},"server":"162.55.214.110","port":"51549","uuid":"6399ab58-b7ce-4d24-be9e-92c581c93b44","alterId":"0","cipher":"auto","network":"ws"}

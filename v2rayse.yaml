@@ -1,4 +1,5 @@
 proxies:
+  - {"type":"vless","name":"us","server":"vpn.worldwang.top","port":443,"uuid":"046f0dfb-77f8-4b83-8992-fd1f592d6947","skip-cert-verify":true,"udp":true,"tls":true,"network":"ws","servername":"vpn.worldwang.top","ws-opts":{"path":"/worldwang","headers":{"host":"vpn.worldwang.top"}}}
   - {"type":"vmess","name":"🇦🇲_AM_亚美尼亚","ws-opts":{"path":"/A2DJOPFT","headers":{"host":"lg10.cfcdn1.xyz"}},"server":"185.162.228.230","port":443,"uuid":"17b2a313-37a0-4945-a8e4-e63375506b4a","alterId":0,"cipher":"auto","network":"ws","tls":true}
   - {"type":"vmess","name":"default_name","ws-opts":{"path":"/sshkit/fdfadsfa/63848bfe228fd/","headers":{"host":"us-lb.sshkit.org"}},"server":"uicdn.cf","port":80,"uuid":"6fea1649-425b-4092-bf53-29792152c925","alterId":0,"cipher":"auto","network":"ws"}
   - {"type":"ss","name":"🇮🇷_IR_伊朗->🇺🇸_US_美国","server":"samanehha.co","port":443,"cipher":"chacha20-ietf-poly1305","password":"jinajina123"}

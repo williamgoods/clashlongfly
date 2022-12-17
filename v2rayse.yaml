@@ -156,6 +156,9 @@ proxies:
   - {"type":"vmess","name":"T*ME:@filternet0142🥳🥳🥳🥳///🇩🇪///DE_17","ws-opts":{"path":"/worryfree/ntls","headers":{"host":"206.189.61.143"}},"server":"206.189.61.143","port":"80","uuid":"8626e5b2-4bcd-49a7-b70d-8f270b5266ea","alterId":"0","cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"T*ME:@filternet0142🥳🥳🥳🥳///🇫🇷///FR_10","ws-opts":{"path":"/"},"server":"cdn1.soft98.download","port":"2053","uuid":"8ffba9ab-57a6-426e-df1f-2500eea45564","alterId":"0","cipher":"auto","network":"ws","tls":true}
   - {"type":"trojan","name":"T*ME:@filternet0142🥳🥳🥳🥳///🇫🇮///FI_11","server":"wdock.aslibekhar.com","port":80,"password":"t5wt9NwaB9","udp":true,"skip-cert-verify":true,"sni":"wdock.aslibekhar.com"}
+  - {"type":"ss","name":"v2rayse_test_1","server":"198.57.27.218","port":5004,"cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId"}
+  - {"type":"vmess","name":"v2rayse_test_2","ws-opts":{"path":"/"},"server":"154.23.190.162","port":443,"uuid":"b9984674-f771-4e67-a198-c7e60720ba2c","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"v2rayse_test_3","server":"20.239.49.44","port":59814,"protocol":"origin","cipher":"dummy","obfs":"plain","password":"3df57276-03ef-45cf-bdd4-4edb6dfaa0ef"}
   - {"type":"vmess","name":"♦️@filternet0142♦️کانال تلگرام
     ما»»»🇫🇷»»»FR","ws-opts":{"path":"/","headers":{"host":"51.159.2.152"}},"server":"51.159.2.152","port":"80","uuid":"43587dc1-34f1-4254-ab90-56507e72d7a8","alterId":"0","cipher":"auto","network":"ws"}
   - {"type":"ss","name":"♦️@filternet0142♦️کانال تلگرام

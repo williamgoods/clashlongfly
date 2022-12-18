@@ -1,4 +1,5 @@
 proxies:
+  - {"type":"vless","name":"Vless","server":"as4.nikatel.shop","port":8880,"uuid":"c7718f96-39e3-4cf5-a9d0-996a1b77e927","skip-cert-verify":true,"udp":true,"tls":true,"network":"ws","servername":"as4.nikatel.shop","ws-opts":{"path":"/","headers":{"host":"as4.nikatel.shop"}}}
   - {"type":"vmess","name":"🇧🇿_BZ_伯利兹_1","ws-opts":{"path":"/A2DJOPFT","headers":{"host":"lg10.cfcdn1.xyz"}},"server":"203.30.191.193","port":443,"uuid":"17b2a313-37a0-4945-a8e4-e63375506b4a","alterId":"0","cipher":"auto","network":"ws","tls":true}
   - {"type":"vmess","name":"🇧🇿_BZ_伯利兹->🇫🇷_FR_法国_1","ws-opts":{"path":"/IYKLD53M","headers":{"host":"opfr1.v2rayfree1.xyz"}},"server":"203.30.188.120","port":443,"uuid":"4612618c-24cd-4379-9924-cfdf3d61fa5a","alterId":"0","cipher":"auto","network":"ws","tls":true}
   - {"type":"vmess","name":"🇧🇿_BZ_伯利兹_2","ws-opts":{"path":"/ECTCJ0DF","headers":{"host":"lg1.trump2023.us"}},"server":"203.30.189.189","port":443,"uuid":"40d496a6-ceeb-4096-baeb-4cc52b205621","alterId":"0","cipher":"auto","network":"ws","tls":true}

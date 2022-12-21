@@ -49,6 +49,7 @@ proxies:
   - {"type":"ss","name":"🇸🇬_SG_新加坡_6","server":"13.215.174.243","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
   - {"type":"vmess","name":"🇺🇸_US_美国->🇫🇷_FR_法国","ws-opts":{"path":"/pineapple","headers":{"host":"PineApple.CLOUDFLARE.QUEST"}},"server":"104.18.100.193","port":2082,"uuid":"36fa45db-2d4a-4295-a1fe-223836989878","alterId":"0","cipher":"auto","network":"ws"}
   - {"type":"trojan","name":"🇰🇷_KR_韩国_4","server":"jk.jkk.mkitty.top","port":443,"password":"71354f48-e8c8-4c4c-a967-47d7ac5e953c","udp":true,"skip-cert-verify":true}
+  - {"type":"vless","name":"testvless","server":"ok.sxmjxc.net","port":5123,"uuid":"01fc81d8-9f0b-4999-be4a-ddbd09671158","skip-cert-verify":true,"udp":true,"tls":true,"network":"ws","servername":"ok.sxmjxc.net","ws-opts":{"path":"01fc81d8-9f0","headers":{"host":"ok.sxmjxc.net"}}}
   - {"type":"trojan","name":"🌟@filternet0142🌟کانال،آموزشی،تلگرام///🇸🇬_1","server":"15.235.197.5","port":80,"password":"bedae0a3-a7dc-4ff0-9013-be459839b5b7","udp":true,"skip-cert-verify":true,"sni":"sg2.trojanvh.xyz"}
   - {"type":"ss","name":"🌟@filternet0142🌟کانال،آموزشی،تلگرام///🇺🇸_1","server":"38.91.102.72","port":8882,"cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4"}
   - {"type":"trojan","name":"🌟@filternet0142🌟کانال،آموزشی،تلگرام///🇭🇰","server":"20.187.78.206","port":443,"password":"78cc728e-2d90-4db2-a0fd-5d9beda4092e","udp":true,"skip-cert-verify":true,"sni":"glc.windowsupdate1.com"}

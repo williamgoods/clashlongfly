@@ -1,4 +1,10 @@
 proxies:
+  - {"type":"vmess","name":"443-bl-blue","ws-opts":{"path":"/","headers":{"host":"test4.alicfz.tk"}},"server":"te.alicfz.tk","port":"443","uuid":"90e83217-464d-4a61-df57-4361a60d9907","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"2053-bl-blue","ws-opts":{"path":"/","headers":{"host":"test4.alicfz.tk"}},"server":"te.alicfz.tk","port":"2053","uuid":"d0a812b3-a484-4ef8-e5e2-c9ddcf5b23aa","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"2083-bl-blue","ws-opts":{"path":"/","headers":{"host":"test4.alicfz.tk"}},"server":"te.alicfz.tk","port":"2083","uuid":"86fd45cd-acff-4f9c-cfd3-c18b1978c1ba","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"2087-bl-blue","ws-opts":{"path":"/","headers":{"host":"test4.alicfz.tk"}},"server":"te.alicfz.tk","port":"2087","uuid":"1b27d8f5-fc0e-4393-fdf4-1c07a0b5fcd8","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"2096-bl-blue","ws-opts":{"path":"/","headers":{"host":"test4.alicfz.tk"}},"server":"te.alicfz.tk","port":"2096","uuid":"52ebd781-38e6-4b61-847c-7489eb2d520d","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"8443-bl-blue","ws-opts":{"path":"/","headers":{"host":"test4.alicfz.tk"}},"server":"te.alicfz.tk","port":"8443","uuid":"9b1c5e87-fa67-4c2f-8a12-d226dabe2d61","alterId":"0","cipher":"auto","network":"ws","tls":true}
   - {"type":"vmess","name":"(已存活4天)香港-3.61MB/s(Youtube:不良林)","http-opts":{"path":["/"]},"server":"47.243.36.34","port":"26953","uuid":"6a1f0373-d449-4305-8e46-e72a789076d5","alterId":"0","cipher":"auto","network":"http"}
   - {"type":"vmess","name":"(已存活4天)香港-4.57MB/s(Youtube:不良林)","http-opts":{"path":["/"]},"server":"8.210.96.225","port":"29596","uuid":"a8a20fa9-636e-4e4c-9739-4187beb0bb86","alterId":"0","cipher":"auto","network":"http"}
   - {"type":"vmess","name":"(已存活1天)香港-3.17MB/s(Youtube:不良林)","http-opts":{"path":["/"]},"server":"47.243.23.80","port":"20256","uuid":"f707fd08-f017-4b9b-aeae-da908b34e313","alterId":"0","cipher":"auto","network":"http"}

@@ -1,4 +1,5 @@
 proxies:
+  - {"type":"vmess","name":"FR-v101a-https://git.io/v2free","ws-opts":{"path":"/frfrfff20v101N"},"server":"v101a.toddns.gq","port":443,"uuid":"e4853045-f790-3906-82ef-ec090ebd46a9","alterId":0,"cipher":"auto","network":"ws","tls":true}
   - {"type":"vmess","name":"⚫@filternet0142⚫کانال،آموزشی،ما،در،تلگرام🇺🇸_1","ws-opts":{"path":"/"},"server":"50.7.8.205","port":"55450","uuid":"4f1b83d4-ff3a-4bf4-d4b3-0b2b37e9c00b","alterId":"0","cipher":"auto","network":"ws"}
   - {"type":"ss","name":"⚫@filternet0142⚫کانال،آموزشی،ما،در،تلگرام🇺🇸_2","server":"38.91.101.242","port":1034,"cipher":"chacha20-ietf-poly1305","password":")1N1E6v0SU_rGTpg"}
   - {"type":"trojan","name":"⚫@filternet0142⚫کانال،آموزشی،ما،در،تلگرام🇭🇰_1","server":"20.205.4.127","port":443,"password":"d2727ecc-87bd-4bd0-b321-eb037b5d4cca","udp":true,"skip-cert-verify":true,"sni":"mzy.windowsupdate1.com"}

@@ -205,3 +205,4 @@ proxies:
   - {"name":"Hys-1.2.3.4","type":"hysteria","server":"1.2.3.4","port":12854,"sni":"wechat.com","skip-cert-verify":true,"alpn":["h3"],"protocol":"udp","auth_str":"pekopeko","up":50,"down":250}
   - {"name":"test","type":"vless","server":"1.2.3.4","port":7777,"uuid":"abc-def-ghi-fge-zsx","tls":true,"network":"tcp"}
   - {"name":"defaultName_3","server":"1.2.3.4","port":123,"username":"username","password":"password"}
+  - {"type":"vmess","name":"v2ray3.udpgw.com","ws-opts":{"path":"/worryfree"},"server":"v2ray3.udpgw.com","port":"443","uuid":"78fa676e-4c14-46ce-9520-c5cf7631d438","alterId":"0","cipher":"auto","network":"ws","tls":true}

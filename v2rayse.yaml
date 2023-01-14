@@ -1,4 +1,5 @@
 proxies:
+  - {"type":"vmess","name":"v2cross.com","ws-opts":{"path":"/vmess"},"server":"139.99.61.53","port":"80","uuid":"cd2f622d-22f1-4840-b403-97c84f79c809","alterId":"0","cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"🇷🇺_RU_俄罗斯联邦->🇫🇷_FR_法国","ws-opts":{"path":"/fr-unlimitxxx"},"server":"v10a.toddns.tk","port":80,"uuid":"a25881f3-967f-3265-bc7f-9e66857b016b","alterId":"0","cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"🇺🇸_US_美国_1","ws-opts":{"path":"/go"},"server":"lu1.gogogoo.cyou","port":443,"uuid":"db5d1aa3-908b-44d1-be0a-4e6a8d4e4cda","alterId":"0","cipher":"auto","network":"ws","tls":true}
   - {"type":"vmess","name":"🇨🇷_CR_哥斯达黎加->🇺🇸_US_美国","ws-opts":{"path":"/ECTCJ0DF","headers":{"host":"lg1.trump2023.us"}},"server":"190.93.244.2","port":443,"uuid":"40d496a6-ceeb-4096-baeb-4cc52b205621","alterId":"0","cipher":"auto","network":"ws","tls":true}

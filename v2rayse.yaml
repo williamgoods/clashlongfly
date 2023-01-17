@@ -49,6 +49,8 @@ proxies:
   - {"type":"vmess","name":"🇭🇰_HK_香港_9","http-opts":{"path":["/"]},"server":"8.210.140.81","port":24447,"uuid":"ef97abb8-c32a-4c36-8ffd-40dfffb8dd30","alterId":"0","cipher":"auto","network":"http"}
   - {"type":"ss","name":"🇰🇷_KR_韩国_2","server":"43.201.69.62","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
   - {"type":"vmess","name":"🇲🇴_MO_澳门->🇭🇰_HK_香港","ws-opts":{"path":"/f57a88ea406d","headers":{"host":"202442cd6ad9a30ba.spbohk.com"}},"server":"45.64.22.56","port":443,"uuid":"f0879370-bf50-44de-b547-f57a88ea406d","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"name":"_01","server":"192.36.41.28","type":"ss","port":989,"password":"f8f7aCzcPKbsF8p3","cipher":"aes-256-cfb"}
+  - {"name":"_02","server":"134.195.196.85","type":"ss","port":6679,"udp":true,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
   - {"name":"🇿🇦_ZA_南非_1","server":"156.251.191.241","port":32898,"type":"vmess","uuid":"7204d6b8-ddaf-417b-c8d8-5f983dc9f6cb","alterId":0,"cipher":"auto","country":"🇿🇦_ZA_南非_1","skip-cert-verify":true,"tls":false,"network":"tcp","index":1}
   - {"name":"🇨🇳_CN_中国->🇭🇰_HK_香港_2","server":"120.233.10.71","port":38007,"type":"ss","country":"🇨🇳_CN_中国->🇭🇰_HK_香港_2","cipher":"chacha20-ietf-poly1305","password":"66aa4ba9-8df9-4d58-ad8e-1026a2b0219b","index":2}
   - {"name":"🇨🇳_CN_中国->🇯🇵_JP_日本_3","server":"hncu.relay.qchwnd.moe","port":10201,"type":"trojan","country":"🇨🇳_CN_中国->🇯🇵_JP_日本_3","skip-cert-verify":true,"udp":true,"password":"5b059403-c05c-4609-ab01-a9352041d2e4","index":3}

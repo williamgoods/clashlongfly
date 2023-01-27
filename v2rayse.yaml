@@ -1,4 +1,8 @@
 proxies:
+  - {"name":"🇿🇦_ZA_南非_1","server":"156.251.191.241","port":32898,"type":"vmess","uuid":"7204d6b8-ddaf-417b-c8d8-5f983dc9f6cb","alterId":0,"cipher":"auto","country":"🇿🇦_ZA_南非_1","skip-cert-verify":true,"tls":false,"network":"tcp","index":1}
+  - {"name":"🇨🇳_CN_中国->🇭🇰_HK_香港_2","server":"120.233.10.71","port":38007,"type":"ss","country":"🇨🇳_CN_中国->🇭🇰_HK_香港_2","cipher":"chacha20-ietf-poly1305","password":"66aa4ba9-8df9-4d58-ad8e-1026a2b0219b","index":2}
+  - {"name":"🇨🇳_CN_中国->🇯🇵_JP_日本_3","server":"hncu.relay.qchwnd.moe","port":10201,"type":"trojan","country":"🇨🇳_CN_中国->🇯🇵_JP_日本_3","skip-cert-verify":true,"udp":true,"password":"5b059403-c05c-4609-ab01-a9352041d2e4","index":3}
+  - {"name":"🇷🇺_RU_俄罗斯联邦_4","server":"213.183.53.200","port":9005,"type":"ssr","country":"🇷🇺_RU_俄罗斯联邦_4","password":"ZET59LF6DvCC8KVt","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain","index":4}
   - {"type":"vmess","name":"HK_youtube@资源分享师_28","ws-opts":{"path":"/YAZAawtk","headers":{"host":"n1671305784.sxhucjg.cn"}},"server":"n1671305784.sxhucjg.cn","port":"443","uuid":"1f3ca60e-fff2-41b7-91e5-216d1bf9526b","alterId":"0","cipher":"auto","network":"ws","tls":true}
   - {"type":"trojan","name":"HK_youtube@资源分享师_125","server":"kaxi.go01.t1t2t3t4.com","port":16967,"password":"vov5OkJVfh","udp":true,"skip-cert-verify":true,"sni":"kaxi.go01.t1t2t3t4.com","network":"tcp"}
   - {"type":"ss","name":"Youtube顺丰资源+CN__1","server":"223.111.129.13","port":10001,"cipher":"chacha20-ietf-poly1305","password":"46c9a175-fa05-4820-aa22-697dd2ebad33"}

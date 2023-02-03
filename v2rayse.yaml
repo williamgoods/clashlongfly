@@ -69,6 +69,16 @@ proxies:
   - {"name":"T.ME: Vpn_Filternet_🇺🇸_8","type":"vmess","server":"172.67.207.209","port":2082,"cipher":"auto","uuid":"082122a2-8479-4089-82f0-f32ba5fc5426","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/bb","headers":{"host":"hao.huaqian.icu"}}}
   - {"name":"T.ME: Vpn_Filternet_🇺🇸_9","type":"vmess","server":"198.41.197.117","port":2082,"cipher":"auto","uuid":"082122a2-8479-4089-82f0-f32ba5fc5426","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/bb","headers":{"host":"hao.huaqian.icu"}}}
   - {"name":"T.ME: Vpn_Filternet_🇺🇸_10","type":"vmess","server":"172.67.46.131","port":2082,"cipher":"auto","uuid":"082122a2-8479-4089-82f0-f32ba5fc5426","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/bb","headers":{"host":"hao.huaqian.icu"}}}
+  - {"name":"v2rayse_test_1","type":"ss","server":"198.57.27.218","port":5004,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+  - {"name":"v2rayse_test_2","type":"vmess","server":"154.23.190.162","port":443,"cipher":"auto","uuid":"b9984674-f771-4e67-a198-c7e60720ba2c","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{}}
+  - {"name":"v2rayse_test_3","type":"vmess","server":"154.23.190.162","port":443,"cipher":"auto","uuid":"b9984674-f771-4e67-a198-c7e60720ba2c","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{}}
+  - {"name":"defaultName_1","type":"ssr","server":"20.239.49.44","port":59814,"password":"3df57276-03ef-45cf-bdd4-4edb6dfaa0ef","cipher":"dummy","obfs":"plain","protocol":"origin","group":"https://v2rayse.com"}
+  - {"name":"v2rayse_test_4","type":"trojan","server":"ca-trojan.bonds.id","port":443,"udp":true,"password":"bc7593fe-0604-4fbe-a70bYWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTaclWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272","skip-cert-verify":true}
+  - {"name":"defaultName_2","type":"http","server":"124.15.12.24","port":251,"username":"username","password":"password"}
+  - {"name":"defaultName_3","type":"socks5","server":"124.15.12.24","port":2312}
+  - {"name":"Hys-1.2.3.4","type":"hysteria","server":"1.2.3.4","port":12854,"sni":"wechat.com","skip-cert-verify":true,"alpn":["h3"],"protocol":"udp","auth_str":"pekopeko","up":50,"down":250}
+  - {"name":"test","type":"vless","server":"1.2.3.4","port":7777,"uuid":"abc-def-ghi-fge-zsx","tls":true,"network":"tcp"}
+  - {"name":"defaultName_4","server":"1.2.3.4","port":123,"username":"username","password":"password"}
   - {"name":"T.ME: Vpn_Filternet_🇯🇵_1","type":"ssr","server":"jp-am48-6.eqnode.net","port":8081,"password":"eAokbaDN6","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","protocol":"origin"}
   - {"name":"T.ME: Vpn_Filternet_🇸🇬_2","type":"ss","server":"81.90.189.52","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
   - {"name":"T.ME: Vpn_Filternet_🇳🇱_3","type":"ss","server":"213.183.59.206","port":9003,"password":"JdmRK9gMEqFgs8nP","cipher":"aes-256-cfb"}

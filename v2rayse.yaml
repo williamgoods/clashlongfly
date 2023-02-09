@@ -50,6 +50,7 @@ proxies:
   - {"name":"🇸🇬_SG_新加坡_7","type":"trojan","server":"20.24.154.167","port":443,"udp":true,"password":"718046d1-acee-48be-b5d3-1bda5eee0139","sni":"$pcd462233.netvigator.com","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇰🇷_KR_韩国","type":"vmess","server":"152.69.230.170","port":80,"cipher":"auto","uuid":"6aa24ded-5f15-48c7-8cba-3e2a159d6b77","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws"}
   - {"name":"🇺🇸_US_美国","type":"vmess","server":"172.67.135.57","port":443,"cipher":"auto","uuid":"c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/AUIKN8AU","headers":{"host":"oplg1.cfcdn2.xyz"}}}
+  - {"name":"🇩🇪_DE_德国","type":"vmess","server":"us02.wxfz.ml","port":11903,"cipher":"auto","uuid":"197b49d8-5d07-49e6-8944-68afa81a5fe5","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
   - {"type":"trojan","name":"🇸🇬_SG_新加坡_1","server":"ofsg.bwh088.xyz","port":62011,"password":"14c0784b-827a-40c9-a530-99097619916a","udp":true,"skip-cert-verify":true,"sni":"ofsg.bwh088.xyz","network":"tcp"}
   - {"type":"ss","name":"🇸🇬_SG_新加坡_2","server":"54.169.145.188","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
   - {"type":"vmess","name":"🇺🇸_US_美国","ws-opts":{"path":"/AUIKN8AU","headers":{"host":"oplg1.cfcdn2.xyz"}},"server":"172.67.135.57","port":443,"uuid":"c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7","alterId":"0","cipher":"auto","network":"ws","tls":true}

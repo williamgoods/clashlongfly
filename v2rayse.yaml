@@ -191,6 +191,7 @@ proxies:
   - {"type":"vmess","name":"🇺🇸_US_美国","ws-opts":{"path":"/AUIKN8AU","headers":{"host":"oplg1.cfcdn2.xyz"}},"server":"172.67.135.57","port":443,"uuid":"c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7","alterId":"0","cipher":"auto","network":"ws","tls":true}
   - {"type":"vmess","name":"🇨🇦_CA_加拿大->🇺🇸_US_美国","ws-opts":{"path":"/5QNROSRV","headers":{"host":"oplg1.zhujicn2.com"}},"server":"23.227.38.39","port":443,"uuid":"56a2188b-2ab7-402c-b9b8-34847fdf0958","alterId":"0","cipher":"auto","network":"ws","tls":true}
   - {"type":"vmess","name":"🇩🇪_DE_德国","server":"us02.wxfz.ml","port":11903,"uuid":"197b49d8-5d07-49e6-8944-68afa81a5fe5","alterId":"0","cipher":"auto"}
+  - {"type":"vmess","name":"公众号王月iii","ws-opts":{"path":"/wo.php","headers":{"host":"{\"host\":\"els200.jslist.tk\"}"}},"server":"els200.jslist.tk","port":8443,"uuid":"e30cfa80-bc2c-43df-e808-97876aee77e2","alterId":32,"cipher":"auto","network":"ws","tls":true}
   - {"type":"trojan","name":"🇸🇬_SG_新加坡","server":"ofsg.bwh088.xyz","port":62011,"password":"14c0784b-827a-40c9-a530-99097619916a","udp":true,"skip-cert-verify":true,"sni":"ofsg.bwh088.xyz","network":"tcp"}
   - {"name":"🇸🇬_SG_新加坡_1","type":"trojan","server":"ofsg.bwh088.xyz","port":62011,"udp":true,"password":"14c0784b-827a-40c9-a530-99097619916a","sni":"$ofsg.bwh088.xyz","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇨🇳_CN_中国_1","type":"ss","server":"14.29.124.168","port":25219,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}

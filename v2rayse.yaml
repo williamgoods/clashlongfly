@@ -1,4 +1,5 @@
 proxies:
+  - {"name":"🇰🇷_KR_韩国","type":"vmess","server":"146.56.40.195","port":21875,"cipher":"auto","uuid":"3462409a-61c9-4fd2-ed4b-fa929217b282","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws"}
   - {"name":"🇨🇷_CR_哥斯达黎加->🇺🇸_US_美国_1","type":"vmess","server":"190.93.245.2","port":443,"cipher":"auto","uuid":"40d496a6-ceeb-4096-baeb-4cc52b205621","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ECTCJ0DF","headers":{"host":"lg1.trump2023.us"}}}
   - {"name":"🇨🇳_CN_中国->🇺🇸_US_美国","type":"vmess","server":"117.164.185.222","port":16317,"cipher":"auto","uuid":"e62c703f-6910-3858-9228-da30a3e51225","alterId":0,"tls":false,"skip-cert-verify":true,"network":"none"}
   - {"name":"🇭🇰_HK_香港_1","type":"vmess","server":"47.243.230.222","port":35668,"cipher":"auto","uuid":"ab4df3ef-e77f-4f2a-bfb8-63604412f73b","alterId":0,"tls":false,"skip-cert-verify":true,"network":"http"}

@@ -175,6 +175,18 @@ proxies:
   - {"name":"Relay 🇻🇳 Viet Nam 01 TG:@nodpai","type":"trojan","server":"v02.gutingting.com","port":30051,"udp":true,"password":"01e915a8-a86a-4107-a24c-5363ff0b5249","sni":"v2vn01.fuqiangren.com","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇻🇳 Viet Nam 02 TG:@nodpai","type":"vmess","server":"vn1.v2rayserv.com","port":80,"cipher":"auto","uuid":"a94966a1-2225-422b-b756-dd4b4d6b974b","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/sshocean","headers":{"host":"vn1.v2rayserv.com"}}}
   - {"name":"🇻🇳 Viet Nam 03 TG:@nodpai","type":"trojan","server":"103.195.236.24","port":443,"udp":true,"password":"6270e679-6b55-40e7-9dab-4143e32abf6d","sni":"glc.hruqoaw.cn","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"俄罗斯A","type":"ssr","server":"45.130.147.147","port":30771,"password":"lncn.org ntq","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
+  - {"name":"俄罗斯B","type":"ssr","server":"45.130.147.18","port":30771,"password":"lncn.org ntq","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
+  - {"name":"俄罗斯C","type":"ssr","server":"45.130.146.65","port":30771,"password":"lncn.org ntq","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
+  - {"name":"俄罗斯D","type":"ssr","server":"45.89.229.35","port":30771,"password":"lncn.org ntq","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
+  - {"name":"俄罗斯Q","type":"ssr","server":"45.8.159.153","port":30771,"password":"lncn.org ntq","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
+  - {"name":"俄罗斯R","type":"ssr","server":"45.89.228.102","port":30771,"password":"lncn.org ntq","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
+  - {"name":"俄罗斯S","type":"ssr","server":"45.130.147.178","port":30771,"password":"lncn.org ntq","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
+  - {"name":"俄罗斯T_1","type":"ssr","server":"194.50.171.150","port":30771,"password":"lncn.org ntq","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
+  - {"name":"俄罗斯T_2","type":"ssr","server":"45.8.158.14","port":30771,"password":"lncn.org ntq","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
+  - {"name":"俄罗斯V","type":"ssr","server":"45.89.228.214","port":30771,"password":"lncn.org ntq","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
+  - {"name":"俄罗斯W","type":"ssr","server":"45.144.178.82","port":30771,"password":"lncn.org ntq","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
+  - {"name":"俄罗斯X","type":"ssr","server":"2.56.240.111","port":30771,"password":"lncn.org ntq","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
   - {"name":"🇦🇲_AM_亚美尼亚","type":"vmess","server":"185.162.228.228","port":443,"cipher":"auto","uuid":"40d496a6-ceeb-4096-baeb-4cc52b205621","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ECTCJ0DF","headers":{"host":"lg1.trump2023.us"}}}
   - {"name":"🇸🇬_SG_新加坡","type":"ss","server":"13.215.178.190","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
   - {"name":"🇭🇰_HK_香港","type":"vmess","server":"47.243.131.166","port":24319,"cipher":"auto","uuid":"1163bd66-75eb-4fc3-8980-0154cb86dd4d","alterId":0,"tls":false,"skip-cert-verify":true,"network":"http"}

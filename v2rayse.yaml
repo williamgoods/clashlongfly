@@ -1,4 +1,7 @@
 proxies:
+  - {"name":"🇨🇳_CN_中国->🇸🇬_SG_新加坡","type":"ss","server":"api-a-asia-3.mcqqn.com","port":61019,"password":"82add7d3-b43d-4fc3-9c68-4a2e36512893","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇸🇬_SG_新加坡","type":"ssr","server":"sg-am3.eqsunshine.com","port":32001,"password":"3g0dHlKME","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","protocol":"origin"}
+  - {"name":"🇨🇳_CN_中国->🇭🇰_HK_香港","type":"vmess","server":"shcn02.xc188.net","port":10001,"cipher":"auto","uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":1,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"type":"vmess","name":"🇺🇸_US_美国->🇰🇭_KH_柬埔寨","ws-opts":{"path":"/shirker"},"server":"kh.sharecentre.online","port":443,"uuid":"20e92881-5fb4-4b05-bc77-57929476dc69","alterId":"0","cipher":"auto","network":"ws","tls":true}
   - {"type":"trojan","name":"🇨🇳_CN_中国->🇸🇬_SG_新加坡_1","server":"hn.xiaohouzi.club","port":48437,"password":"64de1de7-e3bb-3dc4-ab04-d1e601e18ac5","udp":true,"skip-cert-verify":true,"sni":"$$hn.xiaohouzi.club","network":"tcp"}
   - {"type":"vmess","name":"🇺🇸_US_美国->🇳🇱_NL_荷兰","ws-opts":{"path":"/shirker","headers":{"host":"nl.sharecentre.online"}},"server":"cf-lt-dns.sharecentre.online","port":443,"uuid":"20e92881-5fb4-4b05-bc77-57929476dc69","alterId":"0","cipher":"auto","network":"ws","tls":true}

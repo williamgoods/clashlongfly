@@ -1,4 +1,6 @@
 proxies:
+  - {"name":"🇨🇳_CN_中国->🇹🇼_TW_台湾","type":"ss","server":"api-a-asia-2.mcqqn.com","port":61006,"password":"16fd3dbf-8939-4bbd-b6b8-fb9764c16833","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇨🇳_CN_中国->🇭🇰_HK_香港","type":"vmess","server":"36.156.102.166","port":10001,"cipher":"auto","uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇺🇸🎟Psiphon_1","type":"vmess","server":"139.99.91.95","port":443,"cipher":"auto","uuid":"c0156451-4efb-45e2-84fc-8d315c4650db","alterId":32,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
   - {"name":"🇺🇸🎟Psiphon_2","type":"vmess","server":"45.85.119.94","port":443,"cipher":"auto","uuid":"ee30d3ff-da14-4ea8-bcd2-02e8ee3667de","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"hstr1675520106270.aidapp.life","network":"ws","ws-opts":{"path":"/aidapp.lifevws","headers":{"host":"hstr1675520106270.aidapp.life"}}}
   - {"name":"🇺🇸🎟Psiphon_3","type":"trojan","server":"login.progbyrazyar.ir","port":2087,"udp":true,"password":"qMmvouLC77","skip-cert-verify":true,"network":"tcp"}

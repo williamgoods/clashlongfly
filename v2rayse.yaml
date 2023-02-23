@@ -1,4 +1,9 @@
 proxies:
+  - {"type":"trojan","name":"王月iii,公众号1","server":"v01.gutingting.com","port":30056,"password":"625ac315-d8d3-407f-8735-fdd933b98e59","udp":true,"skip-cert-verify":true,"sni":"v1kr01.fuqiangren.com","network":"tcp"}
+  - {"type":"ss","name":"王月iii,公众号2","server":"43.201.50.13","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
+  - {"type":"vmess","name":"王月iii,公众号3","ws-opts":{"path":"/reffs7y26g0ua"},"server":"131.186.24.103","port":443,"uuid":"6093eefb-7ab6-41df-aba0-d5fa58147e10","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"王月iii,公众号4","ws-opts":{"path":"/v47-2023unlimitndxd","headers":{"host":"51.81.202.62"}},"server":"51.81.202.62","port":80,"uuid":"a25881f3-967f-3265-bc7f-9e66857b016b","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"王月iii,公众号5","ws-opts":{"path":"/mugua","headers":{"host":"jp-balancer.myn1des.com"}},"server":"223.111.202.139","port":63086,"uuid":"9a5dc02b-8adc-3529-9163-ab690f38fbb6","alterId":"0","cipher":"auto","network":"ws","tls":true}
   - {"name":"SG|新加坡|01|NF","type":"vmess","server":"sg01.fm1203.top","port":4430,"cipher":"auto","uuid":"0671f027-e895-465c-83e7-c915f1c2ca6f","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"SG|新加坡|02|NF","type":"vless","server":"sg01.fm1203.top","port":443,"uuid":"92966241-e24e-4903-a4bc-6a986e9d86af","tls":false,"flow":"xtls-rprx-direct"}
   - {"name":"US|美国|02|NF","type":"vmess","server":"67.230.162.18","port":35587,"cipher":"auto","uuid":"dd7e58bf-8df9-4ae8-f159-54fa6155fbc5","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}

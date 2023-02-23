@@ -1,4 +1,8 @@
 proxies:
+  - {"name":"SG|新加坡|01|NF","type":"vmess","server":"sg01.fm1203.top","port":4430,"cipher":"auto","uuid":"0671f027-e895-465c-83e7-c915f1c2ca6f","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"SG|新加坡|02|NF","type":"vless","server":"sg01.fm1203.top","port":443,"uuid":"92966241-e24e-4903-a4bc-6a986e9d86af","tls":false,"flow":"xtls-rprx-direct"}
+  - {"name":"US|美国|02|NF","type":"vmess","server":"67.230.162.18","port":35587,"cipher":"auto","uuid":"dd7e58bf-8df9-4ae8-f159-54fa6155fbc5","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"US|美国|01|GIA","type":"vmess","server":"67.230.162.18","port":443,"cipher":"auto","uuid":"aa1373bd-1467-4852-c3db-9eb35740a48e","alterId":64,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
   - {"type":"vmess","name":"🇺🇸_US_美国->🇺🇦_UA_乌克兰","ws-opts":{"path":"/5rtP40gj/"},"server":"v2ray.ibgfw.top","port":2083,"uuid":"4efdd8a5-ba9a-4faf-b4ef-127c68924aa2","alterId":"0","cipher":"auto","network":"ws","tls":true}
   - {"type":"vmess","name":"🇸🇬_SG_新加坡","server":"00000000000000000000000000000000000000000000000000000000000036a.node-for-bigairport.win","port":12356,"uuid":"78065c14-fc80-40b5-a46c-0e34efdf82fa","alterId":"0","cipher":"auto","network":"tcp"}
   - {"type":"vmess","name":"🇺🇸_US_美国->🇫🇷_FR_法国","ws-opts":{"path":"/9JZFDTKE","headers":{"host":"fr1.trump2023.org"}},"server":"141.193.213.21","port":443,"uuid":"2b214122-1906-428a-bbb7-a039cbb7cd5c","alterId":"0","cipher":"auto","network":"ws","tls":true}
@@ -150,6 +154,10 @@ proxies:
   - {"type":"vmess","name":"🇩🇪_DE_德国","ws-opts":{"path":"/vpnjantit"},"server":"217.160.33.100","port":10000,"uuid":"aae9b3e6-b275-11ed-8872-b3c4498300e6","alterId":"0","cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"🇸🇬_SG_新加坡","server":"00000000000000000000000000000000000000000000000000000000000036a.node-for-bigairport.win","port":12356,"uuid":"78065c14-fc80-40b5-a46c-0e34efdf82fa","alterId":"0","cipher":"auto","network":"tcp"}
   - {"type":"vmess","name":"🇨🇦_CA_加拿大->🇺🇸_US_美国","ws-opts":{"path":"/5QNROSRV","headers":{"host":"oplg1.zhujicn2.com"}},"server":"23.227.38.39","port":443,"uuid":"56a2188b-2ab7-402c-b9b8-34847fdf0958","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"name":"SG|新加坡|01|NF","type":"vmess","server":"sg01.fm1203.top","port":4430,"cipher":"auto","uuid":"0671f027-e895-465c-83e7-c915f1c2ca6f","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"SG|新加坡|02|NF","type":"vless","server":"sg01.fm1203.top","port":443,"uuid":"92966241-e24e-4903-a4bc-6a986e9d86af","tls":false,"flow":"xtls-rprx-direct"}
+  - {"name":"US|美国|02|NF","type":"vmess","server":"67.230.162.18","port":35587,"cipher":"auto","uuid":"dd7e58bf-8df9-4ae8-f159-54fa6155fbc5","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"US|美国|01|GIA","type":"vmess","server":"67.230.162.18","port":443,"cipher":"auto","uuid":"aa1373bd-1467-4852-c3db-9eb35740a48e","alterId":64,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
   - {"type":"vmess","name":"🇺🇸_US_美国->🇫🇷_FR_法国","ws-opts":{"path":"/9JZFDTKE","headers":{"host":"fr1.trump2023.org"}},"server":"141.193.213.21","port":443,"uuid":"2b214122-1906-428a-bbb7-a039cbb7cd5c","alterId":"0","cipher":"auto","network":"ws","tls":true}
   - {"type":"vmess","name":"🇺🇸_US_美国->🇺🇦_UA_乌克兰","ws-opts":{"path":"/5rtP40gj/"},"server":"v2ray.ibgfw.top","port":2083,"uuid":"4efdd8a5-ba9a-4faf-b4ef-127c68924aa2","alterId":"0","cipher":"auto","network":"ws","tls":true}
   - {"type":"vmess","name":"🇩🇪_DE_德国","ws-opts":{"path":"/vpnjantit"},"server":"217.160.33.100","port":10000,"uuid":"aae9b3e6-b275-11ed-8872-b3c4498300e6","alterId":"0","cipher":"auto","network":"ws"}

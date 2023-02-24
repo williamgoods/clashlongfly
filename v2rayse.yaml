@@ -1,4 +1,9 @@
 proxies:
+  - {"type":"vmess","name":"🇨🇳_CN_中国->🇹🇼_TW_台湾","server":"103.45.78.251","port":10004,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇦🇲_AM_亚美尼亚","ws-opts":{"path":"/A2DJOPFT","headers":{"host":"lg10.cfcdn1.xyz"}},"server":"185.162.228.230","port":443,"uuid":"17b2a313-37a0-4945-a8e4-e63375506b4a","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇸🇬_SG_新加坡","server":"v02.gutingting.com","port":20223,"password":"2acbae30-b409-4be6-9a11-15cf7949bfb7","udp":true,"skip-cert-verify":true,"sni":"v2sg01.fuqiangren.com","network":"tcp"}
+  - {"type":"vmess","name":"🇭🇰_HK_香港->🇯🇵_JP_日本","ws-opts":{"path":"/pq/jp3"},"server":"112.120.127.74","port":80,"uuid":"b1e5fb98-1c24-48d5-b0ff-7f3ea060d885","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇺🇸_US_美国","ws-opts":{"path":"/cone"},"server":"ncdn.paotung.org","port":443,"uuid":"3a2cc75a-5fc1-4123-983b-7a1c86a10888","alterId":"0","cipher":"auto","network":"ws","tls":true}
   - {"name":"🇯🇵_JP_日本","type":"vmess","server":"152.69.206.73","port":12794,"cipher":"auto","uuid":"52768552-c2b2-4460-89f1-e740cc145b99","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws"}
   - {"name":"🇹🇼_TW_台湾","type":"vmess","server":"tw2.sanfen001.pics","port":443,"cipher":"auto","uuid":"5cd940ef-5f62-4afe-9464-ec89e8c070b2","alterId":0,"tls":true,"skip-cert-verify":true,"network":""}
   - {"name":"🇺🇸_US_美国_1","type":"vmess","server":"23.224.191.5","port":443,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws"}
@@ -9,6 +14,11 @@ proxies:
   - {"name":"🇺🇸_US_美国_2","type":"trojan","server":"hk01.shenzhouplus.cf","port":10007,"udp":true,"password":"623d6c1ffc2a4f4f8eb7575c45429df5","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇨🇳_CN_中国->🇺🇸_US_美国","type":"trojan","server":"v01.gutingting.com","port":20224,"udp":true,"password":"2acbae30-b409-4be6-9a11-15cf7949bfb7","sni":"v2usa01.fuqiangren.com","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇨🇳_CN_中国","type":"vmess","server":"36.134.16.190","port":11023,"cipher":"auto","uuid":"8c042a38-71c1-1dcb-00df-54880236e0dc","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"type":"vmess","name":"公众号1.王月iii","server":"103.45.78.251","port":10004,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"公众号2.王月iii","ws-opts":{"path":"/A2DJOPFT","headers":{"host":"lg10.cfcdn1.xyz"}},"server":"185.162.228.230","port":443,"uuid":"17b2a313-37a0-4945-a8e4-e63375506b4a","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"trojan","name":"公众号3.王月iii","server":"v02.gutingting.com","port":20223,"password":"2acbae30-b409-4be6-9a11-15cf7949bfb7","udp":true,"skip-cert-verify":true,"sni":"v2sg01.fuqiangren.com","network":"tcp"}
+  - {"type":"vmess","name":"公众号4.王月iii","ws-opts":{"path":"/pq/jp3"},"server":"112.120.127.74","port":80,"uuid":"b1e5fb98-1c24-48d5-b0ff-7f3ea060d885","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"公众号5.王月iii","ws-opts":{"path":"/cone"},"server":"ncdn.paotung.org","port":443,"uuid":"3a2cc75a-5fc1-4123-983b-7a1c86a10888","alterId":"0","cipher":"auto","network":"ws","tls":true}
   - {"name":"🇺🇸_US_美国_1","type":"vmess","server":"cf-lt.sharecentre.online","port":80,"cipher":"auto","uuid":"6c46e17d-4f90-4fda-8484-98f192524bc7","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/api/v3/download.getFile","headers":{"host":"ssrsub.v10.asuka.buzz"}}}
   - {"name":"🇭🇰_HK_香港_1","type":"vmess","server":"8.218.58.199","port":44200,"cipher":"auto","uuid":"815705a3-056e-4dbd-86c0-25d212144365","alterId":0,"tls":false,"skip-cert-verify":true,"network":"http"}
   - {"name":"🇭🇰_HK_香港_2","type":"vmess","server":"8.210.117.166","port":45551,"cipher":"auto","uuid":"3cdc9bff-5fe7-4e49-9cd7-340b0e445237","alterId":0,"tls":false,"skip-cert-verify":true,"network":"http"}

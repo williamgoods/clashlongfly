@@ -61,6 +61,8 @@ proxies:
   - {"name":"🇭🇰_HK_香港_4","type":"vmess","server":"8.218.95.163","port":26227,"cipher":"auto","uuid":"d6d954bd-dca3-4e53-9574-d2e81c4d14be","alterId":0,"tls":false,"skip-cert-verify":true,"network":"http"}
   - {"name":"🇺🇸_US_美国->🇷🇺_RU_俄罗斯联邦","type":"vmess","server":"els200.jslist.tk","port":8443,"cipher":"auto","uuid":"e30cfa80-bc2c-43df-e808-97876aee77e2","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/wo.php","headers":{"host":"els200.jslist.tk"}}}
   - {"name":"🇰🇷_KR_韩国","type":"ss","server":"13.125.11.187","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇯🇵_JP_日本","type":"ss","server":"43.207.166.104","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇸🇬_SG_新加坡","type":"ss","server":"13.229.224.224","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
   - {"name":"SG|新加坡|01|NF","type":"vmess","server":"sg01.fm1203.top","port":4430,"cipher":"auto","uuid":"0671f027-e895-465c-83e7-c915f1c2ca6f","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"SG|新加坡|02|NF","type":"vless","server":"sg01.fm1203.top","port":443,"uuid":"92966241-e24e-4903-a4bc-6a986e9d86af","tls":false,"flow":"xtls-rprx-direct"}
   - {"name":"US|美国|02|NF","type":"vmess","server":"67.230.162.18","port":35587,"cipher":"auto","uuid":"dd7e58bf-8df9-4ae8-f159-54fa6155fbc5","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}

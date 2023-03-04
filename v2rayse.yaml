@@ -496,6 +496,7 @@ proxies:
   - {"name":"🇸🇬_SG_新加坡_7","type":"vmess","server":"20.205.214.65","port":54597,"cipher":"auto","uuid":"b8ec1401-e5c1-4299-b315-9694cca0c2f8","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws"}
   - {"name":"🇨🇳_CN_中国_5","type":"vmess","server":"112.132.215.189","port":50002,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇨🇳_CN_中国->🇱🇺_LU_卢森堡","type":"vmess","server":"v22.gaowosiquanjia.top","port":80,"cipher":"auto","uuid":"fceab4b1-5abd-4015-a165-aa694327b462","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws"}
+  - {"name":"🇭🇰_HK_香港","type":"trojan","server":"37.123.196.166","port":28893,"udp":true,"password":"shenmegui","skip-cert-verify":true,"network":"tcp"}
   - {"name":"defaultName","type":"socks5","server":"159.89.90.162","port":59166}
   - {"name":"🇨🇳_CN_中国->🇹🇼_TW_台湾_1","type":"ss","server":"cdn.alibaba-kunlun.com","port":14108,"password":"e1af570e-b7e2-402d-a60e-a363ffdfee7e","cipher":"aes-128-gcm"}
   - {"name":"🇨🇦_CA_加拿大","type":"vmess","server":"jnda4.6bbt.tk","port":443,"cipher":"auto","uuid":"6e41c22a-2794-4504-a05a-4f8def6d0bf5","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws"}

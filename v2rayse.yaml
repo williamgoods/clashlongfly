@@ -1,4 +1,301 @@
 proxies:
+  - {"type":"ss","name":"T.ME:
+    @Vpn_Filternet🔅🇷🇸🔅RS","server":"194.71.126.31","port":989,"cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3"}
+  - {"type":"ss","name":"T.ME:
+    @Vpn_Filternet🔅🇰🇷🔅KR","server":"43.201.70.114","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
+  - {"type":"vmess","name":"T.ME:
+    @Vpn_Filternet🔅🇭🇰🔅HK","ws-opts":{"path":"/header","headers":{"host":"hk-a.duaaoped.xyz"}},"server":"154.3.37.41","port":"8063","uuid":"390b3ba1-6758-4631-adba-b8f18eae5301","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"ss","name":"T.ME:
+    @Vpn_Filternet🔅🇯🇵🔅JP","server":"43.207.160.88","port":8080,"cipher":"aes-256-cfb","password":"doub.io"}
+  - {"type":"ss","name":"T.ME:
+    @Vpn_Filternet🔅🇯🇵🔅JP","server":"43.207.109.176","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
+  - {"type":"ss","name":"T.ME:
+    @Vpn_Filternet🔅🇸🇬🔅SG","server":"13.215.154.95","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
+  - {"type":"vmess","name":"T.ME:
+    @Vpn_Filternet🔅🇯🇵🔅JP","server":"3.112.95.214","port":"10000","uuid":"d89ccf42-e9e9-4a0d-8230-8bee621f970e","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"ssr","name":"T.ME:
+    @Vpn_Filternet🔅🇯🇵🔅JP","server":"18.177.140.50","port":8081,"protocol":"origin","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","password":"eAokbaDN6","obfs-param":"PT09PQ%�","protocol-param":"PT09PQ%�"}
+  - {"type":"ssr","name":"T.ME:
+    @Vpn_Filternet🔅🇷🇺🔅RU","server":"213.183.53.177","port":9005,"protocol":"origin","cipher":"aes-256-cfb","obfs":"plain","password":"ZET59LF6DvCC8KVt","obfs-param":"===="}
+  - {"type":"vmess","name":"T.ME:
+    @Vpn_Filternet🔅🇨🇳🔅CN","server":"103.45.78.147","port":"10001","uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":"1","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"T.ME:
+    @Vpn_Filternet🔅🇺🇸🔅US","ws-opts":{"path":"/us2/getData","headers":{"host":"us2.linkeden.co"}},"server":"98.126.18.110","port":"32917","uuid":"9b0b3826-3a7b-41b4-924a-8a77596c8708","alterId":"64","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"T.ME:
+    @Vpn_Filternet🔅🇺🇸🔅US","ws-opts":{"path":"/us1/getData","headers":{"host":"us1.linkeden.co"}},"server":"98.126.19.25","port":"30403","uuid":"51bdf7b1-997b-4bce-83c3-0ee6560a8c6a","alterId":"64","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"T.ME:
+    @Vpn_Filternet🔅🇭🇰🔅HK","ws-opts":{"path":"/hkx/getData","headers":{"host":"hkx.linkeden.co"}},"server":"43.154.90.64","port":"58620","uuid":"ce3f0b98-7414-498e-9d0d-20cc37360896","alterId":"64","cipher":"auto","network":"ws","tls":true}
+  - {"type":"ss","name":"T.ME:
+    @Vpn_Filternet🔅🇺🇸🔅US","server":"35.92.132.241","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
+  - {"type":"vmess","name":"T.ME:
+    @Vpn_Filternet🔅🇺🇸🔅US","ws-opts":{"path":"/chat"},"server":"143.42.241.30","port":"443","uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"T.ME:
+    @Vpn_Filternet🔅🇮🇳🔅IN","ws-opts":{"path":"/chat"},"server":"139.144.12.196","port":"443","uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"T.ME:
+    @Vpn_Filternet🔅🇨🇳🔅CN","server":"103.45.78.185","port":"10001","uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"T.ME:
+    @Vpn_Filternet🔅🇨🇳🔅CN","server":"103.45.78.147","port":"10001","uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":"1","cipher":"auto","network":"tcp"}
+  - {"type":"ssr","name":"T.ME:
+    @Vpn_Filternet🔅🇷🇺🔅RU","server":"91.206.92.227","port":35522,"protocol":"origin","cipher":"dummy","obfs":"plain","password":"lncn.org
+    kw1"}
+  - {"type":"ss","name":"T.ME:
+    @Vpn_Filternet🔅🇸🇬🔅SG","server":"13.215.189.221","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
+  - {"type":"ss","name":"T.ME:
+    @Vpn_Filternet🔅🇷🇺🔅RU","server":"213.183.53.177","port":9042,"cipher":"aes-256-cfb","password":"S7KwUu7yBy58S3Ga"}
+  - {"type":"ss","name":"T.ME:
+    @Vpn_Filternet🔅🇷🇺🔅RU","server":"213.183.53.177","port":9070,"cipher":"aes-256-cfb","password":"bf7v334KKDV3YDhH"}
+  - {"type":"vmess","name":"T.ME:
+    @Vpn_Filternet🔅🇺🇸🔅US","ws-opts":{"path":"/savcus","headers":{"host":"sg2.seeworld.pro"}},"server":"104.21.60.119","port":"8880","uuid":"2ddcf12d-52fa-4e09-b4f1-c52d5cbee69b","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"T.ME:
+    @Vpn_Filternet🔅🇺🇸🔅US","ws-opts":{"path":"/retreyte6","headers":{"host":"fr.seeworld.pro"}},"server":"104.21.60.119","port":"443","uuid":"a6dfb50f-75bb-48e0-b56a-1edeb62b5a49","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"T.ME:
+    @Vpn_Filternet🔅🇺🇸🔅US","ws-opts":{"path":"/c986","headers":{"host":"poland.seeworld.pro"}},"server":"172.67.196.37","port":"8880","uuid":"2ddcf12d-52fa-4e09-b4f1-c52d5cbee69b","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"T.ME:
+    @Vpn_Filternet🔅🇸🇬🔅SG","ws-opts":{"path":"/sg1/getData","headers":{"host":"sg1.verichains.co"}},"server":"43.134.240.86","port":"46154","uuid":"267fd6f3-4a1d-4f40-b5ab-8782b2a28c56","alterId":"64","cipher":"auto","network":"ws","tls":true}
+  - {"type":"ss","name":"T.ME:
+    @Vpn_Filternet🔅🇸🇬🔅SG","server":"13.215.183.79","port":8080,"cipher":"aes-256-cfb","password":"doub.io"}
+  - {"type":"ss","name":"T.ME:
+    @Vpn_Filternet🔅🇺🇸🔅US","server":"172.96.192.100","port":246,"cipher":"aes-256-cfb","password":"bwhskrskr05"}
+  - {"type":"ss","name":"T.ME:
+    @Vpn_Filternet🔅🇸🇬🔅SG","server":"54.169.113.143","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
+  - {"type":"vmess","name":"T.ME:
+    @Vpn_Filternet🔅🇺🇸🔅US","ws-opts":{"path":"/ssvcus","headers":{"host":"sg.718398.xyz"}},"server":"172.67.199.215","port":"8443","uuid":"2ddcf12d-52fa-4e09-b4f1-c52d5cbee69b","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"ss","name":"T.ME:
+    @Vpn_Filternet🔅🇰🇷🔅KR","server":"43.201.86.41","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
+  - {"type":"trojan","name":"T.ME:
+    @Vpn_Filternet🔅🇭🇰🔅HK","server":"103.103.245.190","port":50394,"password":"9642def5-94bb-4962-a168-c510f9a93328","udp":true,"skip-cert-verify":true,"sni":"cn-hk-32.fnhffffe4.cc","network":"tcp"}
+  - {"type":"vmess","name":"T.ME:
+    @Vpn_Filternet🔅🇺🇸🔅US","ws-opts":{"path":"/ssvcus","headers":{"host":"sg.718398.xyz"}},"server":"sg.718398.xyz","port":"8443","uuid":"2ddcf12d-52fa-4e09-b4f1-c52d5cbee69b","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"T.ME:
+    @Vpn_Filternet🔅🇺🇸🔅US","ws-opts":{"path":"/eu4hax","headers":{"host":"haxeu4.seeworld.pro"}},"server":"haxeu4.seeworld.pro","port":"8880","uuid":"2ddcf12d-52fa-4e09-b4f1-c52d5cbee69b","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"ss","name":"T.ME:
+    @Vpn_Filternet🔅🇯🇵🔅JP","server":"43.207.109.176","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
+  - {"type":"ss","name":"T.ME:
+    @Vpn_Filternet🔅🇯🇵🔅JP","server":"43.207.160.88","port":8080,"cipher":"aes-256-cfb","password":"doub.io"}
+  - {"type":"vmess","name":"T.ME:
+    @Vpn_Filternet🔅🇸🇬🔅SG","ws-opts":{"path":"/sg1/getData","headers":{"host":"sg1.verichains.co"}},"server":"43.134.240.86","port":"46154","uuid":"267fd6f3-4a1d-4f40-b5ab-8782b2a28c56","alterId":"64","cipher":"auto","network":"ws","tls":true}
+  - {"type":"ss","name":"T.ME:
+    @Vpn_Filternet🔅🇫🇷🔅FR","server":"149.202.82.172","port":3389,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"vmess","name":"T.ME:
+    @Vpn_Filternet🔅🇯🇵🔅JP","ws-opts":{"path":"/1234"},"server":"140.83.84.209","port":"1234","uuid":"e94247e0-d3e5-4f96-d8f3-b2144b383292","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"T.ME:
+    @Vpn_Filternet🔅🇺🇸🔅US","ws-opts":{"path":"/ooxx","headers":{"host":"us.okman.cf"}},"server":"192.18.139.46","port":"50346","uuid":"a3c31a2b-5a83-4b88-aaf1-881a5c9d21d2","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"T.ME:
+    @Vpn_Filternet🔅🇯🇵🔅JP","ws-opts":{"path":"/bb"},"server":"149.28.22.136","port":"1234","uuid":"4abc70af-1897-4b94-d6e5-8a4d2ce65490","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"T.ME:
+    @Vpn_Filternet🔅🇰🇷🔅KR","ws-opts":{"path":"/ws-path","headers":{"host":"152.67.218.216"}},"server":"152.67.218.216","port":"17992","uuid":"52768552-c2b2-4460-89f1-e740cc145b99","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"T.ME:
+    @Vpn_Filternet🔅🇫🇷🔅FR","ws-opts":{"path":"/"},"server":"162.19.12.142","port":"8080","uuid":"e4837483-591a-4970-d01d-a07d6e8d2c5c","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"T.ME:
+    @Vpn_Filternet🔅🇺🇸🔅US","ws-opts":{"path":"/hax02","headers":{"host":"hax.smely.eu.org"}},"server":"hax.smely.eu.org","port":"80","uuid":"a6dfb50f-75bb-48e0-b56a-1edeb62b5a49","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"T.ME:
+    @Vpn_Filternet🔅🇷🇴🔅RO","ws-opts":{"path":"/o8q9OHerR9LI4jhrTESVxpF0X/vmessws","headers":{"host":"nl1.digi2023game.com"}},"server":"i.badboys.gq","port":"443","uuid":"b35cd4e8-e193-4bbd-9084-91d73d2353f0","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"ss","name":"T.ME:
+    @Vpn_Filternet🔅🇨🇦🔅CA","server":"134.195.196.143","port":801,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"T.ME:
+    @Vpn_Filternet🔅🇨🇦🔅CA","server":"134.195.196.149","port":3306,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"T.ME:
+    @Vpn_Filternet🔅🇩🇪🔅DE","server":"193.108.118.36","port":8090,"cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27"}
+  - {"type":"ss","name":"T.ME:
+    @Vpn_Filternet🔅🇨🇦🔅CA","server":"134.195.196.143","port":802,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"T.ME:
+    @Vpn_Filternet🔅🇫🇷🔅FR","server":"149.202.82.172","port":8000,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"ss","name":"T.ME:
+    @Vpn_Filternet🔅🇫🇷🔅FR","server":"145.239.6.202","port":4444,"cipher":"aes-256-gcm","password":"pKEW8JPByTVTLtM"}
+  - {"type":"ss","name":"T.ME:
+    @Vpn_Filternet🔅🇫🇷🔅FR","server":"149.202.82.172","port":3389,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"T.ME:
+    @Vpn_Filternet🔅🇫🇷🔅FR","server":"149.202.82.172","port":5004,"cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId"}
+  - {"type":"ss","name":"T.ME:
+    @Vpn_Filternet🔅🇸🇬🔅SG","server":"51.79.177.159","port":8000,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"ss","name":"T.ME:
+    @Vpn_Filternet🔅🇫🇷🔅FR","server":"149.202.82.172","port":5601,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"T.ME:
+    @Vpn_Filternet🔅🇨🇦🔅CA","server":"134.195.196.85","port":8881,"cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4"}
+  - {"type":"ss","name":"T.ME:
+    @Vpn_Filternet🔅🇫🇷🔅FR","server":"145.239.1.100","port":8888,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"T.ME:
+    @Vpn_Filternet🔅🇫🇷🔅FR","server":"145.239.1.100","port":8000,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"ss","name":"T.ME:
+    @Vpn_Filternet🔅🇨🇦🔅CA","server":"134.195.196.149","port":8881,"cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4"}
+  - {"type":"ss","name":"T.ME:
+    @Vpn_Filternet🔅🇫🇷🔅FR","server":"145.239.1.100","port":3389,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"vmess","name":"T.ME:
+    @Vpn_Filternet🔅🇮🇪🔅IE","ws-opts":{"path":"/clientarea","headers":{"host":"ie-ls03.nb1.fr"}},"server":"ie-ls03.nb1.fr","port":"64443","uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"T.ME:
+    @Vpn_Filternet🔅🇺🇸🔅US","ws-opts":{"path":"/retreyte6","headers":{"host":"fr.seeworld.pro"}},"server":"2606:4700:3030::ac43:c425","port":"443","uuid":"a6dfb50f-75bb-48e0-b56a-1edeb62b5a49","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"T.ME:
+    @Vpn_Filternet🔅🇫🇷🔅FR","ws-opts":{"path":"/"},"server":"162.19.12.142","port":"8080","uuid":"e4837483-591a-4970-d01d-a07d6e8d2c5c","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"T.ME:
+    @Vpn_Filternet🔅🇮🇳🔅IN","ws-opts":{"path":"/ws-path"},"server":"152.67.161.155","port":"17355","uuid":"52768552-c2b2-4460-89f1-e740cc145b99","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"T.ME:
+    @Vpn_Filternet🔅🇺🇸🔅US","ws-opts":{"path":"/","headers":{"host":"arsalan.arsalanv3.sbs"}},"server":"arsalan.arsalanv3.sbs","port":"2095","uuid":"c219b33f-f3c3-4f70-9e12-79b4618a210e","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"T.ME:
+    @Vpn_Filternet🔅🇭🇰🔅HK","ws-opts":{"path":"/"},"server":"198.252.107.240","port":"80","uuid":"ee76cecf-1219-42be-ae3f-6b8077e4cacc","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"T.ME:
+    @Vpn_Filternet🔅🇫🇮🔅FI","ws-opts":{"path":"/@parsashonam"},"server":"95.216.183.164","port":"11111","uuid":"60dcd710-a1a1-4ad7-b0df-47aa98e62b6a","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"T.ME:
+    @Vpn_Filternet🔅🇷🇴🔅RO","ws-opts":{"path":"/o8q9OHerR9LI4jhrTESVxpF0X/vmessws","headers":{"host":"nl1.digi2023game.com"}},"server":"45.85.119.120","port":"443","uuid":"b35cd4e8-e193-4bbd-9084-91d73d2353f0","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"ss","name":"T.ME:
+    @Vpn_Filternet🔅🇨🇦🔅CA","server":"134.195.196.143","port":805,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"T.ME:
+    @Vpn_Filternet🔅🇩🇪🔅DE","server":"193.108.118.36","port":7001,"cipher":"aes-256-gcm","password":"RexnBgU7EV5ADxG"}
+  - {"type":"ss","name":"T.ME:
+    @Vpn_Filternet🔅🇩🇪🔅DE","server":"193.108.118.36","port":8881,"cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4"}
+  - {"type":"vmess","name":"T.ME:
+    @Vpn_Filternet🔅🇭🇰🔅HK","http-opts":{"path":["/"]},"server":"8.218.145.251","port":"52757","uuid":"451d0d8d-6e0b-403c-9fab-937a92f211e2","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"T.ME:
+    @Vpn_Filternet🔅🇺🇸🔅US","ws-opts":{"path":"/","headers":{"host":"us1.wanwusheng.me"}},"server":"172.67.148.203","port":"443","uuid":"44ceb389-4cea-4ea1-eef9-11ce6f3effe6","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"T.ME:
+    @Vpn_Filternet🔅🇭🇰🔅HK","http-opts":{"path":["/"],"headers":{"Host":["8.218.150.29"]}},"server":"8.218.150.29","port":"31595","uuid":"2c370b03-c322-4ddc-81f1-67ac84e8d09b","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"T.ME:
+    @Vpn_Filternet🔅🇺🇸🔅US","ws-opts":{"path":"/vmess","headers":{"host":"de-v.sshmax.xyz"}},"server":"104.17.14.48","port":"443","uuid":"c002de50-e64e-4328-b98a-fae82bdcafa4","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"trojan","name":"T.ME:
+    @Vpn_Filternet🔅🇵🇱🔅PL","server":"51.83.186.142","port":80,"password":"555034c8-6420-45d0-893c-905c02342150","udp":true,"skip-cert-verify":true,"sni":"pl1.trojanvh.xyz","network":"tcp"}
+  - {"type":"vmess","name":"T.ME:
+    @Vpn_Filternet🔅🇺🇸🔅US","ws-opts":{"path":"/retreyte6","headers":{"host":"fr.seeworld.pro"}},"server":"104.21.60.119","port":"443","uuid":"2ddcf12d-52fa-4e09-b4f1-c52d5cbee69b","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇷🇸🔅RS","server":"194.71.126.31","port":989,"cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇰🇷🔅KR_1","server":"43.201.70.114","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇭🇰🔅HK_1","ws-opts":{"path":"/header","headers":{"host":"hk-a.duaaoped.xyz"}},"server":"154.3.37.41","port":"8063","uuid":"390b3ba1-6758-4631-adba-b8f18eae5301","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇯🇵🔅JP_1","server":"43.207.160.88","port":8080,"cipher":"aes-256-cfb","password":"doub.io"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇯🇵🔅JP_2","server":"43.207.109.176","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇸🇬🔅SG_1","server":"13.215.154.95","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇯🇵🔅JP_3","server":"3.112.95.214","port":"10000","uuid":"d89ccf42-e9e9-4a0d-8230-8bee621f970e","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"ssr","name":"T.ME:@Vpn_Filternet🔅🇯🇵🔅JP_4","server":"18.177.140.50","port":8081,"protocol":"origin","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","password":"eAokbaDN6","obfs-param":"PT09PQ%�","protocol-param":"PT09PQ%�"}
+  - {"type":"ssr","name":"T.ME:@Vpn_Filternet🔅🇷🇺🔅RU_1","server":"213.183.53.177","port":9005,"protocol":"origin","cipher":"aes-256-cfb","obfs":"plain","password":"ZET59LF6DvCC8KVt","obfs-param":"===="}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇨🇳🔅CN_1","server":"103.45.78.147","port":"10001","uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":"1","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇺🇸🔅US_1","ws-opts":{"path":"/us2/getData","headers":{"host":"us2.linkeden.co"}},"server":"98.126.18.110","port":"32917","uuid":"9b0b3826-3a7b-41b4-924a-8a77596c8708","alterId":"64","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇺🇸🔅US_2","ws-opts":{"path":"/us1/getData","headers":{"host":"us1.linkeden.co"}},"server":"98.126.19.25","port":"30403","uuid":"51bdf7b1-997b-4bce-83c3-0ee6560a8c6a","alterId":"64","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇭🇰🔅HK_2","ws-opts":{"path":"/hkx/getData","headers":{"host":"hkx.linkeden.co"}},"server":"43.154.90.64","port":"58620","uuid":"ce3f0b98-7414-498e-9d0d-20cc37360896","alterId":"64","cipher":"auto","network":"ws","tls":true}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇺🇸🔅US_3","server":"35.92.132.241","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇺🇸🔅US_4","ws-opts":{"path":"/chat"},"server":"143.42.241.30","port":"443","uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇮🇳🔅IN_1","ws-opts":{"path":"/chat"},"server":"139.144.12.196","port":"443","uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇨🇳🔅CN_2","server":"103.45.78.185","port":"10001","uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"ssr","name":"T.ME:@Vpn_Filternet🔅🇷🇺🔅RU_2","server":"91.206.92.227","port":35522,"protocol":"origin","cipher":"dummy","obfs":"plain","password":"lncn.org
+    kw1"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇸🇬🔅SG_2","server":"13.215.189.221","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇷🇺🔅RU_3","server":"213.183.53.177","port":9042,"cipher":"aes-256-cfb","password":"S7KwUu7yBy58S3Ga"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇷🇺🔅RU_4","server":"213.183.53.177","port":9070,"cipher":"aes-256-cfb","password":"bf7v334KKDV3YDhH"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇺🇸🔅US_5","ws-opts":{"path":"/savcus","headers":{"host":"sg2.seeworld.pro"}},"server":"104.21.60.119","port":"8880","uuid":"2ddcf12d-52fa-4e09-b4f1-c52d5cbee69b","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇺🇸🔅US_6","ws-opts":{"path":"/retreyte6","headers":{"host":"fr.seeworld.pro"}},"server":"104.21.60.119","port":"443","uuid":"2ddcf12d-52fa-4e09-b4f1-c52d5cbee69b","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇺🇸🔅US_7","ws-opts":{"path":"/c986","headers":{"host":"poland.seeworld.pro"}},"server":"172.67.196.37","port":"8880","uuid":"2ddcf12d-52fa-4e09-b4f1-c52d5cbee69b","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇸🇬🔅SG_3","ws-opts":{"path":"/sg1/getData","headers":{"host":"sg1.verichains.co"}},"server":"43.134.240.86","port":"46154","uuid":"267fd6f3-4a1d-4f40-b5ab-8782b2a28c56","alterId":"64","cipher":"auto","network":"ws","tls":true}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇸🇬🔅SG_4","server":"13.215.183.79","port":8080,"cipher":"aes-256-cfb","password":"doub.io"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇺🇸🔅US_8","server":"172.96.192.100","port":246,"cipher":"aes-256-cfb","password":"bwhskrskr05"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇸🇬🔅SG_5","server":"54.169.113.143","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇺🇸🔅US_9","ws-opts":{"path":"/ssvcus","headers":{"host":"sg.718398.xyz"}},"server":"172.67.199.215","port":"8443","uuid":"2ddcf12d-52fa-4e09-b4f1-c52d5cbee69b","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇰🇷🔅KR_2","server":"43.201.86.41","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
+  - {"type":"trojan","name":"T.ME:@Vpn_Filternet🔅🇭🇰🔅HK_3","server":"103.103.245.190","port":50394,"password":"9642def5-94bb-4962-a168-c510f9a93328","udp":true,"skip-cert-verify":true,"sni":"cn-hk-32.fnhffffe4.cc"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇺🇸🔅US_10","ws-opts":{"path":"/ssvcus","headers":{"host":"sg.718398.xyz"}},"server":"sg.718398.xyz","port":"8443","uuid":"2ddcf12d-52fa-4e09-b4f1-c52d5cbee69b","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇺🇸🔅US_11","ws-opts":{"path":"/eu4hax","headers":{"host":"haxeu4.seeworld.pro"}},"server":"haxeu4.seeworld.pro","port":"8880","uuid":"2ddcf12d-52fa-4e09-b4f1-c52d5cbee69b","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇫🇷🔅FR_1","server":"149.202.82.172","port":3389,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇯🇵🔅JP_5","ws-opts":{"path":"/1234"},"server":"140.83.84.209","port":"1234","uuid":"e94247e0-d3e5-4f96-d8f3-b2144b383292","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇺🇸🔅US_12","ws-opts":{"path":"/ooxx","headers":{"host":"us.okman.cf"}},"server":"192.18.139.46","port":"50346","uuid":"a3c31a2b-5a83-4b88-aaf1-881a5c9d21d2","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇯🇵🔅JP_6","ws-opts":{"path":"/bb"},"server":"149.28.22.136","port":"1234","uuid":"4abc70af-1897-4b94-d6e5-8a4d2ce65490","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇰🇷🔅KR_3","ws-opts":{"path":"/ws-path","headers":{"host":"152.67.218.216"}},"server":"152.67.218.216","port":"17992","uuid":"52768552-c2b2-4460-89f1-e740cc145b99","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇫🇷🔅FR_2","ws-opts":{"path":"/"},"server":"162.19.12.142","port":"8080","uuid":"e4837483-591a-4970-d01d-a07d6e8d2c5c","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇺🇸🔅US_13","ws-opts":{"path":"/hax02","headers":{"host":"hax.smely.eu.org"}},"server":"hax.smely.eu.org","port":"80","uuid":"a6dfb50f-75bb-48e0-b56a-1edeb62b5a49","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇷🇴🔅RO_1","ws-opts":{"path":"/o8q9OHerR9LI4jhrTESVxpF0X/vmessws","headers":{"host":"nl1.digi2023game.com"}},"server":"i.badboys.gq","port":"443","uuid":"b35cd4e8-e193-4bbd-9084-91d73d2353f0","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇨🇦🔅CA_1","server":"134.195.196.143","port":801,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇨🇦🔅CA_2","server":"134.195.196.149","port":3306,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇩🇪🔅DE_1","server":"193.108.118.36","port":8090,"cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇨🇦🔅CA_3","server":"134.195.196.143","port":802,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇫🇷🔅FR_3","server":"149.202.82.172","port":8000,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇫🇷🔅FR_4","server":"145.239.6.202","port":4444,"cipher":"aes-256-gcm","password":"pKEW8JPByTVTLtM"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇫🇷🔅FR_5","server":"149.202.82.172","port":5004,"cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇸🇬🔅SG_6","server":"51.79.177.159","port":8000,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇫🇷🔅FR_6","server":"149.202.82.172","port":5601,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇨🇦🔅CA_4","server":"134.195.196.85","port":8881,"cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇫🇷🔅FR_7","server":"145.239.1.100","port":8888,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇫🇷🔅FR_8","server":"145.239.1.100","port":8000,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇨🇦🔅CA_5","server":"134.195.196.149","port":8881,"cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇫🇷🔅FR_9","server":"145.239.1.100","port":3389,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇮🇪🔅IE","ws-opts":{"path":"/clientarea","headers":{"host":"ie-ls03.nb1.fr"}},"server":"ie-ls03.nb1.fr","port":"64443","uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇺🇸🔅US_14","ws-opts":{"path":"/retreyte6","headers":{"host":"fr.seeworld.pro"}},"server":"2606:4700:3030::ac43:c425","port":"443","uuid":"a6dfb50f-75bb-48e0-b56a-1edeb62b5a49","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇮🇳🔅IN_2","ws-opts":{"path":"/ws-path"},"server":"152.67.161.155","port":"17355","uuid":"52768552-c2b2-4460-89f1-e740cc145b99","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇺🇸🔅US_15","ws-opts":{"path":"/","headers":{"host":"arsalan.arsalanv3.sbs"}},"server":"arsalan.arsalanv3.sbs","port":"2095","uuid":"c219b33f-f3c3-4f70-9e12-79b4618a210e","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇭🇰🔅HK_4","ws-opts":{"path":"/"},"server":"198.252.107.240","port":"80","uuid":"ee76cecf-1219-42be-ae3f-6b8077e4cacc","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇫🇮🔅FI","ws-opts":{"path":"/@parsashonam"},"server":"95.216.183.164","port":"11111","uuid":"60dcd710-a1a1-4ad7-b0df-47aa98e62b6a","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇷🇴🔅RO_2","ws-opts":{"path":"/o8q9OHerR9LI4jhrTESVxpF0X/vmessws","headers":{"host":"nl1.digi2023game.com"}},"server":"45.85.119.120","port":"443","uuid":"b35cd4e8-e193-4bbd-9084-91d73d2353f0","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇨🇦🔅CA_6","server":"134.195.196.143","port":805,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇩🇪🔅DE_2","server":"193.108.118.36","port":7001,"cipher":"aes-256-gcm","password":"RexnBgU7EV5ADxG"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇩🇪🔅DE_3","server":"193.108.118.36","port":8881,"cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇭🇰🔅HK_5","http-opts":{"path":["/"]},"server":"8.218.145.251","port":"52757","uuid":"451d0d8d-6e0b-403c-9fab-937a92f211e2","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇺🇸🔅US_16","ws-opts":{"path":"/","headers":{"host":"us1.wanwusheng.me"}},"server":"172.67.148.203","port":"443","uuid":"44ceb389-4cea-4ea1-eef9-11ce6f3effe6","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇭🇰🔅HK_6","http-opts":{"path":["/"]},"server":"8.218.150.29","port":"31595","uuid":"2c370b03-c322-4ddc-81f1-67ac84e8d09b","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇺🇸🔅US_17","ws-opts":{"path":"/vmess","headers":{"host":"de-v.sshmax.xyz"}},"server":"104.17.14.48","port":"443","uuid":"c002de50-e64e-4328-b98a-fae82bdcafa4","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"trojan","name":"T.ME:@Vpn_Filternet🔅🇵🇱🔅PL","server":"51.83.186.142","port":80,"password":"555034c8-6420-45d0-893c-905c02342150","udp":true,"skip-cert-verify":true,"sni":"pl1.trojanvh.xyz"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇷🇸🔅RS","server":"194.71.126.31","port":989,"cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇰🇷🔅KR_1","server":"43.201.70.114","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇭🇰🔅HK_1","ws-opts":{"path":"/header","headers":{"host":"hk-a.duaaoped.xyz"}},"server":"154.3.37.41","port":"8063","uuid":"390b3ba1-6758-4631-adba-b8f18eae5301","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇯🇵🔅JP_1","server":"43.207.160.88","port":8080,"cipher":"aes-256-cfb","password":"doub.io"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇯🇵🔅JP_2","server":"43.207.109.176","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇸🇬🔅SG_1","server":"13.215.154.95","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇯🇵🔅JP_3","server":"3.112.95.214","port":"10000","uuid":"d89ccf42-e9e9-4a0d-8230-8bee621f970e","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"ssr","name":"T.ME:@Vpn_Filternet🔅🇯🇵🔅JP_4","server":"18.177.140.50","port":8081,"protocol":"origin","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","password":"eAokbaDN6","obfs-param":"PT09PQ%�","protocol-param":"PT09PQ%�"}
+  - {"type":"ssr","name":"T.ME:@Vpn_Filternet🔅🇷🇺🔅RU_1","server":"213.183.53.177","port":9005,"protocol":"origin","cipher":"aes-256-cfb","obfs":"plain","password":"ZET59LF6DvCC8KVt","obfs-param":"===="}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇨🇳🔅CN_1","server":"103.45.78.147","port":"10001","uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":"1","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇺🇸🔅US_1","ws-opts":{"path":"/us2/getData","headers":{"host":"us2.linkeden.co"}},"server":"98.126.18.110","port":"32917","uuid":"9b0b3826-3a7b-41b4-924a-8a77596c8708","alterId":"64","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇺🇸🔅US_2","ws-opts":{"path":"/us1/getData","headers":{"host":"us1.linkeden.co"}},"server":"98.126.19.25","port":"30403","uuid":"51bdf7b1-997b-4bce-83c3-0ee6560a8c6a","alterId":"64","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇭🇰🔅HK_2","ws-opts":{"path":"/hkx/getData","headers":{"host":"hkx.linkeden.co"}},"server":"43.154.90.64","port":"58620","uuid":"ce3f0b98-7414-498e-9d0d-20cc37360896","alterId":"64","cipher":"auto","network":"ws","tls":true}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇺🇸🔅US_3","server":"35.92.132.241","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇺🇸🔅US_4","ws-opts":{"path":"/chat"},"server":"143.42.241.30","port":"443","uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇮🇳🔅IN_1","ws-opts":{"path":"/chat"},"server":"139.144.12.196","port":"443","uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇨🇳🔅CN_2","server":"103.45.78.185","port":"10001","uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"ssr","name":"T.ME:@Vpn_Filternet🔅🇷🇺🔅RU_2","server":"91.206.92.227","port":35522,"protocol":"origin","cipher":"dummy","obfs":"plain","password":"lncn.org
+    kw1"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇸🇬🔅SG_2","server":"13.215.189.221","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇷🇺🔅RU_3","server":"213.183.53.177","port":9042,"cipher":"aes-256-cfb","password":"S7KwUu7yBy58S3Ga"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇷🇺🔅RU_4","server":"213.183.53.177","port":9070,"cipher":"aes-256-cfb","password":"bf7v334KKDV3YDhH"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇺🇸🔅US_5","ws-opts":{"path":"/savcus","headers":{"host":"sg2.seeworld.pro"}},"server":"104.21.60.119","port":"8880","uuid":"2ddcf12d-52fa-4e09-b4f1-c52d5cbee69b","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇺🇸🔅US_6","ws-opts":{"path":"/retreyte6","headers":{"host":"fr.seeworld.pro"}},"server":"104.21.60.119","port":"443","uuid":"2ddcf12d-52fa-4e09-b4f1-c52d5cbee69b","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇺🇸🔅US_7","ws-opts":{"path":"/c986","headers":{"host":"poland.seeworld.pro"}},"server":"172.67.196.37","port":"8880","uuid":"2ddcf12d-52fa-4e09-b4f1-c52d5cbee69b","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇸🇬🔅SG_3","ws-opts":{"path":"/sg1/getData","headers":{"host":"sg1.verichains.co"}},"server":"43.134.240.86","port":"46154","uuid":"267fd6f3-4a1d-4f40-b5ab-8782b2a28c56","alterId":"64","cipher":"auto","network":"ws","tls":true}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇸🇬🔅SG_4","server":"13.215.183.79","port":8080,"cipher":"aes-256-cfb","password":"doub.io"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇺🇸🔅US_8","server":"172.96.192.100","port":246,"cipher":"aes-256-cfb","password":"bwhskrskr05"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇸🇬🔅SG_5","server":"54.169.113.143","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇺🇸🔅US_9","ws-opts":{"path":"/ssvcus","headers":{"host":"sg.718398.xyz"}},"server":"172.67.199.215","port":"8443","uuid":"2ddcf12d-52fa-4e09-b4f1-c52d5cbee69b","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇰🇷🔅KR_2","server":"43.201.86.41","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
+  - {"type":"trojan","name":"T.ME:@Vpn_Filternet🔅🇭🇰🔅HK_3","server":"103.103.245.190","port":50394,"password":"9642def5-94bb-4962-a168-c510f9a93328","udp":true,"skip-cert-verify":true,"sni":"cn-hk-32.fnhffffe4.cc"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇺🇸🔅US_10","ws-opts":{"path":"/ssvcus","headers":{"host":"sg.718398.xyz"}},"server":"sg.718398.xyz","port":"8443","uuid":"2ddcf12d-52fa-4e09-b4f1-c52d5cbee69b","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇺🇸🔅US_11","ws-opts":{"path":"/eu4hax","headers":{"host":"haxeu4.seeworld.pro"}},"server":"haxeu4.seeworld.pro","port":"8880","uuid":"2ddcf12d-52fa-4e09-b4f1-c52d5cbee69b","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇫🇷🔅FR_1","server":"149.202.82.172","port":3389,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇯🇵🔅JP_5","ws-opts":{"path":"/1234"},"server":"140.83.84.209","port":"1234","uuid":"e94247e0-d3e5-4f96-d8f3-b2144b383292","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇺🇸🔅US_12","ws-opts":{"path":"/ooxx","headers":{"host":"us.okman.cf"}},"server":"192.18.139.46","port":"50346","uuid":"a3c31a2b-5a83-4b88-aaf1-881a5c9d21d2","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇯🇵🔅JP_6","ws-opts":{"path":"/bb"},"server":"149.28.22.136","port":"1234","uuid":"4abc70af-1897-4b94-d6e5-8a4d2ce65490","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇰🇷🔅KR_3","ws-opts":{"path":"/ws-path","headers":{"host":"152.67.218.216"}},"server":"152.67.218.216","port":"17992","uuid":"52768552-c2b2-4460-89f1-e740cc145b99","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇫🇷🔅FR_2","ws-opts":{"path":"/"},"server":"162.19.12.142","port":"8080","uuid":"e4837483-591a-4970-d01d-a07d6e8d2c5c","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇺🇸🔅US_13","ws-opts":{"path":"/hax02","headers":{"host":"hax.smely.eu.org"}},"server":"hax.smely.eu.org","port":"80","uuid":"a6dfb50f-75bb-48e0-b56a-1edeb62b5a49","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇷🇴🔅RO_1","ws-opts":{"path":"/o8q9OHerR9LI4jhrTESVxpF0X/vmessws","headers":{"host":"nl1.digi2023game.com"}},"server":"i.badboys.gq","port":"443","uuid":"b35cd4e8-e193-4bbd-9084-91d73d2353f0","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇨🇦🔅CA_1","server":"134.195.196.143","port":801,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇨🇦🔅CA_2","server":"134.195.196.149","port":3306,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇩🇪🔅DE_1","server":"193.108.118.36","port":8090,"cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇨🇦🔅CA_3","server":"134.195.196.143","port":802,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇫🇷🔅FR_3","server":"149.202.82.172","port":8000,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇫🇷🔅FR_4","server":"145.239.6.202","port":4444,"cipher":"aes-256-gcm","password":"pKEW8JPByTVTLtM"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇫🇷🔅FR_5","server":"149.202.82.172","port":5004,"cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇸🇬🔅SG_6","server":"51.79.177.159","port":8000,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇫🇷🔅FR_6","server":"149.202.82.172","port":5601,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇨🇦🔅CA_4","server":"134.195.196.85","port":8881,"cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇫🇷🔅FR_7","server":"145.239.1.100","port":8888,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇫🇷🔅FR_8","server":"145.239.1.100","port":8000,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇨🇦🔅CA_5","server":"134.195.196.149","port":8881,"cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇫🇷🔅FR_9","server":"145.239.1.100","port":3389,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇮🇪🔅IE","ws-opts":{"path":"/clientarea","headers":{"host":"ie-ls03.nb1.fr"}},"server":"ie-ls03.nb1.fr","port":"64443","uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇺🇸🔅US_14","ws-opts":{"path":"/retreyte6","headers":{"host":"fr.seeworld.pro"}},"server":"2606:4700:3030::ac43:c425","port":"443","uuid":"a6dfb50f-75bb-48e0-b56a-1edeb62b5a49","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇮🇳🔅IN_2","ws-opts":{"path":"/ws-path"},"server":"152.67.161.155","port":"17355","uuid":"52768552-c2b2-4460-89f1-e740cc145b99","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇺🇸🔅US_15","ws-opts":{"path":"/","headers":{"host":"arsalan.arsalanv3.sbs"}},"server":"arsalan.arsalanv3.sbs","port":"2095","uuid":"c219b33f-f3c3-4f70-9e12-79b4618a210e","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇭🇰🔅HK_4","ws-opts":{"path":"/"},"server":"198.252.107.240","port":"80","uuid":"ee76cecf-1219-42be-ae3f-6b8077e4cacc","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇫🇮🔅FI","ws-opts":{"path":"/@parsashonam"},"server":"95.216.183.164","port":"11111","uuid":"60dcd710-a1a1-4ad7-b0df-47aa98e62b6a","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇷🇴🔅RO_2","ws-opts":{"path":"/o8q9OHerR9LI4jhrTESVxpF0X/vmessws","headers":{"host":"nl1.digi2023game.com"}},"server":"45.85.119.120","port":"443","uuid":"b35cd4e8-e193-4bbd-9084-91d73d2353f0","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇨🇦🔅CA_6","server":"134.195.196.143","port":805,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇩🇪🔅DE_2","server":"193.108.118.36","port":7001,"cipher":"aes-256-gcm","password":"RexnBgU7EV5ADxG"}
+  - {"type":"ss","name":"T.ME:@Vpn_Filternet🔅🇩🇪🔅DE_3","server":"193.108.118.36","port":8881,"cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇭🇰🔅HK_5","http-opts":{"path":["/"]},"server":"8.218.145.251","port":"52757","uuid":"451d0d8d-6e0b-403c-9fab-937a92f211e2","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇺🇸🔅US_16","ws-opts":{"path":"/","headers":{"host":"us1.wanwusheng.me"}},"server":"172.67.148.203","port":"443","uuid":"44ceb389-4cea-4ea1-eef9-11ce6f3effe6","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇭🇰🔅HK_6","http-opts":{"path":["/"]},"server":"8.218.150.29","port":"31595","uuid":"2c370b03-c322-4ddc-81f1-67ac84e8d09b","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"T.ME:@Vpn_Filternet🔅🇺🇸🔅US_17","ws-opts":{"path":"/vmess","headers":{"host":"de-v.sshmax.xyz"}},"server":"104.17.14.48","port":"443","uuid":"c002de50-e64e-4328-b98a-fae82bdcafa4","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"trojan","name":"T.ME:@Vpn_Filternet🔅🇵🇱🔅PL","server":"51.83.186.142","port":80,"password":"555034c8-6420-45d0-893c-905c02342150","udp":true,"skip-cert-verify":true,"sni":"pl1.trojanvh.xyz"}
   - {"name":"🇬🇧_GB_英国_1","type":"vmess","server":"vuk2.0bad.com","port":443,"cipher":"auto","uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws"}
   - {"name":"🇸🇬_SG_新加坡->🇺🇸_US_美国","type":"vmess","server":"54.254.184.159","port":9001,"cipher":"auto","uuid":"55520c7a-9034-4326-bc57-e52820a50027","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇨🇳_CN_中国_1","type":"vmess","server":"124.222.189.225","port":80,"cipher":"auto","uuid":"a8c9ad5b-1f58-4234-b5fe-a895bee9a047","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws"}

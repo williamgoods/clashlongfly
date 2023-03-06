@@ -59,6 +59,11 @@ proxies:
   - {"name":"🇺🇸_US_美国_16","type":"vmess","server":"england1.yj2022.ga","port":443,"cipher":"auto","uuid":"4b5e4565-322f-4223-a891-78a84f189726","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws"}
   - {"name":"🇯🇵_JP_日本_3","type":"ss","server":"43.207.109.176","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
   - {"name":"🇺🇸_US_美国->🇸🇬_SG_新加坡_4","type":"vmess","server":"ping.pe","port":2095,"cipher":"auto","uuid":"d1baf2c8-4b0b-400d-8e08-b1a2ff149fa3","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/TG:@hkaa0","headers":{"host":"lin.d.sg.wyhkaa0.gq"}}}
+  - {"name":"🇯🇵东京_aws_vl_tcp_tls_vi\r","type":"vless","server":"aws.zxdgs.top","port":443,"uuid":"1ae83b51-af9a-4b38-b3a9-15ecb953fa03","tls":true,"servername":"aws.zxdgs.top","flow":"xtls-rprx-vision","network":"tcp"}
+  - {"name":"🇯🇵东京_aws_vl_ws_tls\r","type":"vless","server":"aws.zxdgs.top","port":443,"uuid":"a96c6b4d-c7fd-4b4a-9187-bca82d0719af","tls":true,"servername":"aws.zxdgs.top","network":"ws","ws-opts":{"path":"/vlws"}}
+  - {"name":"🇯🇵东京_aws_vm_ws_tls","type":"vmess","server":"aws.zxdgs.top","port":443,"cipher":"auto","uuid":"cb1a75b9-bf6a-4014-b250-1d69d28049fd","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"aws.zxdgs.top","network":"ws","ws-opts":{"path":"/vmws"}}
+  - {"name":"🇯🇵东京_aws_tr_tcp_tls\r","type":"trojan","server":"aws.zxdgs.top","port":443,"udp":true,"password":"w95124578","sni":"aws.zxdgs.top","skip-cert-verify":true,"network":"tcp","alpn":["h2","http/1.1"]}
+  - {"name":"🇰🇷首尔_jgw_01_vm_ws_tls_cdn","type":"vmess","server":"jgw1.zxdgs.top","port":443,"cipher":"auto","uuid":"0839593e-7363-4d1b-f297-87702d9627c9","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/zx"}}
   - {"name":"🇨🇳_CN_中国->🇭🇰_HK_香港","type":"ss","server":"out.jijifun.com","port":30013,"password":"114514","cipher":"aes-256-gcm"}
   - {"name":"🇨🇳_CN_中国->🇺🇸_US_美国","type":"ss","server":"out.jijifun.com","port":30043,"password":"114514","cipher":"aes-256-gcm"}
   - {"name":"🇰🇷_KR_韩国_1","type":"ss","server":"43.201.70.114","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}

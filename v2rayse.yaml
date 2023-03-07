@@ -203,6 +203,16 @@ proxies:
   - {"name":"🇨🇳_CN_46","type":"ssr","server":"sql.accessconnect.cc","port":2303,"password":"di15PV","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","protocol":"auth_aes128_md5","obfs-param":"590a0124415.www.gov.hk","protocol-param":"124415:tRanej","group":"https://v2rayse.com"}
   - {"name":"🇨🇳_CN_47","type":"ssr","server":"sql.accessconnect.cc","port":2302,"password":"di15PV","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","protocol":"auth_aes128_md5","obfs-param":"590a0124415.www.gov.hk","protocol-param":"124415:tRanej","group":"https://v2rayse.com"}
   - {"name":"🇨🇳_CN_48","type":"ssr","server":"58.247.202.202","port":568,"password":"mblank1port","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","obfs-param":"t.me/vpnhat","protocol-param":"51923:99q87y","group":"https://v2rayse.com"}
+  - {"name":"🇺🇸_US_美国_1","type":"trojan","server":"prus2.k55779.cyou","port":26672,"udp":true,"password":"6nVzl-mgck26FqvBByHLF5lsCpRkvGDrhDpz3NkbGkizyH7O","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇨🇳_CN_中国->🇺🇸_US_美国_1","type":"ss","server":"out.jijifun.com","port":30067,"password":"114514","cipher":"aes-256-gcm"}
+  - {"name":"🇺🇸_US_美国_2","type":"vmess","server":"a8c74c6c.ikunxiao.top","port":2096,"cipher":"auto","uuid":"72fd33d5-5c1a-4193-96c6-665fc20b71c1","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws"}
+  - {"name":"🇨🇳_CN_中国","type":"vmess","server":"39.103.165.178","port":50002,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇨🇳_CN_中国->🇺🇸_US_美国_2","type":"ss","server":"out.jijifun.com","port":30043,"password":"114514","cipher":"aes-256-gcm"}
+  - {"name":"🇨🇳_CN_中国->🇭🇰_HK_香港","type":"ss","server":"out.jijifun.com","port":30012,"password":"114514","cipher":"aes-256-gcm"}
+  - {"name":"🇯🇵_JP_日本","type":"trojan","server":"139.162.113.113","port":443,"udp":true,"password":"a4b8293b-af60-4f1b-8572-dea4f5b6cdef","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇨🇳_CN_中国->🇹🇼_TW_台湾","type":"ss","server":"out.jijifun.com","port":30033,"password":"114514","cipher":"aes-256-gcm"}
+  - {"name":"🇸🇬_SG_新加坡","type":"ss","server":"18.141.181.186","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇳🇱_NL_荷兰","type":"ss","server":"172.99.188.99","port":5004,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
   - {"name":"🇨🇳_CN_中国","type":"trojan","server":"hn.xiaohouzi.club","port":16015,"udp":true,"password":"0f098bb2-9fad-3cc3-8acf-2a3268c1eb27","sni":"hn.xiaohouzi.club","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇳🇱_NL_荷兰","type":"ss","server":"172.99.188.99","port":8888,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
   - {"name":"🇨🇳_CN_中国->🇺🇸_US_美国","type":"ss","server":"out.jijifun.com","port":30042,"password":"114514","cipher":"aes-256-gcm"}

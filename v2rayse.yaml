@@ -1,4 +1,5 @@
 proxies:
+  - {"name":"bulink自建免费11线 三网","type":"vmess","server":"la56.burstlinker.com.fobzs.com","port":443,"cipher":"auto","uuid":"998b144b-6616-4f72-8024-7bf9d1f3afa5","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ws","headers":{"host":"la56.burstlinker.com.fobzs.com"}}}
   - {"name":"🇭🇰_HK_香港_1","type":"vmess","server":"8.218.183.217","port":64098,"cipher":"auto","uuid":"7243a003-b59a-4686-b460-950fdf61819b","alterId":0,"tls":false,"skip-cert-verify":true,"network":"http"}
   - {"name":"🇸🇬_SG_新加坡_1","type":"ss","server":"18.141.181.186","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
   - {"name":"🇨🇳_CN_中国_1","type":"vmess","server":"36.134.16.96","port":11023,"cipher":"auto","uuid":"8c042a38-71c1-1dcb-00df-54880236e0dc","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}

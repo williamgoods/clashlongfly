@@ -36,6 +36,7 @@ proxies:
   - {"name":"🇺🇸_US_美国->🇩🇪_DE_德国_2","type":"vmess","server":"finland2.yj2022.ga","port":443,"cipher":"auto","uuid":"4b5e4565-322f-4223-a891-78a84f189726","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws"}
   - {"name":"🇺🇸_US_美国_17","type":"vmess","server":"dp1.scproxy.top","port":443,"cipher":"auto","uuid":"823c31da-701f-483d-b36e-896e5cf0987a","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws"}
   - {"name":"🇧🇿_BZ_伯利兹->🇺🇸_US_美国","type":"vmess","server":"203.30.190.1","port":443,"cipher":"auto","uuid":"40d496a6-ceeb-4096-baeb-4cc52b205621","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ECTCJ0DF","headers":{"host":"154.v2ray3.xyz"}}}
+  - {"name":"达瓦里氏","type":"trojan","server":"karlmarx.rocks","port":36544,"udp":true,"password":"ejhE72DKhF","skip-cert-verify":true}
   - {"name":"🇺🇸_US_美国_1","type":"vmess","server":"ny1.sharecentrepro.org","port":443,"cipher":"auto","uuid":"823c31da-701f-483d-b36e-896e5cf0987a","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws"}
   - {"name":"🇲🇴_MO_澳门->🇸🇬_SG_新加坡","type":"trojan","server":"45.64.22.56","port":443,"udp":true,"password":"123456","sni":"trojan-ctb-sg01.globalssh.xyz","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇨🇳_CN_中国_1","type":"vmess","server":"112.132.215.189","port":50002,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":""}

@@ -1,4 +1,6 @@
 proxies:
+  - {"name":"defaultName","type":"http","server":"raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/splitted/vmess.txt","port":null,"tls":true,"skip-cert-verify":true}
+  - {"name":"defaultName","type":"http","server":"raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/splitted/vmess.txt","port":null,"tls":true,"skip-cert-verify":true}
   - {"name":"🇹🇼_TW_台湾_1","type":"vmess","server":"hinet1261.gfwisbest.xyz","port":224,"cipher":"auto","uuid":"2285133e-b9ba-3fb5-a246-9c7ddcc2cd7a","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇺🇸_US_美国_1","type":"vmess","server":"la.awsbest.com","port":443,"cipher":"auto","uuid":"8b6dd709-4d4e-4b92-f542-54a676efbfe4","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/shares","headers":{"host":"la.awsbest.com"}}}
   - {"name":"🇻🇳_VN_越南","type":"trojan","server":"0001.hn.genzpn.com","port":443,"udp":true,"password":"0ecaae2c-c757-40e2-975a-f5b56a86e140","sni":"dl.kgvn.garenanow.com","skip-cert-verify":true,"network":"tcp"}

@@ -40,6 +40,16 @@ proxies:
   - {"name":"🇺🇸_US_美国_15","type":"vmess","server":"dp1.scproxy.top","port":443,"cipher":"auto","uuid":"823c31da-701f-483d-b36e-896e5cf0987a","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws"}
   - {"name":"🇺🇸_US_美国_16","type":"vmess","server":"us1.sharecentrepro.com","port":443,"cipher":"auto","uuid":"823c31da-701f-483d-b36e-896e5cf0987a","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws"}
   - {"name":"🇹🇷_TR_土耳其","type":"trojan","server":"194.146.26.40","port":443,"udp":true,"password":"2ea5fc44-bd38-4fb0-a9b9-88c83fc56622","sni":"4-193-105-141.nhost.00cdn.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"lonup∞1","type":"ss","server":"36.137.106.45","port":11023,"password":"ll668668@","cipher":"aes-256-gcm"}
+  - {"name":"lonup∞2","type":"ss","server":"36.139.166.247","port":11023,"password":"ll668668@","cipher":"aes-256-gcm"}
+  - {"name":"lonup∞3","type":"vmess","server":"106.55.234.95","port":31372,"cipher":"auto","uuid":"374d3519-455c-45b8-e3b1-0e2e9fcf4411","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"lonup∞4","type":"vmess","server":"123.249.101.15","port":19709,"cipher":"auto","uuid":"2f278a45-940a-46c1-c886-77f3b2d33987","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"lonup∞5","type":"vmess","server":"39.103.165.178","port":50002,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"lonup∞6","type":"vmess","server":"43.155.102.33","port":23802,"cipher":"auto","uuid":"4592247e-1528-4943-8bf3-cd9bb58b31c0","alterId":64,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"lonup∞7","type":"vmess","server":"43.154.233.89","port":53038,"cipher":"auto","uuid":"2264f24e-d814-4aa6-98c0-ed5a8322a0eb","alterId":64,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"lonup∞8","type":"vmess","server":"43.156.110.222","port":55725,"cipher":"auto","uuid":"f21f434d-8097-4302-9c0c-0b0c7dffcfcb","alterId":64,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"lonup∞9","type":"vmess","server":"43.156.19.14","port":48317,"cipher":"auto","uuid":"98821111-93ab-4562-946a-61ba95f472f1","alterId":64,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"lonup∞10","type":"vmess","server":"43.154.148.54","port":23394,"cipher":"auto","uuid":"b74f0019-b839-421f-add8-ffaf94fc3139","alterId":64,"tls":true,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇯🇵_JP_日本_1","type":"trojan","server":"jp7.lianpi.xyz","port":53638,"udp":true,"password":"5d651d8c-d5b3-418b-a3ea-55171af5b726","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇺🇸_US_美国_1","type":"vmess","server":"quranweb12.xyz","port":443,"cipher":"auto","uuid":"8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws"}
   - {"name":"🇺🇸_US_美国_2","type":"vmess","server":"freequranbook.uk","port":443,"cipher":"auto","uuid":"8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws"}

@@ -1,4 +1,12 @@
 proxies:
+  - {"name":"🇺🇸⊹US⊹⟪@LonUp_M⟫⊹17\r","type":"trojan","server":"138.124.183.226","port":443,"udp":true,"password":"xxoo","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸⊹US⊹⟪@LonUp_M⟫⊹102\r","type":"trojan","server":"138.124.183.222","port":443,"udp":true,"password":"xxoo","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸⊹US⊹⟪@LonUp_M⟫⊹96","type":"vmess","server":"104.16.209.12","port":8880,"cipher":"auto","uuid":"0c664f44-9f69-454f-841a-4616715df26f","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"a7.iraniancp.fun"}}}
+  - {"name":"🇰🇷⊹KR⊹⟪@LonUp_M⟫⊹113","type":"vmess","server":"m4.40010010.xyz","port":37121,"cipher":"auto","uuid":"575e4d92-1056-44c2-8cac-75ef1c859ad5","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇯🇵⊹JP⊹⟪@LonUp_M⟫⊹57\r","type":"trojan","server":"150.230.217.213","port":443,"udp":true,"password":"c09eb137-bf68-4658-84e0-102d94b74168","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇦🇺⊹AU⊹⟪@LonUp_M⟫⊹95\r","type":"trojan","server":"140.238.205.173","port":443,"udp":true,"password":"cb43b7c2-b744-41c5-bcc2-fd7467b332cf","sni":"chmail.ir","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"⟪@LonUp_M⟫∞337","type":"vmess","server":"vsg1.0bad.com","port":443,"cipher":"auto","uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/chat","headers":{"host":"vsg1.0bad.com"}}}
+  - {"name":"🇺🇦⊹UA⊹⟪@LonUp_M⟫⊹85","type":"vmess","server":"doinb.ml","port":443,"cipher":"auto","uuid":"c2f89bc3-e151-411c-a2ea-7f3ef63a5408","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ikidvws","headers":{"host":"jp.lzgsm.tk"}}}
   - {"name":"🇨🇾_CY_塞浦路斯->🇫🇷_FR_法国","type":"vmess","server":"203.24.108.2","port":443,"cipher":"auto","uuid":"17b2a313-37a0-4945-a8e4-e63375506b4a","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/A2DJOPFT","headers":{"host":"77.v2ray1.xyz"}}}
   - {"name":"🇦🇲_AM_亚美尼亚->🇫🇷_FR_法国","type":"vmess","server":"185.162.228.2","port":443,"cipher":"auto","uuid":"17b2a313-37a0-4945-a8e4-e63375506b4a","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/A2DJOPFT","headers":{"host":"77.v2ray1.xyz"}}}
   - {"name":"🇯🇵_JP_日本_1","type":"ss","server":"43.207.117.53","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}

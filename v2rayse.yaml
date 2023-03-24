@@ -49,6 +49,7 @@ proxies:
   - {"name":"🇰🇷_KR_韩国_2","type":"ss","server":"131.186.21.62","port":4433,"password":"yy595721","cipher":"aes-256-gcm"}
   - {"name":"🇮🇳_IN_印度","type":"trojan","server":"152.70.74.66","port":443,"udp":true,"password":"d906afe5-7c3c-4ddc-aaa4-61c154a82e5e","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇺🇸_US_美国->🇬🇧_GB_英国_2","type":"vmess","server":"holyquran18.store","port":443,"cipher":"auto","uuid":"8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws"}
+  - {"name":"v2rayse_test","type":"ss","server":"198.57.27.218","port":5004,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
   - {"type":"ssr","name":"T.ME:@Vpn_Filternet💥🇸🇬💥SG_1","server":"sg-am3.eqsunshine.com","port":32001,"protocol":"origin","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","password":"3g0dHlKME"}
   - {"type":"ss","name":"T.ME:@Vpn_Filternet💥🇺🇾💥UY","server":"179.27.200.28","port":989,"cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3"}
   - {"type":"ss","name":"T.ME:@Vpn_Filternet💥🇲🇰💥MK","server":"46.183.185.15","port":989,"cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3"}

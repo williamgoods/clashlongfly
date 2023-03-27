@@ -35,6 +35,11 @@ proxies:
   - {"name":"🇺🇸_US_美国->🇩🇪_DE_德国_2","type":"vmess","server":"cf-topspeedvv2.uk","port":443,"cipher":"auto","uuid":"8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/current_time"}}
   - {"name":"🇧🇿_BZ_伯利兹","type":"vmess","server":"203.30.191.20","port":443,"cipher":"auto","uuid":"5f64fa65-7b14-49c5-954d-aa15c6bfcacd","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/dongtaiwang.com","headers":{"host":"clash6.ssr-free.xyz"}}}
   - {"name":"🇺🇸_US_美国_3","type":"vmess","server":"la.awsbest.com","port":443,"cipher":"auto","uuid":"8b6dd709-4d4e-4b92-f542-54a676efbfe4","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/shares"}}
+  - {"name":"defaultName_1","type":"ss","server":"54.255.128.51","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"defaultName_2","type":"ss","server":"54.65.160.21","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"defaultName_3","type":"ss","server":"18.142.46.198","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"HW","type":"ss","server":"hzdx.pangupy.com","port":56820,"password":"4d5a811b-2289-43c3-a042-abd484e7505b","cipher":"aes-256-gcm"}
+  - {"name":"HK","type":"vmess","server":"16.162.86.58","port":80,"cipher":"auto","uuid":"4cf4a04d-9118-4e32-a986-52adcc1b55f0","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/","headers":{"host":"tms.dingtalk.com"}}}
   - {"name":"🇯🇵日本01\r","type":"trojan","server":"1j8p01.abzoones.xyz","port":36116,"udp":true,"password":"58d1dc1f-d028-4f2a-ab17-7ca4b67a163d","sni":"jp01.abpilot.xyz","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇯🇵日本02\r","type":"trojan","server":"1j8p02.abzoones.xyz","port":36106,"udp":true,"password":"58d1dc1f-d028-4f2a-ab17-7ca4b67a163d","sni":"jp02.abpilot.xyz","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇯🇵日本03\r","type":"trojan","server":"1j8p03.abzoones.xyz","port":36111,"udp":true,"password":"58d1dc1f-d028-4f2a-ab17-7ca4b67a163d","sni":"jp03.abpilot.xyz","skip-cert-verify":true,"network":"tcp"}

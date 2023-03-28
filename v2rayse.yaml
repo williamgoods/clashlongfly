@@ -1,4 +1,14 @@
 proxies:
+  - {"name":"v2rayse_test_1","type":"ss","server":"198.57.27.218","port":5004,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+  - {"name":"v2rayse_test_2","type":"vmess","server":"154.23.190.162","port":443,"cipher":"auto","uuid":"b9984674-f771-4e67-a198-c7e60720ba2c","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws"}
+  - {"name":"v2rayse_test_3","type":"vmess","server":"154.23.190.162","port":443,"cipher":"auto","uuid":"b9984674-f771-4e67-a198-c7e60720ba2c","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws"}
+  - {"name":"defaultName_1","type":"ssr","server":"20.239.49.44","port":59814,"password":"3df57276-03ef-45cf-bdd4-4edb6dfaa0ef","cipher":"dummy","obfs":"plain","protocol":"origin","group":"https://v2rayse.com"}
+  - {"name":"v2rayse_test_4","type":"trojan","server":"ca-trojan.bonds.id","port":443,"udp":true,"password":"bc7593fe-0604-4fbe-a70bYWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTaclWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272","skip-cert-verify":true}
+  - {"name":"defaultName_2","type":"http","server":"124.15.12.24","port":251,"username":"username","password":"password"}
+  - {"name":"defaultName_3","type":"socks5","server":"124.15.12.24","port":2312}
+  - {"name":"Hys-1.2.3.4","type":"hysteria","server":"1.2.3.4","port":12854,"sni":"wechat.com","skip-cert-verify":true,"alpn":["h3"],"protocol":"udp","auth_str":"pekopeko","up":50,"down":250}
+  - {"name":"test","type":"vless","server":"1.2.3.4","port":7777,"uuid":"abc-def-ghi-fge-zsx","tls":true,"network":"tcp"}
+  - {"name":"defaultName_4","type":"socks5","server":"1.2.3.4","port":123,"username":"username","password":"password"}
   - {"name":"🇯🇵 日本东京-04","type":"vmess","server":"131.186.41.192","port":26297,"cipher":"auto","uuid":"b0ed6eb7-dc30-4897-df50-c2c1d4ee6e91","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇺🇸 CF-US-Vmess","type":"vmess","server":"www.damonhuang.top","port":443,"cipher":"auto","uuid":"3b6d199e-c090-4a82-8887-815929ba3aff","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/damonhuang"}}
   - {"name":"CF Vless","type":"vmess","server":"1st.starvskii2world.top","port":443,"cipher":"auto","uuid":"3c530a57-f1f0-4fe0-92c3-7287a5251f97","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/cf01"}}

@@ -1,4 +1,78 @@
 proxies:
+  - {"name":"🇯🇵_JP日本_1","type":"ss","server":"54.65.160.21","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇸🇬_SG新加坡_1","type":"ss","server":"52.221.242.53","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇯🇵_JP日本_2","type":"ss","server":"85.208.108.60","port":8118,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
+  - {"name":"🇸🇬_SG新加坡_2","type":"ss","server":"54.169.86.225","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇸🇬_SG新加坡_3","type":"ss","server":"54.255.128.51","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇺🇸_US美国","type":"ss","server":"52.32.40.113","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇸🇬_SG新加坡_4","type":"ss","server":"52.221.240.172","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇸🇬_SG新加坡_5","type":"ss","server":"13.213.41.142","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇰🇷_KR韩国_1","type":"ss","server":"43.201.29.13","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇸🇬_SG新加坡_6","type":"ss","server":"13.250.25.173","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇯🇵_JP日本_3","type":"ss","server":"85.208.108.60","port":2375,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+  - {"name":"🇸🇬_SG新加坡_7","type":"ss","server":"18.143.187.111","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇨🇳_CN中国_1","type":"ss","server":"36.139.166.247","port":11023,"password":"ll668668@","cipher":"aes-256-gcm"}
+  - {"name":"🇰🇷_KR韩国_2","type":"ss","server":"43.201.57.87","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇯🇵_JP日本_4","type":"ss","server":"85.208.108.60","port":8091,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+  - {"name":"🇯🇵_JP日本_5","type":"ss","server":"43.207.110.173","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇰🇷_KR韩国_3","type":"ss","server":"43.200.244.234","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇯🇵_JP日本_6","type":"ss","server":"43.207.160.88","port":443,"password":"doub.io","cipher":"aes-256-cfb"}
+  - {"name":"🇨🇳_CN中国_2","type":"ss","server":"36.139.166.244","port":11023,"password":"ll668668@","cipher":"aes-256-gcm"}
+  - {"name":"🇸🇬_SG新加坡_8","type":"ss","server":"13.212.250.149","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇨🇳_CN中国_3","type":"ss","server":"14.29.124.168","port":25256,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+  - {"name":"🇰🇷_KR韩国_4","type":"ss","server":"43.201.70.114","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇯🇵_JP日本_7","type":"ss","server":"85.208.108.60","port":5004,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+  - {"name":"🇯🇵_JP日本_8","type":"ss","server":"85.208.108.60","port":6697,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
+  - {"name":"🇨🇳_CN中国_4","type":"ss","server":"14.29.124.168","port":25286,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+  - {"name":"🇨🇳_CN中国_5","type":"ss","server":"14.29.124.168","port":25245,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+  - {"name":"🇯🇵_JP日本_9","type":"ss","server":"43.207.214.255","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇨🇳_CN中国_6","type":"ss","server":"36.138.140.208","port":11023,"password":"ll668668@","cipher":"aes-256-gcm"}
+  - {"name":"🇰🇷_KR韩国_5","type":"ss","server":"43.201.37.176","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇯🇵_JP日本_10","type":"ss","server":"43.207.66.114","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"备用域名 tolink365.xyz","type":"vmess","server":"ads01.linkzoones.xyz","port":30101,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇯🇵日本 | 101 | 负载优化 | 1x","type":"vmess","server":"fujimount01.linkzoones.xyz","port":30101,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇯🇵日本 | 102 | 流媒体优化 | 1x","type":"vmess","server":"fujimount02.linkzoones.xyz","port":30106,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇯🇵日本 | 103 | 负载优化 | 1x","type":"vmess","server":"fujimount03.linkzoones.xyz","port":30111,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇭🇰香港 | 101 | 负载优化 | 1x","type":"vmess","server":"bauhinia01.linkzoones.xyz","port":30701,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇭🇰香港 | 102 | 流媒体优化 | 1x","type":"vmess","server":"bauhinia02.linkzoones.xyz","port":30706,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇭🇰香港 | 103 | 负载优化 | 1x","type":"vmess","server":"bauhinia03.linkzoones.xyz","port":30711,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇹🇼台湾 | 101 | 负载优化 | 1x | New Bing","type":"vmess","server":"sunmoon01.linkzoones.xyz","port":30301,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇹🇼台湾 | 102 | 动画疯/HBO GO | 1x","type":"vmess","server":"sunmoon02.linkzoones.xyz","port":30306,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇹🇼台湾 | 103 | 负载优化| 1x","type":"vmess","server":"sunmoon03.linkzoones.xyz","port":30311,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇸🇬新加坡 | 101 | 负载优化 | 1x","type":"vmess","server":"lion01.linkzoones.xyz","port":30201,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇸🇬新加坡 | 102 | 流媒体优化 | 1x","type":"vmess","server":"lion02.linkzoones.xyz","port":30206,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇸🇬新加坡 | 103 | 负载优化 | 1x","type":"vmess","server":"lion03.linkzoones.xyz","port":30211,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇰🇷韩国 | 101 | 负载优化 | 1x | New Bing","type":"vmess","server":"pickle01.linkzoones.xyz","port":30401,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇵🇭菲律宾 | 101 | 负载优化 | 1x | New Bing","type":"vmess","server":"sentimo01.linkzoones.xyz","port":30801,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇵🇭菲律宾 | 104 | 负载优化 | 1x","type":"vmess","server":"sentimo04.linkzoones.xyz","port":30801,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇮🇳印度 | 101 | 负载优化 | 1x","type":"vmess","server":"rlgis01.linkzoones.xyz","port":30831,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇮🇳印度 | 104 | 负载优化 | 1x","type":"vmess","server":"rlgis04.linkzoones.xyz","port":30831,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇦🇺澳大利亚 | 101 | 负载优化 | 1x","type":"vmess","server":"kngr01.linkzoones.xyz","port":30821,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇦🇺澳大利亚 | 104 | 负载优化 | 1x","type":"vmess","server":"kngr04.linkzoones.xyz","port":30821,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇬🇧英国 | 101 | 负载优化 | 1x","type":"vmess","server":"mlvs01.linkzoones.xyz","port":30811,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇬🇧英国 | 104 | 负载优化 | 1x","type":"vmess","server":"mlvs04.linkzoones.xyz","port":30811,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇩🇪德国 | 101 | 负载优化 | 1x","type":"vmess","server":"pnth01.linkzoones.xyz","port":30841,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇩🇪德国 | 104 | 负载优化 | 1x","type":"vmess","server":"pnth04.linkzoones.xyz","port":30841,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇷🇺俄罗斯 | 101 | 负载优化 | 1x","type":"vmess","server":"r7u01.linkzoones.xyz","port":30851,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇷🇺俄罗斯 | 104 | 负载优化 | 1x","type":"vmess","server":"r7u04.linkzoones.xyz","port":30851,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸美国 | 101 | 负载优化 | 1x","type":"vmess","server":"eagle01.linkzoones.xyz","port":30501,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸美国 | 102 | 负载优化 | 1x","type":"vmess","server":"eagle02.linkzoones.xyz","port":30506,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸美国 | 103 | 负载优化 | 1x","type":"vmess","server":"eagle03.linkzoones.xyz","port":30511,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇨🇦加拿大 | 101 | 负载优化 | 1x","type":"vmess","server":"mapleleaf01.linkzoones.xyz","port":30601,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇨🇦加拿大 | 102 | 负载优化 | 1x","type":"vmess","server":"mapleleaf02.linkzoones.xyz","port":30606,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇨🇦加拿大 | 103 | 负载优化 | 1x","type":"vmess","server":"mapleleaf03.linkzoones.xyz","port":30611,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"俄罗斯E","type":"ssr","server":"45.130.146.158","port":13355,"password":"lncn.org es6","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
+  - {"name":"俄罗斯F","type":"ssr","server":"45.8.158.245","port":13355,"password":"lncn.org es6","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
+  - {"name":"俄罗斯G","type":"ssr","server":"45.130.146.243","port":13355,"password":"lncn.org es6","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
+  - {"name":"俄罗斯H","type":"ssr","server":"91.206.93.170","port":13355,"password":"lncn.org es6","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
+  - {"name":"俄罗斯I","type":"ssr","server":"45.8.159.178","port":13355,"password":"lncn.org es6","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
+  - {"name":"俄罗斯J","type":"ssr","server":"45.89.228.224","port":13355,"password":"lncn.org es6","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
+  - {"name":"俄罗斯K","type":"ssr","server":"45.89.229.165","port":13355,"password":"lncn.org es6","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
+  - {"name":"俄罗斯L","type":"ssr","server":"45.130.146.133","port":13355,"password":"lncn.org es6","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
+  - {"name":"俄罗斯M","type":"ssr","server":"45.8.158.131","port":13355,"password":"lncn.org es6","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
+  - {"name":"俄罗斯N","type":"ssr","server":"45.89.229.124","port":13355,"password":"lncn.org es6","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
+  - {"name":"俄罗斯O","type":"ssr","server":"45.8.158.230","port":13355,"password":"lncn.org es6","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
+  - {"name":"俄罗斯P","type":"ssr","server":"91.206.92.227","port":13355,"password":"lncn.org es6","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
   - {"name":"HW_1","type":"vmess","server":"43.154.166.25","port":51215,"cipher":"auto","uuid":"4592247e-1528-4943-8bf3-cd9bb58b31c0","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/hk6/getData","headers":{"host":"hk6.verichains.co"}}}
   - {"name":"HW_2","type":"vmess","server":"43.154.158.116","port":58938,"cipher":"auto","uuid":"6b6dd11a-798c-401e-ba46-d6272e29aca3","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/hk4/getData","headers":{"host":"hk5.linkeden.co"}}}
   - {"name":"HW_3","type":"vmess","server":"43.156.111.144","port":31587,"cipher":"auto","uuid":"ffd17b65-3ea1-42e6-a75a-9c90caebb530","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/sg5/getData","headers":{"host":"sg5.linkeden.co"}}}
@@ -76,6 +150,81 @@ proxies:
       headers:
         Host: www.itzjx.top
 
+  - {"name":"🇯🇵_JP日本_1","type":"ss","server":"54.65.160.21","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇸🇬_SG新加坡_1","type":"ss","server":"52.221.242.53","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇯🇵_JP日本_2","type":"ss","server":"85.208.108.60","port":8118,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
+  - {"name":"🇸🇬_SG新加坡_2","type":"ss","server":"54.169.86.225","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇸🇬_SG新加坡_3","type":"ss","server":"54.255.128.51","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇺🇸_US美国","type":"ss","server":"52.32.40.113","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇸🇬_SG新加坡_4","type":"ss","server":"52.221.240.172","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇸🇬_SG新加坡_5","type":"ss","server":"13.213.41.142","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇰🇷_KR韩国_1","type":"ss","server":"43.201.29.13","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇸🇬_SG新加坡_6","type":"ss","server":"13.250.25.173","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇯🇵_JP日本_3","type":"ss","server":"85.208.108.60","port":2375,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+  - {"name":"🇸🇬_SG新加坡_7","type":"ss","server":"18.143.187.111","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇨🇳_CN中国_1","type":"ss","server":"36.139.166.247","port":11023,"password":"ll668668@","cipher":"aes-256-gcm"}
+  - {"name":"🇰🇷_KR韩国_2","type":"ss","server":"43.201.57.87","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇯🇵_JP日本_4","type":"ss","server":"85.208.108.60","port":8091,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+  - {"name":"🇯🇵_JP日本_5","type":"ss","server":"43.207.110.173","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇰🇷_KR韩国_3","type":"ss","server":"43.200.244.234","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇯🇵_JP日本_6","type":"ss","server":"43.207.160.88","port":443,"password":"doub.io","cipher":"aes-256-cfb"}
+  - {"name":"🇨🇳_CN中国_2","type":"ss","server":"36.139.166.244","port":11023,"password":"ll668668@","cipher":"aes-256-gcm"}
+  - {"name":"🇸🇬_SG新加坡_8","type":"ss","server":"13.212.250.149","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇨🇳_CN中国_3","type":"ss","server":"14.29.124.168","port":25256,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+  - {"name":"🇰🇷_KR韩国_4","type":"ss","server":"43.201.70.114","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇯🇵_JP日本_7","type":"ss","server":"85.208.108.60","port":5004,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+  - {"name":"🇯🇵_JP日本_8","type":"ss","server":"85.208.108.60","port":6697,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
+  - {"name":"🇨🇳_CN中国_4","type":"ss","server":"14.29.124.168","port":25286,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+  - {"name":"🇨🇳_CN中国_5","type":"ss","server":"14.29.124.168","port":25245,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+  - {"name":"🇯🇵_JP日本_9","type":"ss","server":"43.207.214.255","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇨🇳_CN中国_6","type":"ss","server":"36.138.140.208","port":11023,"password":"ll668668@","cipher":"aes-256-gcm"}
+  - {"name":"🇰🇷_KR韩国_5","type":"ss","server":"43.201.37.176","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇯🇵_JP日本_10","type":"ss","server":"43.207.66.114","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"备用域名 tolink365.xyz","type":"vmess","server":"ads01.linkzoones.xyz","port":30101,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇯🇵日本 | 101 | 负载优化 | 1x","type":"vmess","server":"fujimount01.linkzoones.xyz","port":30101,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇯🇵日本 | 102 | 流媒体优化 | 1x","type":"vmess","server":"fujimount02.linkzoones.xyz","port":30106,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇯🇵日本 | 103 | 负载优化 | 1x","type":"vmess","server":"fujimount03.linkzoones.xyz","port":30111,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇭🇰香港 | 101 | 负载优化 | 1x","type":"vmess","server":"bauhinia01.linkzoones.xyz","port":30701,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇭🇰香港 | 102 | 流媒体优化 | 1x","type":"vmess","server":"bauhinia02.linkzoones.xyz","port":30706,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇭🇰香港 | 103 | 负载优化 | 1x","type":"vmess","server":"bauhinia03.linkzoones.xyz","port":30711,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇹🇼台湾 | 101 | 负载优化 | 1x | New Bing","type":"vmess","server":"sunmoon01.linkzoones.xyz","port":30301,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇹🇼台湾 | 102 | 动画疯/HBO GO | 1x","type":"vmess","server":"sunmoon02.linkzoones.xyz","port":30306,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇹🇼台湾 | 103 | 负载优化| 1x","type":"vmess","server":"sunmoon03.linkzoones.xyz","port":30311,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇸🇬新加坡 | 101 | 负载优化 | 1x","type":"vmess","server":"lion01.linkzoones.xyz","port":30201,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇸🇬新加坡 | 102 | 流媒体优化 | 1x","type":"vmess","server":"lion02.linkzoones.xyz","port":30206,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇸🇬新加坡 | 103 | 负载优化 | 1x","type":"vmess","server":"lion03.linkzoones.xyz","port":30211,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇰🇷韩国 | 101 | 负载优化 | 1x | New Bing","type":"vmess","server":"pickle01.linkzoones.xyz","port":30401,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇵🇭菲律宾 | 101 | 负载优化 | 1x | New Bing","type":"vmess","server":"sentimo01.linkzoones.xyz","port":30801,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇵🇭菲律宾 | 104 | 负载优化 | 1x","type":"vmess","server":"sentimo04.linkzoones.xyz","port":30801,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇮🇳印度 | 101 | 负载优化 | 1x","type":"vmess","server":"rlgis01.linkzoones.xyz","port":30831,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇮🇳印度 | 104 | 负载优化 | 1x","type":"vmess","server":"rlgis04.linkzoones.xyz","port":30831,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇦🇺澳大利亚 | 101 | 负载优化 | 1x","type":"vmess","server":"kngr01.linkzoones.xyz","port":30821,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇦🇺澳大利亚 | 104 | 负载优化 | 1x","type":"vmess","server":"kngr04.linkzoones.xyz","port":30821,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇬🇧英国 | 101 | 负载优化 | 1x","type":"vmess","server":"mlvs01.linkzoones.xyz","port":30811,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇬🇧英国 | 104 | 负载优化 | 1x","type":"vmess","server":"mlvs04.linkzoones.xyz","port":30811,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇩🇪德国 | 101 | 负载优化 | 1x","type":"vmess","server":"pnth01.linkzoones.xyz","port":30841,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇩🇪德国 | 104 | 负载优化 | 1x","type":"vmess","server":"pnth04.linkzoones.xyz","port":30841,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇷🇺俄罗斯 | 101 | 负载优化 | 1x","type":"vmess","server":"r7u01.linkzoones.xyz","port":30851,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇷🇺俄罗斯 | 104 | 负载优化 | 1x","type":"vmess","server":"r7u04.linkzoones.xyz","port":30851,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸美国 | 101 | 负载优化 | 1x","type":"vmess","server":"eagle01.linkzoones.xyz","port":30501,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸美国 | 102 | 负载优化 | 1x","type":"vmess","server":"eagle02.linkzoones.xyz","port":30506,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸美国 | 103 | 负载优化 | 1x","type":"vmess","server":"eagle03.linkzoones.xyz","port":30511,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇨🇦加拿大 | 101 | 负载优化 | 1x","type":"vmess","server":"mapleleaf01.linkzoones.xyz","port":30601,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇨🇦加拿大 | 102 | 负载优化 | 1x","type":"vmess","server":"mapleleaf02.linkzoones.xyz","port":30606,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇨🇦加拿大 | 103 | 负载优化 | 1x","type":"vmess","server":"mapleleaf03.linkzoones.xyz","port":30611,"cipher":"auto","uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"过期时间：2023-04-29","type":"vless","server":"tolink365.xyz","port":10086,"uuid":"e327d8a7-7b54-3681-b51a-307a28d56fbe","tls":false,"network":"tcp"}
+  - {"name":"俄罗斯E","type":"ssr","server":"45.130.146.158","port":13355,"password":"lncn.org es6","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
+  - {"name":"俄罗斯F","type":"ssr","server":"45.8.158.245","port":13355,"password":"lncn.org es6","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
+  - {"name":"俄罗斯G","type":"ssr","server":"45.130.146.243","port":13355,"password":"lncn.org es6","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
+  - {"name":"俄罗斯H","type":"ssr","server":"91.206.93.170","port":13355,"password":"lncn.org es6","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
+  - {"name":"俄罗斯I","type":"ssr","server":"45.8.159.178","port":13355,"password":"lncn.org es6","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
+  - {"name":"俄罗斯J","type":"ssr","server":"45.89.228.224","port":13355,"password":"lncn.org es6","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
+  - {"name":"俄罗斯K","type":"ssr","server":"45.89.229.165","port":13355,"password":"lncn.org es6","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
+  - {"name":"俄罗斯L","type":"ssr","server":"45.130.146.133","port":13355,"password":"lncn.org es6","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
+  - {"name":"俄罗斯M","type":"ssr","server":"45.8.158.131","port":13355,"password":"lncn.org es6","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
+  - {"name":"俄罗斯N","type":"ssr","server":"45.89.229.124","port":13355,"password":"lncn.org es6","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
+  - {"name":"俄罗斯O","type":"ssr","server":"45.8.158.230","port":13355,"password":"lncn.org es6","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
+  - {"name":"俄罗斯P","type":"ssr","server":"91.206.92.227","port":13355,"password":"lncn.org es6","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
   - {"name":"🇨🇳_CN_中国_1","type":"ss","server":"36.137.106.45","port":11023,"password":"ll668668@","cipher":"aes-256-gcm"}
   - {"name":"🇺🇸_US_美国_1","type":"vmess","server":"quran-audio7.xyz","port":443,"cipher":"auto","uuid":"8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws"}
   - {"name":"🇨🇳_CN_中国_2","type":"vmess","server":"106.55.234.95","port":31372,"cipher":"auto","uuid":"374d3519-455c-45b8-e3b1-0e2e9fcf4411","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}

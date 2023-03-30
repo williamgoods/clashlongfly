@@ -1,4 +1,5 @@
 proxies:
+  - {"name":"443","type":"vmess","server":"115.126.113.44","port":443,"cipher":"auto","uuid":"0747b459-2b95-4af7-e7dc-379d9c8c947a","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"proxy_1","type":"vmess","server":"156.225.67.15","port":443,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/130632252334","headers":{"host":"www.84938863.xyz"}}}
   - {"name":"proxy_17","type":"vmess","server":"142.4.108.22","port":55102,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"proxy_3","type":"vmess","server":"108.186.116.171","port":443,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/130632252334","headers":{"host":"www.42576874.xyz"}}}

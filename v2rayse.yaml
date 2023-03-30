@@ -297,6 +297,90 @@ proxies:
   - {"name":"美国(yudou66.com 玉豆免费节点)_92","type":"vmess","server":"quranweb6.xyz","port":443,"cipher":"auto","uuid":"8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/current_time","headers":{"host":"quranweb6.xyz"}}}
   - {"name":"德国(yudou66.com 玉豆免费节点)_30","type":"vmess","server":"cdnjs.com","port":443,"cipher":"auto","uuid":"2F094845-E2BD-EBF7-DEB7-995992436FAF","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/speedtest","headers":{"host":"Dusseldorf.kotick.site"}}}
   - {"name":"日本(yudou66.com 玉豆免费节点)_9","type":"vmess","server":"lsb-gy.heinu.cf","port":2096,"cipher":"auto","uuid":"d793c013-f596-4af9-de0a-2062bb864dd7","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/@heinuhome"}}
+  - {"name":"proxy","type":"vmess","server":"38.54.107.122","port":52452,"cipher":"auto","uuid":"6e28708e-60b5-4fda-aaa7-51940d3cc55b","alterId":64,"tls":true,"skip-cert-verify":false,"servername":"tw2.linkeden.co","network":"ws","ws-opts":{"path":"/tw2/getData","headers":{}}}
+  - {"name":"proxy 2","type":"vmess","server":"43.156.103.197","port":34174,"cipher":"auto","uuid":"de482393-068d-4cb1-986e-680ff86d5d7d","alterId":64,"tls":true,"skip-cert-verify":false,"servername":"sg9.verichains.co","network":"ws","ws-opts":{"path":"/sg9/getData","headers":{}}}
+  - {"name":"proxy 3","type":"vmess","server":"43.156.19.14","port":56595,"cipher":"auto","uuid":"98821111-93ab-4562-946a-61ba95f472f1","alterId":64,"tls":true,"skip-cert-verify":false,"servername":"sg8.verichains.co","network":"ws","ws-opts":{"path":"/sg8/getData","headers":{}}}
+  - {"name":"proxy 4","type":"vmess","server":"43.159.47.228","port":45056,"cipher":"auto","uuid":"d318b489-19b7-4a45-84d7-1320d05dc10d","alterId":64,"tls":true,"skip-cert-verify":false,"servername":"sg4.linkeden.co","network":"ws","ws-opts":{"path":"/sg4/getData","headers":{}}}
+  - {"name":"proxy 5","type":"vmess","server":"43.156.111.144","port":54415,"cipher":"auto","uuid":"ffd17b65-3ea1-42e6-a75a-9c90caebb530","alterId":64,"tls":true,"skip-cert-verify":false,"servername":"sg5.linkeden.co","network":"ws","ws-opts":{"path":"/sg5/getData","headers":{}}}
+  - {"name":"proxy 6","type":"vmess","server":"43.154.158.116","port":34971,"cipher":"auto","uuid":"6b6dd11a-798c-401e-ba46-d6272e29aca3","alterId":64,"tls":true,"skip-cert-verify":false,"servername":"hk5.linkeden.co","network":"ws","ws-opts":{"path":"/hk4/getData","headers":{}}}
+  - {"name":"proxy 7","type":"vmess","server":"43.155.101.165","port":47333,"cipher":"auto","uuid":"bc32a4cb-734d-4f55-888b-704ca4950ce9","alterId":64,"tls":true,"skip-cert-verify":false,"servername":"hk13.linkeden.co","network":"ws","ws-opts":{"path":"/hk13/getData","headers":{}}}
+  - {"name":"proxy 8","type":"vmess","server":"43.134.227.81","port":20386,"cipher":"auto","uuid":"f21f434d-8097-4302-9c0c-0b0c7dffcfcb","alterId":64,"tls":true,"skip-cert-verify":false,"servername":"sg6.verichains.co","network":"ws","ws-opts":{"path":"/sg6/getData","headers":{}}}
+  - {"name":"proxy 9","type":"vmess","server":"38.47.96.219","port":48597,"cipher":"auto","uuid":"90b53f9f-3e90-4dc0-a508-2d6f1f9a6254","alterId":64,"tls":true,"skip-cert-verify":false,"servername":"jp1.linkeden.co","network":"ws","ws-opts":{"path":"/jp1/getData","headers":{}}}
+  - {"name":"proxy 10","type":"vmess","server":"38.47.110.212","port":31263,"cipher":"auto","uuid":"f5b19092-44aa-408f-8148-f11b9ddc04d8","alterId":64,"tls":true,"skip-cert-verify":false,"servername":"jp2.linkeden.co","network":"ws","ws-opts":{"path":"/jp2/getData","headers":{}}}
+  - {"name":"proxy 11","type":"vmess","server":"192.243.124.25","port":27763,"cipher":"auto","uuid":"1d638060-9665-42bf-8744-b7a2ecc608d4","alterId":0,"tls":false,"skip-cert-verify":false}
+  - {"name":"距离下次重置剩余：2 天","type":"trojan","server":"996hk.996cloud.xyz","port":443,"password":"3e55b4d3-1484-4295-baeb-2b2d15410436","skip-cert-verify":false}
+  - {"name":"一元百G：https://dash.fscloud.cc/","type":"trojan","server":"996hk.996cloud.xyz","port":443,"password":"3e55b4d3-1484-4295-baeb-2b2d15410436","skip-cert-verify":false}
+  - {"name":"🇭🇰 fscloud 香港 - 001","type":"trojan","server":"996hk.996cloud.xyz","port":443,"password":"3e55b4d3-1484-4295-baeb-2b2d15410436","skip-cert-verify":false}
+  - {"name":"🇭🇰 fscloud 香港 - 002","type":"trojan","server":"996hk.996cloud.xyz","port":443,"password":"3e55b4d3-1484-4295-baeb-2b2d15410436","skip-cert-verify":false}
+  - {"name":"🇭🇰 fscloud 香港 - 003","type":"trojan","server":"996hk.996cloud.xyz","port":443,"password":"3e55b4d3-1484-4295-baeb-2b2d15410436","skip-cert-verify":false}
+  - {"name":"🇭🇰 fscloud 香港 - 004","type":"trojan","server":"996hk.996cloud.xyz","port":443,"password":"3e55b4d3-1484-4295-baeb-2b2d15410436","skip-cert-verify":false}
+  - {"name":"🇭🇰 fscloud 香港 - 005","type":"trojan","server":"996hk.996cloud.xyz","port":443,"password":"3e55b4d3-1484-4295-baeb-2b2d15410436","skip-cert-verify":false}
+  - {"name":"🇯🇵 fscloud 日本 - 001","type":"trojan","server":"996jp.996cloud.xyz","port":443,"password":"3e55b4d3-1484-4295-baeb-2b2d15410436","skip-cert-verify":false}
+  - {"name":"🇯🇵 fscloud 日本 - 002","type":"trojan","server":"996jp.996cloud.xyz","port":443,"password":"3e55b4d3-1484-4295-baeb-2b2d15410436","skip-cert-verify":false}
+  - {"name":"🇯🇵 fscloud 日本 - 003","type":"trojan","server":"996jp.996cloud.xyz","port":443,"password":"3e55b4d3-1484-4295-baeb-2b2d15410436","skip-cert-verify":false}
+  - {"name":"🇯🇵 fscloud 日本 - 004","type":"trojan","server":"996jp.996cloud.xyz","port":443,"password":"3e55b4d3-1484-4295-baeb-2b2d15410436","skip-cert-verify":false}
+  - {"name":"🇯🇵 fscloud 日本 - 005","type":"trojan","server":"996jp.996cloud.xyz","port":443,"password":"3e55b4d3-1484-4295-baeb-2b2d15410436","skip-cert-verify":false}
+  - {"name":"🇸🇬 fscloud 新加坡 - 001","type":"trojan","server":"996sg.996cloud.xyz","port":443,"password":"3e55b4d3-1484-4295-baeb-2b2d15410436","skip-cert-verify":false}
+  - {"name":"🇸🇬 fscloud 新加坡 - 002","type":"trojan","server":"996sg.996cloud.xyz","port":443,"password":"3e55b4d3-1484-4295-baeb-2b2d15410436","skip-cert-verify":false}
+  - {"name":"🇸🇬 fscloud 新加坡 - 003","type":"trojan","server":"996sg.996cloud.xyz","port":443,"password":"3e55b4d3-1484-4295-baeb-2b2d15410436","skip-cert-verify":false}
+  - {"name":"🇸🇬 fscloud 新加坡 - 004","type":"trojan","server":"996sg.996cloud.xyz","port":443,"password":"3e55b4d3-1484-4295-baeb-2b2d15410436","skip-cert-verify":false}
+  - {"name":"🇸🇬 fscloud 新加坡 - 005","type":"trojan","server":"996sg.996cloud.xyz","port":443,"password":"3e55b4d3-1484-4295-baeb-2b2d15410436","skip-cert-verify":false}
+  - {"name":"🇺🇲 fscloud 美国 - 001","type":"trojan","server":"996us.996cloud.xyz","port":443,"password":"3e55b4d3-1484-4295-baeb-2b2d15410436","skip-cert-verify":false}
+  - {"name":"🇺🇲 fscloud 美国 - 002","type":"trojan","server":"996us.996cloud.xyz","port":443,"password":"3e55b4d3-1484-4295-baeb-2b2d15410436","skip-cert-verify":false}
+  - {"name":"🇺🇲 fscloud 美国 - 003","type":"trojan","server":"996us.996cloud.xyz","port":443,"password":"3e55b4d3-1484-4295-baeb-2b2d15410436","skip-cert-verify":false}
+  - {"name":"🇬🇧 fscloud 英国 - 001","type":"trojan","server":"996uk.996cloud.xyz","port":443,"password":"3e55b4d3-1484-4295-baeb-2b2d15410436","skip-cert-verify":false}
+  - {"name":"🇬🇧 fscloud 英国 - 002","type":"trojan","server":"996uk.996cloud.xyz","port":443,"password":"3e55b4d3-1484-4295-baeb-2b2d15410436","skip-cert-verify":false}
+  - {"name":"🇬🇧 fscloud 英国 - 003","type":"trojan","server":"996uk.996cloud.xyz","port":443,"password":"3e55b4d3-1484-4295-baeb-2b2d15410436","skip-cert-verify":false}
+  - {"name":"🇩🇪 fscloud 德国 - 001","type":"trojan","server":"996de.996cloud.xyz","port":443,"password":"3e55b4d3-1484-4295-baeb-2b2d15410436","skip-cert-verify":false}
+  - {"name":"🇩🇪 fscloud 德国 - 002","type":"trojan","server":"996de.996cloud.xyz","port":443,"password":"3e55b4d3-1484-4295-baeb-2b2d15410436","skip-cert-verify":false}
+  - {"name":"🇩🇪 fscloud 德国 - 003","type":"trojan","server":"996de.996cloud.xyz","port":443,"password":"3e55b4d3-1484-4295-baeb-2b2d15410436","skip-cert-verify":false}
+  - {"name":"🇮🇳 fscloud 印度 - 001","type":"trojan","server":"996in.996cloud.xyz","port":443,"password":"3e55b4d3-1484-4295-baeb-2b2d15410436","skip-cert-verify":false}
+  - {"name":"🇮🇳 fscloud 印度 - 002","type":"trojan","server":"996in.996cloud.xyz","port":443,"password":"3e55b4d3-1484-4295-baeb-2b2d15410436","skip-cert-verify":false}
+  - {"name":"🇮🇳 fscloud 印度 - 003","type":"trojan","server":"996in.996cloud.xyz","port":443,"password":"3e55b4d3-1484-4295-baeb-2b2d15410436","skip-cert-verify":false}
+  - {"name":"🇨🇦 fscloud 加拿大 - 001","type":"trojan","server":"996ca.996cloud.xyz","port":443,"password":"3e55b4d3-1484-4295-baeb-2b2d15410436","skip-cert-verify":false}
+  - {"name":"🇨🇦 fscloud 加拿大 - 002","type":"trojan","server":"996ca.996cloud.xyz","port":443,"password":"3e55b4d3-1484-4295-baeb-2b2d15410436","skip-cert-verify":false}
+  - {"name":"🇨🇦 fscloud 加拿大 - 003","type":"trojan","server":"996ca.996cloud.xyz","port":443,"password":"3e55b4d3-1484-4295-baeb-2b2d15410436","skip-cert-verify":false}
+  - {"name":"距离下次重置剩余：2 天 2","type":"trojan","server":"996hk.996cloud.xyz","port":443,"password":"cb39d7ba-9b22-4bf5-b9f7-f1f81baf0509","skip-cert-verify":false}
+  - {"name":"一元百G：https://dash.fscloud.cc/ 2","type":"trojan","server":"996hk.996cloud.xyz","port":443,"password":"cb39d7ba-9b22-4bf5-b9f7-f1f81baf0509","skip-cert-verify":false}
+  - {"name":"🇭🇰 fscloud 香港 - 001 2","type":"trojan","server":"996hk.996cloud.xyz","port":443,"password":"cb39d7ba-9b22-4bf5-b9f7-f1f81baf0509","skip-cert-verify":false}
+  - {"name":"🇭🇰 fscloud 香港 - 002 2","type":"trojan","server":"996hk.996cloud.xyz","port":443,"password":"cb39d7ba-9b22-4bf5-b9f7-f1f81baf0509","skip-cert-verify":false}
+  - {"name":"🇭🇰 fscloud 香港 - 003 2","type":"trojan","server":"996hk.996cloud.xyz","port":443,"password":"cb39d7ba-9b22-4bf5-b9f7-f1f81baf0509","skip-cert-verify":false}
+  - {"name":"🇭🇰 fscloud 香港 - 004 2","type":"trojan","server":"996hk.996cloud.xyz","port":443,"password":"cb39d7ba-9b22-4bf5-b9f7-f1f81baf0509","skip-cert-verify":false}
+  - {"name":"🇭🇰 fscloud 香港 - 005 2","type":"trojan","server":"996hk.996cloud.xyz","port":443,"password":"cb39d7ba-9b22-4bf5-b9f7-f1f81baf0509","skip-cert-verify":false}
+  - {"name":"🇯🇵 fscloud 日本 - 001 2","type":"trojan","server":"996jp.996cloud.xyz","port":443,"password":"cb39d7ba-9b22-4bf5-b9f7-f1f81baf0509","skip-cert-verify":false}
+  - {"name":"🇯🇵 fscloud 日本 - 002 2","type":"trojan","server":"996jp.996cloud.xyz","port":443,"password":"cb39d7ba-9b22-4bf5-b9f7-f1f81baf0509","skip-cert-verify":false}
+  - {"name":"🇯🇵 fscloud 日本 - 003 2","type":"trojan","server":"996jp.996cloud.xyz","port":443,"password":"cb39d7ba-9b22-4bf5-b9f7-f1f81baf0509","skip-cert-verify":false}
+  - {"name":"🇯🇵 fscloud 日本 - 004 2","type":"trojan","server":"996jp.996cloud.xyz","port":443,"password":"cb39d7ba-9b22-4bf5-b9f7-f1f81baf0509","skip-cert-verify":false}
+  - {"name":"🇯🇵 fscloud 日本 - 005 2","type":"trojan","server":"996jp.996cloud.xyz","port":443,"password":"cb39d7ba-9b22-4bf5-b9f7-f1f81baf0509","skip-cert-verify":false}
+  - {"name":"🇸🇬 fscloud 新加坡 - 001 2","type":"trojan","server":"996sg.996cloud.xyz","port":443,"password":"cb39d7ba-9b22-4bf5-b9f7-f1f81baf0509","skip-cert-verify":false}
+  - {"name":"🇸🇬 fscloud 新加坡 - 002 2","type":"trojan","server":"996sg.996cloud.xyz","port":443,"password":"cb39d7ba-9b22-4bf5-b9f7-f1f81baf0509","skip-cert-verify":false}
+  - {"name":"🇸🇬 fscloud 新加坡 - 003 2","type":"trojan","server":"996sg.996cloud.xyz","port":443,"password":"cb39d7ba-9b22-4bf5-b9f7-f1f81baf0509","skip-cert-verify":false}
+  - {"name":"🇸🇬 fscloud 新加坡 - 004 2","type":"trojan","server":"996sg.996cloud.xyz","port":443,"password":"cb39d7ba-9b22-4bf5-b9f7-f1f81baf0509","skip-cert-verify":false}
+  - {"name":"🇸🇬 fscloud 新加坡 - 005 2","type":"trojan","server":"996sg.996cloud.xyz","port":443,"password":"cb39d7ba-9b22-4bf5-b9f7-f1f81baf0509","skip-cert-verify":false}
+  - {"name":"🇺🇲 fscloud 美国 - 001 2","type":"trojan","server":"996us.996cloud.xyz","port":443,"password":"cb39d7ba-9b22-4bf5-b9f7-f1f81baf0509","skip-cert-verify":false}
+  - {"name":"🇺🇲 fscloud 美国 - 002 2","type":"trojan","server":"996us.996cloud.xyz","port":443,"password":"cb39d7ba-9b22-4bf5-b9f7-f1f81baf0509","skip-cert-verify":false}
+  - {"name":"🇺🇲 fscloud 美国 - 003 2","type":"trojan","server":"996us.996cloud.xyz","port":443,"password":"cb39d7ba-9b22-4bf5-b9f7-f1f81baf0509","skip-cert-verify":false}
+  - {"name":"🇬🇧 fscloud 英国 - 001 2","type":"trojan","server":"996uk.996cloud.xyz","port":443,"password":"cb39d7ba-9b22-4bf5-b9f7-f1f81baf0509","skip-cert-verify":false}
+  - {"name":"🇬🇧 fscloud 英国 - 002 2","type":"trojan","server":"996uk.996cloud.xyz","port":443,"password":"cb39d7ba-9b22-4bf5-b9f7-f1f81baf0509","skip-cert-verify":false}
+  - {"name":"🇬🇧 fscloud 英国 - 003 2","type":"trojan","server":"996uk.996cloud.xyz","port":443,"password":"cb39d7ba-9b22-4bf5-b9f7-f1f81baf0509","skip-cert-verify":false}
+  - {"name":"🇩🇪 fscloud 德国 - 001 2","type":"trojan","server":"996de.996cloud.xyz","port":443,"password":"cb39d7ba-9b22-4bf5-b9f7-f1f81baf0509","skip-cert-verify":false}
+  - {"name":"🇩🇪 fscloud 德国 - 002 2","type":"trojan","server":"996de.996cloud.xyz","port":443,"password":"cb39d7ba-9b22-4bf5-b9f7-f1f81baf0509","skip-cert-verify":false}
+  - {"name":"🇩🇪 fscloud 德国 - 003 2","type":"trojan","server":"996de.996cloud.xyz","port":443,"password":"cb39d7ba-9b22-4bf5-b9f7-f1f81baf0509","skip-cert-verify":false}
+  - {"name":"🇮🇳 fscloud 印度 - 001 2","type":"trojan","server":"996in.996cloud.xyz","port":443,"password":"cb39d7ba-9b22-4bf5-b9f7-f1f81baf0509","skip-cert-verify":false}
+  - {"name":"🇮🇳 fscloud 印度 - 002 2","type":"trojan","server":"996in.996cloud.xyz","port":443,"password":"cb39d7ba-9b22-4bf5-b9f7-f1f81baf0509","skip-cert-verify":false}
+  - {"name":"🇮🇳 fscloud 印度 - 003 2","type":"trojan","server":"996in.996cloud.xyz","port":443,"password":"cb39d7ba-9b22-4bf5-b9f7-f1f81baf0509","skip-cert-verify":false}
+  - {"name":"🇨🇦 fscloud 加拿大 - 001 2","type":"trojan","server":"996ca.996cloud.xyz","port":443,"password":"cb39d7ba-9b22-4bf5-b9f7-f1f81baf0509","skip-cert-verify":false}
+  - {"name":"🇨🇦 fscloud 加拿大 - 002 2","type":"trojan","server":"996ca.996cloud.xyz","port":443,"password":"cb39d7ba-9b22-4bf5-b9f7-f1f81baf0509","skip-cert-verify":false}
+  - {"name":"🇨🇦 fscloud 加拿大 - 003 2","type":"trojan","server":"996ca.996cloud.xyz","port":443,"password":"cb39d7ba-9b22-4bf5-b9f7-f1f81baf0509","skip-cert-verify":false}
+  - {"name":"🇯🇵 日本","type":"ss","server":"ahyd.pangupy.com","port":29601,"password":"d5a86577-ebbc-44e4-ae28-272247dc2ef1","cipher":"aes-256-gcm"}
+  - {"name":"🇺🇲 美国","type":"ss","server":"ahyd.pangupy.com","port":19879,"password":"d5a86577-ebbc-44e4-ae28-272247dc2ef1","cipher":"aes-256-gcm"}
+  - {"name":"🇸🇬 新加坡","type":"ss","server":"ahyd.pangupy.com","port":38878,"password":"d5a86577-ebbc-44e4-ae28-272247dc2ef1","cipher":"aes-256-gcm"}
+  - {"name":"🇭🇰 香港","type":"ss","server":"ahyd.pangupy.com","port":31683,"password":"d5a86577-ebbc-44e4-ae28-272247dc2ef1","cipher":"aes-256-gcm"}
+  - {"name":"🇭🇰 HK-IPLC","type":"ss","server":"ten-hk-88fg7f.tianziyu.com","port":19875,"password":"f581206d-974c-4721-87f1-e9674dac52c3","cipher":"aes-256-gcm"}
+  - {"name":"🇺🇲 us-cf","type":"vmess","server":"us1-66y.bilicapr.cn","port":443,"cipher":"auto","uuid":"9a641e61-1bdf-4407-bc92-da95f28fac25","alterId":0,"tls":true,"skip-cert-verify":false,"servername":"us1-66y.bilicapr.cn","network":"ws","ws-opts":{"path":"/","headers":{}}}
+  - {"name":"38.47.96.219:39487","type":"vmess","server":"38.47.96.219","port":39487,"cipher":"auto","uuid":"90b53f9f-3e90-4dc0-a508-2d6f1f9a6254","alterId":0,"tls":true,"skip-cert-verify":false,"network":"ws","ws-opts":{"path":"/jp1/getData","headers":{}}}
+  - {"name":"38.47.110.212:25107","type":"vmess","server":"38.47.110.212","port":25107,"cipher":"auto","uuid":"f5b19092-44aa-408f-8148-f11b9ddc04d8","alterId":0,"tls":true,"skip-cert-verify":false,"network":"ws","ws-opts":{"path":"/jp2/getData","headers":{}}}
+  - {"name":"210.87.202.3:25271","type":"vmess","server":"210.87.202.3","port":25271,"cipher":"auto","uuid":"a23f272d-2186-4d68-8f2a-2d8847c603be","alterId":0,"tls":true,"skip-cert-verify":false,"network":"ws","ws-opts":{"path":"/kor1/getData","headers":{}}}
   - {"name":"🇦🇪_AE_阿联酋\r","type":"trojan","server":"jp1117.ljydw.top","port":80,"udp":true,"password":"14b58de2-3754-45ea-8819-bac30085a7a3","sni":"jp1117.ljydw.top","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇺🇸_US_美国_1\r","type":"trojan","server":"us226.ljydw.top","port":443,"udp":true,"password":"14b58de2-3754-45ea-8819-bac30085a7a3","sni":"us226.ljydw.top","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇺🇸_US_美国_2\r","type":"trojan","server":"316us.ljydw.top","port":38180,"udp":true,"password":"14b58de2-3754-45ea-8819-bac30085a7a3","sni":"316us.ljydw.top","skip-cert-verify":true,"network":"tcp"}

@@ -1,5 +1,11 @@
 proxies:
   - {"name":"中转节点-2.53MB/s(Youtube:不良林)","type":"vmess","server":"zz.sexavv.com","port":36638,"cipher":"auto","uuid":"7b493f86-e3f1-3597-8dce-75337f73b45f","alterId":2,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/adobe","headers":{"host":"zz.sexavv.com"}}}
+  - {"name":"🇺🇸_US_美国_1","type":"ss","server":"184.170.213.204","port":443,"password":"dqlr7JCgDrOK","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇺🇸_US_美国_2","type":"vmess","server":"Kansas.kotick.site","port":443,"cipher":"auto","uuid":"2F094845-E2BD-EBF7-DEB7-995992436FAF","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws"}
+  - {"name":"🇺🇸_US_美国_3","type":"vmess","server":"v14.583182.xyz","port":8443,"cipher":"auto","uuid":"ddf4b939-13c5-464b-80d2-fa29736b1d1f","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws"}
+  - {"name":"🇸🇬_SG_新加坡","type":"trojan","server":"sg5.acyun.me","port":37549,"udp":true,"password":"645a4174-09a4-4ca0-a2fe-9f22b958546d","sni":"https://www.apple.com/kr/shop/buy-iphone/iphone-14","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸_US_美国->🇬🇧_GB_英国","type":"vmess","server":"v15.583182.xyz","port":2053,"cipher":"auto","uuid":"80bbbb29-86b9-457e-b274-69b5ea8e60ee","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws"}
+  - {"name":"🇺🇸_US_美国_4","type":"vmess","server":"108.186.116.172","port":55005,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇺🇸_US_美国_1","type":"vmess","server":"la.awsbest.com","port":443,"cipher":"auto","uuid":"8b6dd709-4d4e-4b92-f542-54a676efbfe4","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/shares"}}
   - {"name":"🇸🇬_SG_新加坡_1","type":"ss","server":"13.215.183.79","port":443,"password":"doub.io","cipher":"aes-256-cfb"}
   - {"name":"🇳🇱_NL_荷兰_1","type":"vmess","server":"154.84.1.225","port":56481,"cipher":"auto","uuid":"6193116d-96f9-4d7a-9be5-5bb06a69af0b","alterId":64,"tls":false,"skip-cert-verify":true,"network":""}

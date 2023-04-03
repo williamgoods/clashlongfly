@@ -66,6 +66,7 @@ proxies:
   - {"name":"🇸🇬_SG_新加坡_3","type":"ss","server":"13.215.183.79","port":443,"password":"doub.io","cipher":"aes-256-cfb"}
   - {"name":"🇸🇬_SG_新加坡_4","type":"vmess","server":"n1674862946.zhidemy.cn","port":443,"cipher":"auto","uuid":"badeb774-de36-4d24-b39f-e09e41e1a23a","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws"}
   - {"name":"defaultName","type":"http","server":"raw.fastgit.org/Pawdroid/Free-servers/main/sub","port":null,"tls":true,"skip-cert-verify":true}
+  - {"name":"defaultName","type":"http","server":"github.com/freefq/free/blob/master/v2","port":null,"tls":true,"skip-cert-verify":true}
   - {"name":"🇺🇸_US_美国_1","type":"trojan","server":"204.216.214.102","port":44386,"udp":true,"password":"C931CWacy8","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇯🇵_JP_日本_1","type":"ss","server":"43.207.221.161","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
   - {"name":"🇮🇳_IN_印度","type":"trojan","server":"152.70.74.66","port":443,"udp":true,"password":"d906afe5-7c3c-4ddc-aaa4-61c154a82e5e","skip-cert-verify":true,"network":"tcp"}

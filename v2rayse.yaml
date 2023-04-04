@@ -41,6 +41,7 @@ proxies:
   - {"name":"🇵🇱_PL_波兰_2","type":"ss","server":"217.30.10.68","port":9018,"password":"fG2artUmHfNT2cX7","cipher":"aes-256-cfb"}
   - {"name":"🇺🇸_US_美国_17","type":"ss","server":"23.247.137.71","port":2377,"password":"t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇺🇸_US_美国_18","type":"vmess","server":"143.42.31.89","port":443,"cipher":"auto","uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws"}
+  - {"type":"vmess","name":"美国(yudou66.com玉豆免费节点)","ws-opts":{"path":"/aries?ed=2048","headers":{"host":"ft.cloudflare.quest"}},"server":"cf.noaries.de","port":"8080","uuid":"01d07cdf-aa5e-4889-8cbd-bd2b88179a85","alterId":"0","cipher":"auto","network":"ws"}
   - {"type":"ss","name":"v2rayse_test_1","server":"198.57.27.218","port":5004,"cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId"}
   - {"type":"vmess","name":"v2rayse_test_2","ws-opts":{"path":"/"},"server":"154.23.190.162","port":443,"uuid":"b9984674-f771-4e67-a198-c7e60720ba2c","alterId":"0","cipher":"auto","network":"ws"}
   - {"type":"ssr","name":"v2rayse_test_3","server":"20.239.49.44","port":59814,"protocol":"origin","cipher":"dummy","obfs":"plain","password":"3df57276-03ef-45cf-bdd4-4edb6dfaa0ef"}

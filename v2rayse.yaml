@@ -40,6 +40,15 @@ proxies:
   - {"name":"🇵🇱_PL_波兰_2","type":"ss","server":"217.30.10.68","port":9018,"password":"fG2artUmHfNT2cX7","cipher":"aes-256-cfb"}
   - {"name":"🇺🇸_US_美国_17","type":"ss","server":"23.247.137.71","port":2377,"password":"t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇺🇸_US_美国_18","type":"vmess","server":"143.42.31.89","port":443,"cipher":"auto","uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws"}
+  - {"type":"ss","name":"v2rayse_test_1","server":"198.57.27.218","port":5004,"cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId"}
+  - {"type":"vmess","name":"v2rayse_test_2","ws-opts":{"path":"/"},"server":"154.23.190.162","port":443,"uuid":"b9984674-f771-4e67-a198-c7e60720ba2c","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"v2rayse_test_3","server":"20.239.49.44","port":59814,"protocol":"origin","cipher":"dummy","obfs":"plain","password":"3df57276-03ef-45cf-bdd4-4edb6dfaa0ef"}
+  - {"type":"trojan","name":"v2rayse_test_4","server":"ca-trojan.bonds.id","port":443,"password":"bc7593fe-0604-4fbe-a70bYWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTaclWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272","udp":true,"skip-cert-verify":true}
+  - {"type":"http","name":"http_proxy","server":"124.15.12.24","port":251,"username":"username","password":"password","udp":true}
+  - {"type":"socks5","name":"socks5_proxy","server":"124.15.12.24","port":2312,"udp":true}
+  - {"type":"hysteria","name":"Hys-1.2.3.4","server":"1.2.3.4","port":12854,"auth_str":"pekopeko","alpn":"h3","protocol":"udp","up":50,"down":250,"sni":"wechat.com","skip-cert-verify":true,"recv_window":104857600,"recv_window_conn":26214400,"disable_mtu_discovery":true}
+  - {"type":"vless","name":"test","server":"1.2.3.4","port":7777,"uuid":"abc-def-ghi-fge-zsx","skip-cert-verify":true,"network":"tcp","tls":true,"udp":true}
+  - {"type":"socks5","name":"telegram_proxy","server":"1.2.3.4","port":123,"username":"username","password":"password","udp":true}
   - {"name":"🇯🇵JP 01","type":"vmess","server":"192.203.230.65","port":443,"cipher":"auto","uuid":"b44cf32e-2213-4b98-bb21-8efb38fd9381","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"jp1.hnokkdf.top","network":"ws","ws-opts":{"path":"/kbjc/jp1","headers":{"host":"jp1.hnokkdf.top"}}}
   - {"name":"SG","type":"vmess","server":"139.162.63.139","port":80,"cipher":"auto","uuid":"38fb378e-08d4-4dea-8fe3-89830ba54ad5","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/images","headers":{"host":"shoutingtoutiao3.10010.com"}}}
   - {"name":"🇭🇰HK\r","type":"trojan","server":"16.162.147.4","port":443,"udp":true,"password":"0ead06a3-f134-4085-a7ce-624b65f66377","sni":"data.amazon-azure.com","skip-cert-verify":true,"network":"tcp"}

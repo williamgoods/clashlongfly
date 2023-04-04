@@ -49,6 +49,11 @@ proxies:
   - {"type":"hysteria","name":"Hys-1.2.3.4","server":"1.2.3.4","port":12854,"auth_str":"pekopeko","alpn":"h3","protocol":"udp","up":50,"down":250,"sni":"wechat.com","skip-cert-verify":true,"recv_window":104857600,"recv_window_conn":26214400,"disable_mtu_discovery":true}
   - {"type":"vless","name":"test","server":"1.2.3.4","port":7777,"uuid":"abc-def-ghi-fge-zsx","skip-cert-verify":true,"network":"tcp","tls":true,"udp":true}
   - {"type":"socks5","name":"telegram_proxy","server":"1.2.3.4","port":123,"username":"username","password":"password","udp":true}
+  - {"type":"http","name":"http_proxy","server":"124.15.12.24","port":251,"username":"username","password":"password","udp":true}
+  - {"type":"socks5","name":"socks5_proxy","server":"124.15.12.24","port":2312,"udp":true}
+  - {"type":"hysteria","name":"Hys-1.2.3.4","server":"1.2.3.4","port":12854,"auth_str":"pekopeko","alpn":"h3","protocol":"udp","up":50,"down":250,"sni":"wechat.com","skip-cert-verify":true,"recv_window":104857600,"recv_window_conn":26214400,"disable_mtu_discovery":true}
+  - {"type":"vless","name":"test","server":"1.2.3.4","port":7777,"uuid":"abc-def-ghi-fge-zsx","skip-cert-verify":true,"network":"tcp","tls":true,"udp":true}
+  - {"type":"socks5","name":"telegram_proxy","server":"1.2.3.4","port":123,"username":"username","password":"password","udp":true}
   - {"name":"🇯🇵JP 01","type":"vmess","server":"192.203.230.65","port":443,"cipher":"auto","uuid":"b44cf32e-2213-4b98-bb21-8efb38fd9381","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"jp1.hnokkdf.top","network":"ws","ws-opts":{"path":"/kbjc/jp1","headers":{"host":"jp1.hnokkdf.top"}}}
   - {"name":"SG","type":"vmess","server":"139.162.63.139","port":80,"cipher":"auto","uuid":"38fb378e-08d4-4dea-8fe3-89830ba54ad5","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/images","headers":{"host":"shoutingtoutiao3.10010.com"}}}
   - {"name":"🇭🇰HK\r","type":"trojan","server":"16.162.147.4","port":443,"udp":true,"password":"0ead06a3-f134-4085-a7ce-624b65f66377","sni":"data.amazon-azure.com","skip-cert-verify":true,"network":"tcp"}

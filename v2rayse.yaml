@@ -28301,6 +28301,7 @@ rules:
   - {"name":"🇺🇸_US_美国_5","type":"vmess","server":"143.42.206.230","port":443,"cipher":"auto","uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws"}
   - {"name":"🇺🇸_US_美国_6","type":"vmess","server":"142.0.132.38","port":50015,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇺🇸_US_美国_7","type":"vmess","server":"hk-hytron.ilovescp.com","port":443,"cipher":"auto","uuid":"823c31da-701f-483d-b36e-896e5cf0987a","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws"}
+  - {"name":"新加坡-1.65MB/s(Youtube:不良林)","type":"vmess","server":"cdn.imnibaba.wiki","port":2052,"cipher":"auto","uuid":"82276930-fa80-47d7-c228-7f4bd68d5046","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/tg@sudoxin","headers":{"host":"rn-us1-sudoxin.imnibaba.wiki"}}}
 allow-lan: true
 mode: Rule
 log-level: silent

@@ -1,4 +1,6 @@
 proxies:
+  - {"name":"_US_美国2","server":"142.0.139.55","port":57072,"type":"vmess","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"cipher":"auto","tls":false,"skip-cert-verify":true,"udp":true}
+  - {"name":"_US_美国3","server":"new3.hucloud-dns.xyz","port":443,"type":"vmess","uuid":"1c8ad3f2-835c-4fda-b9b6-881d3cadfd8e","alterId":0,"cipher":"auto","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"Host":"new3.hucloud-dns.xyz"}},"udp":true}
   - {"name":"_US_美国","server":"142.4.97.73","port":44942,"type":"vmess","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"cipher":"auto","tls":false,"skip-cert-verify":true,"udp":true}
   - {"name":"俄罗斯 Edge","type":"vmess","server":"94.242.58.55","port":153,"cipher":"auto","uuid":"209bec05-a6bf-37e0-a6a9-9c3ab5c22134","alterId":64,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/api/v3/download.getFile","headers":{"host":"f2348123663.laowanxiang.com"}}}
   - {"name":"加拿大 Edge","type":"vmess","server":"46.3.80.226","port":153,"cipher":"auto","uuid":"65ec19f1-285c-37e8-8b9e-e93089a47403","alterId":64,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/api/v3/download.getFile","headers":{"host":"f2348123663.laowanxiang.com"}}}

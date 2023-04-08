@@ -1,4 +1,5 @@
 proxies:
+  - {"type":"vmess","name":"美国-5.04MB/s(Youtube:不良林)","server":"142.4.108.23","port":"55102","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","cipher":"auto","network":"tcp"}
   - {"name":"🇺🇸_US_美国_1","type":"vmess","server":"els200.jslist.tk","port":8443,"cipher":"auto","uuid":"e30cfa80-bc2c-43df-e808-97876aee77e2","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/wo.php","headers":{"host":"els200.jslist.tk"}}}
   - {"name":"🇦🇲_AM_亚美尼亚","type":"vmess","server":"185.162.228.1","port":443,"cipher":"auto","uuid":"40d496a6-ceeb-4096-baeb-4cc52b205621","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ECTCJ0DF","headers":{"host":"154.v2ray3.xyz"}}}
   - {"name":"🇹🇼_TW_台湾_1","type":"vmess","server":"polotw1.applebench.tech","port":56568,"cipher":"auto","uuid":"cc73b2fd-6a45-4690-b0ad-ddb8df4fb333","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}

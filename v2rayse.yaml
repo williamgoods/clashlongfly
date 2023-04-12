@@ -94,6 +94,21 @@ proxies:
   - {"name":"🇧🇿_BZ_伯利兹->🇺🇸_US_美国_3","type":"vmess","server":"203.30.190.1","port":443,"cipher":"auto","uuid":"40d496a6-ceeb-4096-baeb-4cc52b205621","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ECTCJ0DF","headers":{"host":"154.v2ray3.xyz"}}}
   - {"name":"🇯🇵_JP_日本","type":"ss","server":"43.207.160.88","port":443,"password":"doub.io","cipher":"aes-256-cfb"}
   - {"name":"🇺🇸_US_美国_22","type":"vmess","server":"172.64.173.160","port":80,"cipher":"auto","uuid":"2e496758-950e-4549-8842-d5eec98d9fde","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/shirker","headers":{"host":"ca.ilovescp.com"}}}
+  - {"name":"defaultName_1","type":"socks5","server":"130.211.243.5","port":27831,"username":"Np5tn030QJ","password":"WKOxxQI6oR"}
+  - {"name":"defaultName_2","type":"socks5","server":"34.150.64.162","port":26030,"username":"SF6ThOezTx","password":"hxcpHRfofE"}
+  - {"name":"defaultName_3","type":"socks5","server":"34.96.222.111","port":18831,"username":"GmJqPm2eui","password":"dan80gdWMN"}
+  - {"name":"defaultName_4","type":"socks5","server":"34.142.128.151","port":52835,"username":"20ckvZqs71","password":"ouvxjLv6iz"}
+  - {"name":"defaultName_5","type":"socks5","server":"34.101.98.142","port":33001,"username":"tbZ0kmiNGq","password":"877RH22Xev"}
+  - {"name":"defaultName_6","type":"socks5","server":"34.146.189.87","port":47623,"username":"rTfvyB8UcK","password":"sofe3bHUAV"}
+  - {"name":"defaultName_7","type":"socks5","server":"34.146.11.101","port":33683,"username":"Uldo5Jkapo","password":"O8kziP0Uve"}
+  - {"name":"defaultName_8","type":"socks5","server":"20.214.184.190","port":32236,"username":"8QopHYncDB","password":"WUN1okCmZb"}
+  - {"name":"defaultName_9","type":"socks5","server":"68.178.165.35","port":37011,"username":"d3ViygESvX","password":"y2mqhHfAQS"}
+  - {"name":"defaultName_10","type":"socks5","server":"34.146.11.101","port":59107,"username":"y1nyLVeP3r","password":"axIrf0yKfU"}
+  - {"name":"defaultName_11","type":"socks5","server":"38.180.7.64","port":52456,"username":"1fpWvzLJak","password":"n5rAgsbhn9"}
+  - {"name":"defaultName_12","type":"socks5","server":"34.146.66.48","port":43827,"username":"VmEKfN82EH","password":"DA8koiguUc"}
+  - {"name":"defaultName_13","type":"socks5","server":"34.146.66.48","port":43827,"username":"VmEKfN82EH","password":"DA8koiguUc"}
+  - {"name":"defaultName_14","type":"socks5","server":"130.211.243.5","port":38507,"username":"wgDhYWDYNx","password":"P9vMHUFbH3"}
+  - {"name":"defaultName_15","type":"socks5","server":"34.150.103.157","port":40424,"username":"gSIoFex4Zi","password":"Wv2riGpW4s"}
   - {"name":"🇺🇸_US_美国_1","type":"vmess","server":"142.4.118.248","port":57402,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇮🇳_IN_印度","type":"trojan","server":"152.70.74.66","port":443,"udp":true,"password":"d906afe5-7c3c-4ddc-aaa4-61c154a82e5e","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇹🇼_TW_台湾","type":"vmess","server":"tw2.sanfen001.pics","port":443,"cipher":"auto","uuid":"da9d5c74-a572-4cf4-a375-19b886f5ffc4","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}

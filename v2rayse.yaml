@@ -45,6 +45,10 @@ proxies:
   - {"name":"🇺🇸_US_美国_25","type":"vmess","server":"172.67.70.14","port":443,"cipher":"auto","uuid":"c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/AUIKN8AU","headers":{"host":"lg1.v2ray6.xyz"}}}
   - {"name":"🇺🇸_US_美国_26","type":"vmess","server":"137.175.18.109","port":50004,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇯🇵_JP_日本","type":"vmess","server":"140.83.63.38","port":24445,"cipher":"auto","uuid":"94c5ef37-4d82-49f9-c624-f01259374a17","alterId":64,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"defaultName_1","type":"socks5","server":"34.150.117.254","port":28943,"username":"UcXomwcjRD","password":"Npym4YTRDP"}
+  - {"name":"defaultName_2","type":"socks5","server":"130.211.243.5","port":27831,"username":"Np5tn030QJ","password":"WKOxxQI6oR"}
+  - {"name":"defaultName_3","type":"socks5","server":"34.96.222.111","port":18831,"username":"GmJqPm2eui","password":"dan80gdWMN"}
+  - {"name":"「SCP」SG-中转","type":"vmess","server":"gz1.mm.926wan.xyz","port":39943,"cipher":"auto","uuid":"2e496758-950e-4549-8842-d5eec98d9fde","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"俄罗斯E","type":"ssr","server":"45.130.146.158","port":22891,"password":"lncn.org e8c","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
   - {"name":"俄罗斯F","type":"ssr","server":"45.8.158.245","port":22891,"password":"lncn.org e8c","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
   - {"name":"俄罗斯G","type":"ssr","server":"45.130.146.243","port":22891,"password":"lncn.org e8c","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}

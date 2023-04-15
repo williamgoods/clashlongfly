@@ -1,4 +1,5 @@
 proxies:
+  - {"name":"台湾-1013.2KB/s(Youtube:不良林)","type":"trojan","server":"625tw.ljydw.top","port":80,"udp":true,"password":"44cee33e-22c3-4798-9909-45d097a5efac","sni":"625tw.ljydw.top","skip-cert-verify":true}
   - {"name":"🇺🇸 U.S. East Coast #1","type":"vmess","server":"us-east-1.292228.xyz","port":80,"cipher":"auto","uuid":"22873fd1-2db8-4820-af1d-2843107ee744","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/filetransfer","headers":{"host":"us-east-1.292228.xyz"}}}
   - {"name":"🇬🇧 G.B. Southern District","type":"vmess","server":"target.292228.xyz","port":80,"cipher":"auto","uuid":"22873fd1-2db8-4820-af1d-2843107ee744","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/filetransfer","headers":{"host":"eu-gb-south.292228.xyz"}}}
   - {"name":"🇰🇷 A.P. Korea North #2","type":"vmess","server":"ap-kr-north-2.292228.xyz","port":80,"cipher":"auto","uuid":"22873fd1-2db8-4820-af1d-2843107ee744","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/filetransfer","headers":{"host":"ap-kr-north-2.292228.xyz"}}}
@@ -110,6 +111,71 @@ proxies:
   - {"name":"🇸🇬_SG_新加坡_2","type":"vmess","server":"27.124.2.38","port":443,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws"}
   - {"name":"🇨🇳_CN_中国->🇺🇸_US_美国_2","type":"vmess","server":"111.23.252.214","port":45070,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇩🇪_DE_德国_3","type":"vmess","server":"f-eu1.wvvvv.eu.org","port":80,"cipher":"auto","uuid":"0da1d372-ec60-4b89-8a3f-79159438c6f0","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws"}
+  - {"name":"香港01【原生】\r","type":"trojan","server":"anycast.okvpn.cc","port":55201,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"香港02【原生】\r","type":"trojan","server":"anycast.okvpn.cc","port":55201,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"香港03【原生】\r","type":"trojan","server":"anycast.okvpn.cc","port":55201,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"香港04【原生】\r","type":"trojan","server":"anycast.okvpn.cc","port":55201,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"香港05【原生】\r","type":"trojan","server":"anycast.okvpn.cc","port":55201,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"香港06【NF解锁 x1.5】\r","type":"trojan","server":"anycast.okvpn.cc","port":55202,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"香港07【NF解锁 x1.5】\r","type":"trojan","server":"anycast.okvpn.cc","port":55202,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"香港08【NF解锁 x1.5】\r","type":"trojan","server":"anycast.okvpn.cc","port":55202,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"香港09【NF解锁 x1.5】\r","type":"trojan","server":"anycast.okvpn.cc","port":55202,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"香港10【NF解锁 x1.5】\r","type":"trojan","server":"anycast.okvpn.cc","port":55202,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"香港11【x0.5】\r","type":"trojan","server":"anycast.okvpn.cc","port":55203,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"香港12【x0.5】\r","type":"trojan","server":"anycast.okvpn.cc","port":55203,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"香港13【x0.5】\r","type":"trojan","server":"anycast.okvpn.cc","port":55203,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"香港14【x0.5】\r","type":"trojan","server":"anycast.okvpn.cc","port":55203,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"香港15【x0.5】\r","type":"trojan","server":"anycast.okvpn.cc","port":55203,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"新加坡01【x0.5】\r","type":"trojan","server":"anycast.okvpn.cc","port":55204,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"新加坡02【x0.5】\r","type":"trojan","server":"anycast.okvpn.cc","port":55204,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"新加坡03【x0.5】\r","type":"trojan","server":"anycast.okvpn.cc","port":55204,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"新加坡04【x0.5】\r","type":"trojan","server":"anycast.okvpn.cc","port":55204,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"新加坡05【x0.5】\r","type":"trojan","server":"anycast.okvpn.cc","port":55204,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"美国01【原生】\r","type":"trojan","server":"anycast.okvpn.cc","port":55205,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"美国02【原生】\r","type":"trojan","server":"anycast.okvpn.cc","port":55205,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"美国03【原生】\r","type":"trojan","server":"anycast.okvpn.cc","port":55205,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"美国04【原生】\r","type":"trojan","server":"anycast.okvpn.cc","port":55205,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"美国05【原生】\r","type":"trojan","server":"anycast.okvpn.cc","port":55205,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"台湾06\r","type":"trojan","server":"anycast.okvpn.cc","port":55213,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"台湾07\r","type":"trojan","server":"anycast.okvpn.cc","port":55213,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"台湾08\r","type":"trojan","server":"anycast.okvpn.cc","port":55213,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"台湾09\r","type":"trojan","server":"anycast.okvpn.cc","port":55213,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"台湾10\r","type":"trojan","server":"anycast.okvpn.cc","port":55213,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"英国01【原生】\r","type":"trojan","server":"anycast.okvpn.cc","port":55208,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"英国02【原生】\r","type":"trojan","server":"anycast.okvpn.cc","port":55208,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"英国03【原生】\r","type":"trojan","server":"anycast.okvpn.cc","port":55208,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"英国04【原生】\r","type":"trojan","server":"anycast.okvpn.cc","port":55208,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"英国05【原生】\r","type":"trojan","server":"anycast.okvpn.cc","port":55208,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"台湾01【原生】\r","type":"trojan","server":"anycast.okvpn.cc","port":55206,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"台湾02【原生】\r","type":"trojan","server":"anycast.okvpn.cc","port":55206,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"台湾03【原生】\r","type":"trojan","server":"anycast.okvpn.cc","port":55206,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"台湾04【原生】\r","type":"trojan","server":"anycast.okvpn.cc","port":55206,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"台湾05【原生】\r","type":"trojan","server":"anycast.okvpn.cc","port":55206,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"韩国01\r","type":"trojan","server":"anycast.okvpn.cc","port":55209,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"韩国02\r","type":"trojan","server":"anycast.okvpn.cc","port":55209,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"韩国03\r","type":"trojan","server":"anycast.okvpn.cc","port":55209,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"韩国04\r","type":"trojan","server":"anycast.okvpn.cc","port":55209,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"韩国05\r","type":"trojan","server":"anycast.okvpn.cc","port":55209,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"美国06【原生】\r","type":"trojan","server":"anycast.okvpn.cc","port":55207,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"美国07【原生】\r","type":"trojan","server":"anycast.okvpn.cc","port":55207,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"美国08【原生】\r","type":"trojan","server":"anycast.okvpn.cc","port":55207,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"美国09【原生】\r","type":"trojan","server":"anycast.okvpn.cc","port":55207,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"美国10【原生】\r","type":"trojan","server":"anycast.okvpn.cc","port":55207,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"日本01【原生】\r","type":"trojan","server":"anycast.okvpn.cc","port":55210,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"日本02【原生】\r","type":"trojan","server":"anycast.okvpn.cc","port":55210,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"日本03【原生】\r","type":"trojan","server":"anycast.okvpn.cc","port":55210,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"日本04【原生】\r","type":"trojan","server":"anycast.spacez.cloud","port":55210,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"日本05【原生】\r","type":"trojan","server":"anycast.spacez.cloud","port":55210,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"俄罗斯01【x0.5】\r","type":"trojan","server":"anycast.okvpn.cc","port":55211,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"俄罗斯02【x0.5】\r","type":"trojan","server":"anycast.okvpn.cc","port":55211,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"俄罗斯03【x0.5】\r","type":"trojan","server":"anycast.okvpn.cc","port":55211,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"俄罗斯04【x0.5】\r","type":"trojan","server":"anycast.okvpn.cc","port":55211,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"俄罗斯05【x0.5】\r","type":"trojan","server":"anycast.okvpn.cc","port":55211,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"法国01【原生】\r","type":"trojan","server":"anycast.okvpn.cc","port":55212,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"法国02【原生】\r","type":"trojan","server":"anycast.okvpn.cc","port":55212,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"法国03【原生】\r","type":"trojan","server":"anycast.okvpn.cc","port":55212,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"法国04【原生】\r","type":"trojan","server":"anycast.okvpn.cc","port":55212,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"法国05【原生】\r","type":"trojan","server":"anycast.okvpn.cc","port":55212,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇺🇸_US_美国_1","type":"vmess","server":"143.42.87.69","port":443,"cipher":"auto","uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws"}
   - {"name":"🇨🇦_CA_加拿大->🇺🇸_US_美国_1","type":"vmess","server":"23.227.38.40","port":80,"cipher":"auto","uuid":"17b2a313-37a0-4945-a8e4-e63375506b4a","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"fr.v2ray1.xyz"}}}
   - {"name":"🇷🇺_RU_俄罗斯联邦_1","type":"ssr","server":"85.117.235.143","port":20022,"password":"dongtaiwang.com","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","protocol":"origin"}
@@ -214,6 +280,20 @@ proxies:
   - {"name":"🇨🇳_CN_中国_2","type":"vmess","server":"47.104.237.32","port":50002,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":""}
   - {"name":"🇺🇸_US_美国->🇭🇰_HK_香港","type":"vmess","server":"172.67.86.79","port":80,"cipher":"auto","uuid":"2e496758-950e-4549-8842-d5eec98d9fde","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/shirker","headers":{"host":"hk-hytron.ilovescp.com"}}}
   - {"name":"🇭🇰_HK_香港","type":"vmess","server":"43.154.76.92","port":25034,"cipher":"auto","uuid":"784272d2-bd2d-438a-bbd4-1271bb1f1b0d","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws"}
+  - {"name":"香港05【原生】\r","type":"trojan","server":"anycast.okvpn.cc","port":55201,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"香港10【NF解锁 x1.5】\r","type":"trojan","server":"anycast.okvpn.cc","port":55202,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"香港15【x0.5】\r","type":"trojan","server":"anycast.okvpn.cc","port":55203,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"新加坡05【x0.5】\r","type":"trojan","server":"anycast.okvpn.cc","port":55204,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"美国05【原生】\r","type":"trojan","server":"anycast.okvpn.cc","port":55205,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"台湾10\r","type":"trojan","server":"anycast.okvpn.cc","port":55213,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"英国05【原生】\r","type":"trojan","server":"anycast.okvpn.cc","port":55208,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"台湾05【原生】\r","type":"trojan","server":"anycast.okvpn.cc","port":55206,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"韩国05\r","type":"trojan","server":"anycast.okvpn.cc","port":55209,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"美国10【原生】\r","type":"trojan","server":"anycast.okvpn.cc","port":55207,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"日本03【原生】\r","type":"trojan","server":"anycast.okvpn.cc","port":55210,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"日本05【原生】\r","type":"trojan","server":"anycast.spacez.cloud","port":55210,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"俄罗斯05【x0.5】\r","type":"trojan","server":"anycast.okvpn.cc","port":55211,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"法国05【原生】\r","type":"trojan","server":"anycast.okvpn.cc","port":55212,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇺🇸_US_美国_1","type":"vmess","server":"142.4.127.152","port":50042,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":""}
   - {"name":"🇺🇸_US_美国_2","type":"vmess","server":"137.175.15.195","port":43487,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇺🇸_US_美国_3","type":"vmess","server":"ping.pe","port":80,"cipher":"auto","uuid":"2e496758-950e-4549-8842-d5eec98d9fde","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/shirker","headers":{"host":"uk1.scproxy.top"}}}
@@ -260,6 +340,20 @@ proxies:
   - {"name":"🇺🇸_US_美国_28","type":"vmess","server":"192.74.231.174","port":49202,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":""}
   - {"name":"🇺🇸_US_美国_29","type":"vmess","server":"137.175.18.88","port":42002,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇺🇸_US_美国_30","type":"vmess","server":"us1.x898989.xyz","port":33253,"cipher":"auto","uuid":"01e07f2e-fc00-45bb-bbf5-547f58316e18","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws"}
+  - {"name":"香港05【原生】\r","type":"trojan","server":"anycast.okvpn.cc","port":55201,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"香港10【NF解锁 x1.5】\r","type":"trojan","server":"anycast.okvpn.cc","port":55202,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"香港15【x0.5】\r","type":"trojan","server":"anycast.okvpn.cc","port":55203,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"新加坡05【x0.5】\r","type":"trojan","server":"anycast.okvpn.cc","port":55204,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"美国05【原生】\r","type":"trojan","server":"anycast.okvpn.cc","port":55205,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"台湾10\r","type":"trojan","server":"anycast.okvpn.cc","port":55213,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"英国05【原生】\r","type":"trojan","server":"anycast.okvpn.cc","port":55208,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"台湾05【原生】\r","type":"trojan","server":"anycast.okvpn.cc","port":55206,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"韩国05\r","type":"trojan","server":"anycast.okvpn.cc","port":55209,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"美国10【原生】\r","type":"trojan","server":"anycast.okvpn.cc","port":55207,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"日本03【原生】\r","type":"trojan","server":"anycast.okvpn.cc","port":55210,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"日本05【原生】\r","type":"trojan","server":"anycast.spacez.cloud","port":55210,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"俄罗斯05【x0.5】\r","type":"trojan","server":"anycast.okvpn.cc","port":55211,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"法国05【原生】\r","type":"trojan","server":"anycast.okvpn.cc","port":55212,"udp":true,"password":"2e9e038e-e1d6-4e39-b242-3382758d35ad","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇭🇰_HK_香港_1","type":"vmess","server":"n1680936924.edpmvga.cn","port":443,"cipher":"auto","uuid":"3ed8f96d-c2ca-4cc6-9ce2-6a8b82c49bbb","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"n1680936924.edpmvga.cn"}}}
   - {"name":"🇨🇾_CY_塞浦路斯->🇺🇸_US_美国","type":"vmess","server":"203.24.108.100","port":80,"cipher":"auto","uuid":"5f64fa65-7b14-49c5-954d-aa15c6bfcacd","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"lg.v2ray8.xyz"}}}
   - {"name":"🇭🇰_HK_香港->🇺🇸_US_美国","type":"vmess","server":"103.160.204.10","port":443,"cipher":"auto","uuid":"40d496a6-ceeb-4096-baeb-4cc52b205621","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ECTCJ0DF","headers":{"host":"154.v2ray3.xyz"}}}

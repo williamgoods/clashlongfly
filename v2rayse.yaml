@@ -1,4 +1,7 @@
 proxies:
+  - {"name":"defaultName","type":"http","server":"fn.secureconnect.me","port":993,"username":"tor20b","password":"p1C71H5mGd"}
+  - {"name":"defaultName","type":"http","server":"fn.secureconnect.me","port":993,"username":"tor20b","password":"p1C71H5mGd","tls":true,"skip-cert-verify":true,"udp":true}
+  - {"name":"defaultName","type":"http","server":"fn.secureconnect.me","port":993,"username":"tor20b","password":"p1C71H5mGd"}
   - {"name":"🇺🇸_US_美国_1","type":"vmess","server":"172.67.250.239","port":80,"cipher":"auto","uuid":"2e496758-950e-4549-8842-d5eec98d9fde","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/shirker","headers":{"host":"dp2.scproxy.top"}}}
   - {"name":"🇺🇸_US_美国_2","type":"trojan","server":"rnrn3g.555456.xyz","port":443,"udp":true,"password":"17c6c64e-eb3c-44ae-98f8-d469713f91f1","sni":"rnrn3g.555456.xyz","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇺🇸_US_美国_3","type":"vmess","server":"vuk1.0bad.com","port":443,"cipher":"auto","uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws"}
@@ -9,6 +12,7 @@ proxies:
   - {"name":"🇺🇸_US_美国->🇫🇷_FR_法国","type":"vmess","server":"fr2.cachexy.ga","port":80,"cipher":"auto","uuid":"c8c9867b-df9a-4217-8161-67824e20cb57","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/g5D0hFMY/","headers":{"host":"fr2.cachexy.ga"}}}
   - {"name":"🇨🇳_CN_中国","type":"ssr","server":"usstand2.eucdurl.me","port":562,"password":"mblank1port","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","protocol-param":"48566:LLLiuiuiu787878"}
   - {"name":"🇯🇵_JP_日本_3","type":"ss","server":"85.208.108.94","port":4444,"password":"pKEW8JPByTVTLtM","cipher":"aes-256-gcm"}
+  - {"name":"defaultName","type":"http","server":"fn.secureconnect.me","port":993,"username":"tor20b","password":"p1C71H5mGd","tls":true,"skip-cert-verify":true,"udp":true}
   - {"name":"🇨🇳_CN_中国->🇳🇱_NL_荷兰","type":"vmess","server":"yes.iamagoodman.net","port":16642,"cipher":"auto","uuid":"b00ac480-3e34-4ca9-8b3b-0b4515e4b75d","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
   - {"name":"🇨🇳_CN_中国->🇺🇸_US_美国_1","type":"vmess","server":"111.23.252.215","port":48767,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇺🇸_US_美国_1","type":"vmess","server":"107.148.195.18","port":50014,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}

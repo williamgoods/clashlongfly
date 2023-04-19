@@ -1,6 +1,8 @@
 proxies:
   - {"name":"CN-US","type":"hysteria","server":"62.210.253.147","port":11120,"protocol":"udp","up":300,"down":300}
   - {"name":"CN-US","type":"hysteria","server":"62.210.253.147","port":11120,"sni":"www.bing.com","skip-cert-verify":true,"alpn":["h3"],"protocol":"udp","auth_str":"4c6723","up":300,"down":300}
+  - {"name":"1","type":"ss","server":"fn600mlines021.svcline.com","port":995,"password":"507364fb791e","cipher":"aes-256-gcm","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","host":"fn600mlines021.svcline.com","path":"/kpnzyxsj","mux":true}}
+  - {"name":"🇭🇰 香港特殊节点|@ripaojiedian","type":"ss","server":"fn600mlines021.svcline.com","port":995,"password":"507364fb791e","cipher":"aes-256-gcm","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","host":"fn600mlines021.svcline.com","path":"/kpnzyxsj","mux":true}}
   - {"name":"香港","type":"ss","server":"121.14.82.79","port":10011,"password":"a-wym4ovY4Yw","cipher":"aes-128-gcm","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","host":"www.bing.com"}}
   - {"type":"vmess","name":"🇳🇱_NL_荷兰","ws-opts":{"path":"/"},"server":"v2test.mark20web.pw","port":443,"uuid":"f9285a7d-34fb-4723-9ab0-9a70f735b146","alterId":0,"cipher":"auto","network":"ws","tls":true}
   - {"type":"vmess","name":"🇮🇳_IN_印度","ws-opts":{"path":"/"},"server":"v2test1.mark20web.pw","port":2096,"uuid":"f9285a7d-34fb-4723-9ab0-9a70f735b146","alterId":0,"cipher":"auto","network":"ws","tls":true}
@@ -353,6 +355,7 @@ proxies:
   - {"name":"japan 01\r","type":"ss","server":"zf-shdx.syjd.xyz","port":34500,"password":"e222ea82-6ce2-4efd-9caa-9d48dd712e64","cipher":"aes-128-gcm"}
   - {"name":"japan 02\r","type":"ss","server":"zf-shdx.syjd.xyz","port":34500,"password":"e222ea82-6ce2-4efd-9caa-9d48dd712e64","cipher":"aes-128-gcm"}
   - {"name":"japan 03\r","type":"ss","server":"zf-shdx.syjd.xyz","port":34500,"password":"e222ea82-6ce2-4efd-9caa-9d48dd712e64","cipher":"aes-128-gcm"}
+  - {"name":"1","type":"ss","server":"fn600mlines021.svcline.com","port":995,"password":"507364fb791e","cipher":"aes-256-gcm","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","host":"fn600mlines021.svcline.com","path":"/kpnzyxsj","mux":true}}
   - {"name":"🇨🇳_CN_中国_1","type":"vmess","server":"47.104.237.32","port":50002,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":""}
   - {"name":"🇨🇳_CN_中国_2","type":"ss","server":"14.29.124.168","port":25220,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
   - {"name":"🇨🇳_CN_中国_3","type":"ss","server":"14.29.124.168","port":25230,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}

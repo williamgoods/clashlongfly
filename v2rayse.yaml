@@ -1068,6 +1068,10 @@ proxies:
   - {"name":"🇲🇴_MO_澳门->🇸🇬_SG_新加坡","type":"trojan","server":"45.64.22.56","port":443,"udp":true,"password":"123456","sni":"trojan-ctb-sg02.globalssh.xyz","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇺🇸_US_美国_20","type":"vmess","server":"140.99.59.226","port":55512,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":""}
   - {"name":"🇺🇸_US_美国_21","type":"vmess","server":"142.4.112.13","port":51091,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"2","type":"ss","server":"216.52.183.242","port":80,"password":"83XvX4Vo%*3a","cipher":"aes-128-gcm","plugin":"obfs","plugin-opts":{"mode":"http","mux":false}}
+  - {"name":"3","type":"ss","server":"13.213.74.250","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"8","type":"ss","server":"18.176.56.246","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"10","type":"vmess","server":"27.50.63.78","port":50002,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":""}
   - {"name":"MOHSEN-🇩🇪-DE_1","type":"vmess","server":"server1.iranv2art.site","port":19835,"cipher":"auto","uuid":"9cdde56a-5d59-4897-85b9-9639639246b1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"http"}
   - {"name":"MOHSEN-undefined_1","type":"vmess","server":"mtn.mmdhossein20.tk","port":2053,"cipher":"auto","uuid":"72f76c36-3e3c-45b3-a61f-d8f017345958","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"a3.iraniancp.fun"}}}
   - {"name":"MOHSEN-🇨🇳-CN_1","type":"trojan","server":"official.taipeicitygovernment.kiev.ua","port":8443,"udp":true,"password":"5505f6ba-cd37-30ce-8f92-be4120c83d7f","sni":"66.42.40.132","skip-cert-verify":true,"network":"tcp"}

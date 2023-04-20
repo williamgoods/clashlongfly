@@ -1,4 +1,5 @@
 proxies:
+  - {"name":"defaultName","type":"http","server":"cavan.secureconnect.me","port":465,"username":"tor11","password":"Lvl9h5pZr5","tls":true,"skip-cert-verify":true,"udp":true}
   - {"name":"🇺🇸_US_美国->🇬🇧_GB_英国_1","type":"vmess","server":"172.67.140.193","port":80,"cipher":"auto","uuid":"2e496758-950e-4549-8842-d5eec98d9fde","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/shirker","headers":{"host":"uk1.scproxy.top"}}}
   - {"name":"🇺🇸_US_美国_1","type":"vmess","server":"45.12.144.79","port":47127,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇮🇳_IN_印度","type":"trojan","server":"152.70.74.66","port":443,"udp":true,"password":"d906afe5-7c3c-4ddc-aaa4-61c154a82e5e","skip-cert-verify":true,"network":"tcp"}
@@ -1865,6 +1866,7 @@ proxies:
   - {"name":"MOHSEN-🇬🇧-GB_21","type":"trojan","server":"51.38.71.175","port":80,"udp":true,"password":"211f5876-8c89-4d97-9004-ff16acddd506","sni":"uk1.trojanvh.xyz","skip-cert-verify":true,"network":"tcp"}
   - {"name":"defaultName","type":"http","server":"isr-loc1.secureconnect.me","port":465,"username":"tor11","password":"Lvl9h5pZr5","tls":true,"skip-cert-verify":true,"udp":true}
   - {"name":"defaultName","type":"http","server":"dn.secureconnect.me","port":465,"username":"tor11","password":"Lvl9h5pZr5","tls":true,"skip-cert-verify":true,"udp":true}
+  - {"name":"defaultName","type":"http","server":"isr-loc2.secureconnect.me","port":465,"username":"tor11","password":"Lvl9h5pZr5","tls":true,"skip-cert-verify":true,"udp":true}
   - {"name":"defaultName","type":"http","server":"tk.secureconnect.me","port":465,"username":"tor11","password":"Lvl9h5pZr5","tls":true,"skip-cert-verify":true,"udp":true}
   - {"name":"台湾专线","type":"ss","server":"139.226.136.165","port":35509,"password":"4d5a811b-2289-43c3-a042-abd484e7505b","cipher":"aes-256-gcm"}
   - {"name":"HK","type":"vmess","server":"hzcm.mm2022.top","port":11425,"cipher":"auto","uuid":"b1be378b-86c3-3c0a-babb-d2911b6f910c","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/lisa","headers":{"host":"{\"Host\":\"ipip.net\"}"}}}

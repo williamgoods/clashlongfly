@@ -1112,6 +1112,7 @@ proxies:
   - {"name":"MOHSEN-🇮🇷-IR_14","type":"vmess","server":"46.245.79.53","port":51598,"cipher":"auto","uuid":"bbeddeb5-e933-4e08-d2bc-020dbc6a5024","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/apiws"}}
   - {"name":"MOHSEN-🇺🇸-US_216","type":"vmess","server":"se.walidfree16.workers.dev","port":443,"cipher":"auto","uuid":"66437555-d282-40a9-a25b-d218cc6041ae","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/se1.v2-ray.us/vmess","headers":{"host":"se.walidfree16.workers.dev"}}}
   - {"name":"MOHSEN-🇬🇧-GB_21","type":"trojan","server":"51.38.71.175","port":80,"udp":true,"password":"211f5876-8c89-4d97-9004-ff16acddd506","sni":"uk1.trojanvh.xyz","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"defaultName","type":"http","server":"fr.secureconnect.me","port":465,"username":"tor11","password":"Lvl9h5pZr5","tls":true,"skip-cert-verify":true,"udp":true}
   - {"name":"defaultName","type":"http","server":"dn.secureconnect.me","port":465,"username":"tor11","password":"Lvl9h5pZr5","tls":true,"skip-cert-verify":true,"udp":true}
   - {"name":"🇸🇬_SG_新加坡_1","type":"ss","server":"13.215.179.197","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
   - {"name":"🇸🇬_SG_新加坡_2","type":"vmess","server":"188.166.188.209","port":80,"cipher":"auto","uuid":"addbf473-e902-419d-b18d-74dcf1a4799a","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws"}

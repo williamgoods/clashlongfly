@@ -29,6 +29,7 @@ proxies:
   - {"name":"俄罗斯N","type":"ssr","server":"45.89.229.124","port":26889,"password":"lncn.org e9c","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
   - {"name":"俄罗斯O","type":"ssr","server":"188.119.65.143","port":26889,"password":"lncn.org e9c","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
   - {"name":"俄罗斯P","type":"ssr","server":"91.206.92.227","port":26889,"password":"lncn.org e9c","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
+  - {"name":"753","type":"vmess","server":"108.186.5.28","port":59010,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
   - {"name":"🇺🇸_US_美国_1","type":"vmess","server":"45.131.229.58","port":41602,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇺🇸_US_美国_2","type":"vmess","server":"64.32.4.54","port":42175,"cipher":"auto","uuid":"8653004f-de67-44c2-9cce-e0830933fb03","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇺🇸_US_美国_3","type":"vmess","server":"108.186.192.251","port":35502,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":""}

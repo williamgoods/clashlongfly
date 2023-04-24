@@ -1,4 +1,6 @@
 proxies:
+  - {"name":"defaultName_1","type":"socks5","server":"45.33.34.126","port":1080,"username":"tg群-@herhero6"}
+  - {"name":"defaultName_2","type":"socks5","server":"45.33.34.126","port":80,"username":"防封socks5-联系@heroku666"}
   - {"name":"Bypass-🇺🇸-US-1","type":"vmess","server":"mtn.bamarambash.monster","port":443,"cipher":"auto","uuid":"8f74ec8a-971c-11ed-a8fc-0242ac120002","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/08b65868-cf17-11ed-8e14-5ad705867cff","headers":{"host":"08b65868-cf17-11ed-8e14-5ad705867cff.asmandll.com"}}}
   - {"name":"Bypass-🇳🇱-NL-2","type":"vmess","server":"mkh.bamarambash.monster","port":443,"cipher":"auto","uuid":"8f74ec8a-971c-11ed-a8fc-0242ac120002","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/08b65868-cf17-11ed-8e14-5ad705867cff","headers":{"host":"08b65868-cf17-11ed-8e14-5ad705867cff.asmandll.com"}}}
   - {"name":"Bypass-🇪🇸-ES-3","type":"vmess","server":"mci.bamarambash.monster","port":443,"cipher":"auto","uuid":"8f74ec8a-971c-11ed-a8fc-0242ac120002","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/08b65868-cf17-11ed-8e14-5ad705867cff","headers":{"host":"08b65868-cf17-11ed-8e14-5ad705867cff.asmandll.com"}}}

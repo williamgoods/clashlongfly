@@ -58,6 +58,12 @@ proxies:
   - {"name":"🇬🇧_GB_英国_2","type":"ss","server":"172.99.190.61","port":8881,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
   - {"name":"🇸🇬_SG_新加坡_2","type":"ss","server":"18.141.225.91","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
   - {"name":"🇬🇧_GB_英国_3","type":"ss","server":"172.99.190.149","port":5500,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+  - {"name":"","type":"vmess","server":"38.6.226.232","port":16732,"cipher":"auto","uuid":"1c50a277-45ab-488d-fa02-925c814a7a0f","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"|ZTqu.love@xray.com","type":"vmess","server":"38.55.98.252","port":45350,"cipher":"auto","uuid":"5dd40212-9194-437a-e163-47c94bb0b7f5","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"US","type":"vmess","server":"98.126.18.67","port":24197,"cipher":"auto","uuid":"55ce2849-ce39-482a-b9be-4e2fc7f164fc","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/us16/getData","headers":{"host":"us16.verichains.co"}}}
+  - {"name":"US2","type":"vmess","server":"67.229.29.134","port":27646,"cipher":"auto","uuid":"099ca97b-0a40-4e71-93b8-90e7b01cdb7b","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/us1/getData","headers":{"host":"us1.nb123.info"}}}
+  - {"name":"KR","type":"vmess","server":"210.87.202.87","port":23274,"cipher":"auto","uuid":"b953baa1-88c3-4073-b777-1192deadfb97","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/kor2/getData","headers":{"host":"kor2.nb123.info"}}}
+  - {"name":"as","type":"vmess","server":"47.74.89.109","port":28056,"cipher":"auto","uuid":"e2111758-b370-4c0e-8061-0269741a39ef","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/aus/getData","headers":{"host":"aus.verichains.co"}}}
   - {"name":"🇬🇧_GB_英国_1","type":"vmess","server":"vuk1.0bad.com","port":443,"cipher":"auto","uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws"}
   - {"name":"🇺🇸_US_美国_1","type":"ss","server":"169.197.141.187","port":8090,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
   - {"name":"🇸🇬_SG_新加坡_1","type":"ssr","server":"sg-am3.eqsunshine.com","port":32001,"password":"3g0dHlKME","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","protocol":"origin"}

@@ -45,6 +45,17 @@ proxies:
   - {"name":"🇺🇸_US_美国_28","type":"vmess","server":"38.60.208.145","port":41397,"cipher":"auto","uuid":"a529cf39-d753-41e5-a72a-64cf8d48f469","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws"}
   - {"name":"🇺🇸_US_美国_29","type":"vmess","server":"142.4.125.53","port":50044,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇭🇰_HK_香港_4","type":"vmess","server":"hk4.af49c4e4c2ef.sanfen004.me","port":443,"cipher":"auto","uuid":"30ba67cf-776c-48be-8bb5-578878830228","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws"}
+  - {"name":"🇸🇬 SG, Singapore","type":"ss","server":"54.249.197.212","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇺🇸 US, Houston","type":"ss","server":"54.214.143.92","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇭🇰 HK, Kowloon","type":"ss","server":"3.112.16.166","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇯🇵 JP, Tokyo","type":"ss","server":"18.138.58.12","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇺🇸 US, Dallas 2","type":"ss","server":"35.93.29.248","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇨🇳 TW, Taipei","type":"ss","server":"54.254.210.184","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇯🇵 JP, Tokyo 2","type":"ss","server":"52.194.213.108","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇰🇷 KR, Incheon","type":"ss","server":"18.179.15.119","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇯🇵 JP, Osaka","type":"ss","server":"52.194.248.214","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇨🇦 CA, Vancouver","type":"ss","server":"35.93.146.121","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇭🇰 HK, New Territories","type":"ss","server":"43.207.138.95","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
   - {"name":"HW_1","type":"vmess","server":"67.229.29.134","port":29683,"cipher":"auto","uuid":"099ca97b-0a40-4e71-93b8-90e7b01cdb7b","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/us1/getData","headers":{"host":"us1.nb123.info"}}}
   - {"name":"HW_2","type":"vmess","server":"67.229.243.65","port":20683,"cipher":"auto","uuid":"a52907d9-9b68-4d4e-8f1f-2d5e18c98c45","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/us13/getData","headers":{"host":"us13.verichains.co"}}}
   - {"name":"HW_3","type":"vmess","server":"174.139.126.251","port":59803,"cipher":"auto","uuid":"51695a30-3915-4b9e-9a7f-bc10b5033a41","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/us15/getData","headers":{"host":"us15.verichains.co"}}}

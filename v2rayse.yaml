@@ -99,6 +99,7 @@ proxies:
   - {"name":"🇺🇸_US_美国_26","type":"vmess","server":"198.2.204.250","port":46802,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇨🇳_CN_中国->🇯🇵_JP_日本_2","type":"ssr","server":"14.152.92.80","port":12127,"password":"68xdgu9eyif","cipher":"aes-256-cfb","obfs":"http_simple","protocol":"auth_aes128_sha1","obfs-param":"0f099600777.v23f7nM0","protocol-param":"600777:154T8b"}
   - {"name":"🇯🇵_JP_日本_4","type":"trojan","server":"cd529a06-85c5-4662-9157-a0ce584cd324.interface.buzz","port":34545,"udp":true,"password":"285adff2-eb0b-41f6-80d7-8a8fc65b10fc","sni":"itunes.apple.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"美国 优化-10","type":"ssr","server":"usstartus2.eucdurl.me","port":569,"password":"mblank1port","cipher":"chacha20-ietf","obfs":"plain","protocol":"auth_aes128_md5","protocol-param":"36282:336000"}
   - {"name":"🇺🇸_US_美国_1","type":"ss","server":"216.52.183.242","port":80,"password":"83XvX4Vo%*3a","cipher":"aes-128-gcm"}
   - {"name":"🇭🇰_HK_香港->🇳🇱_NL_荷兰","type":"vmess","server":"156.245.8.224","port":40924,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇺🇸_US_美国->🇳🇱_NL_荷兰_1","type":"vmess","server":"156.225.67.251","port":48823,"cipher":"auto","uuid":"3fd637ad-46fe-4f85-a6e8-86b00bca1122","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}

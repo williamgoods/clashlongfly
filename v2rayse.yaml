@@ -259,6 +259,7 @@ proxies:
   - {"name":"🇺🇸_US_美国_24","type":"vmess","server":"45.86.11.189","port":59442,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇺🇸_US_美国_25","type":"vmess","server":"hd.mamadcucu.com","port":2095,"cipher":"auto","uuid":"19350d64-6868-4a64-e501-9c0df903d788","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"h3.mamadcucu.com"}}}
   - {"name":"🇺🇸_US_美国_26","type":"vmess","server":"142.4.108.26","port":55102,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸_US_美国","type":"vmess","server":"192.74.255.21","port":59322,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇩🇪_DE_德国","type":"vmess","server":"168.119.58.112","port":80,"cipher":"auto","uuid":"e42d68db-4297-4c17-b5cf-44d421aef400","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws"}
   - {"name":"🇫🇷_FR_法国->🇨🇦_CA_加拿大","type":"ss","server":"135.125.244.103","port":989,"password":"f8f7aCzcPKbsF8p3","cipher":"aes-256-cfb"}
   - {"name":"🇫🇷_FR_法国->🇬🇧_GB_英国","type":"vmess","server":"51.195.35.150","port":30812,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}

@@ -1,4 +1,5 @@
 proxies:
+  - {"name":"🇺🇸_US_美国","type":"vmess","server":"v23.jiedian.stream","port":80,"cipher":"auto","uuid":"faa80861-9c79-4e63-875d-1b906f5383e6","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws"}
   - {"name":"🇰🇷_KR_韩国_1","type":"ss","server":"3.39.229.56","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
   - {"name":"🇺🇸_US_美国_1","type":"vmess","server":"142.4.108.28","port":55102,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇯🇵_JP_日本_1","type":"trojan","server":"vir.troaa.top","port":53559,"udp":true,"password":"e3c70763-89cf-4267-831d-61a98467c6dc","skip-cert-verify":true,"network":"tcp"}

@@ -1,4 +1,16 @@
 proxies:
+  - {"name":"俄罗斯A","type":"ssr","server":"45.89.228.231","port":12388,"password":"lncn.org n9f","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
+  - {"name":"俄罗斯B","type":"ssr","server":"45.8.158.222","port":12388,"password":"lncn.org n9f","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
+  - {"name":"俄罗斯C","type":"ssr","server":"45.89.229.67","port":12388,"password":"lncn.org n9f","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
+  - {"name":"俄罗斯D","type":"ssr","server":"45.8.159.174","port":12388,"password":"lncn.org n9f","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
+  - {"name":"俄罗斯E","type":"ssr","server":"45.89.229.209","port":12388,"password":"lncn.org n9f","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
+  - {"name":"俄罗斯F","type":"ssr","server":"45.89.229.242","port":12388,"password":"lncn.org n9f","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
+  - {"name":"俄罗斯G","type":"ssr","server":"45.8.159.53","port":12388,"password":"lncn.org n9f","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
+  - {"name":"俄罗斯H","type":"ssr","server":"176.32.33.109","port":12388,"password":"lncn.org n9f","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
+  - {"name":"俄罗斯M","type":"ssr","server":"45.8.158.131","port":12388,"password":"lncn.org n9f","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
+  - {"name":"俄罗斯N","type":"ssr","server":"45.89.229.124","port":12388,"password":"lncn.org n9f","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
+  - {"name":"俄罗斯O","type":"ssr","server":"188.119.65.143","port":12388,"password":"lncn.org n9f","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
+  - {"name":"俄罗斯P","type":"ssr","server":"91.206.92.227","port":12388,"password":"lncn.org n9f","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
   - {"name":"中转节点-6.68MB/s(Youtube:不良林)","type":"ssr","server":"sg-04.xm1s.top","port":457,"password":"UtFRxN","cipher":"dummy","obfs":"plain","protocol":"auth_chain_a","obfs-param":"wns.windows.com","protocol-param":"2352:ANVr3j","group":"SSRProvider"}
   - {"name":"俄罗斯A","type":"ssr","server":"45.89.228.231","port":12388,"password":"lncn.org n9f","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}
   - {"name":"俄罗斯B","type":"ssr","server":"45.8.158.222","port":12388,"password":"lncn.org n9f","cipher":"dummy","obfs":"plain","protocol":"origin","group":"Lncn.org"}

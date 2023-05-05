@@ -321,6 +321,7 @@ proxies:
   - {"name":"🇸🇬 HW-SG 2","type":"ss","server":"43.200.252.117","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
   - {"name":"🇺🇸 HW-US 1","type":"ss","server":"54.213.121.112","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
   - {"name":"🇺🇸 HW-US 2","type":"ss","server":"35.161.78.22","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🇨🇳_CN_中国->🇹🇼_TW_台湾","type":"ss","server":"14.29.124.168","port":24007,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
   - {"name":"美国-3.79MB/s(Youtube:不良林)","type":"vmess","server":"107.167.12.24","port":41702,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇰🇷_KR_韩国_1","type":"ss","server":"3.39.229.56","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
   - {"name":"🇺🇸_US_美国_1","type":"vmess","server":"142.4.108.28","port":55102,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}

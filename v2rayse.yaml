@@ -60,6 +60,9 @@ proxies:
   - {"name":"🇸🇬 HW-SG 2","type":"ss","server":"43.200.252.117","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
   - {"name":"🇺🇸 HW-US 1","type":"ss","server":"54.213.121.112","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
   - {"name":"🇺🇸 HW-US 2","type":"ss","server":"35.161.78.22","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"广移 - awsjp","type":"vmess","server":"8.v2-ray.cyou","port":23608,"cipher":"auto","uuid":"0dd19d20-ec86-3680-b256-87237bafa89e","alterId":2,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"广移 - SG","type":"vmess","server":"6q59.cdn.node.a.tddns-ounk.com","port":40261,"cipher":"auto","uuid":"72bea5d3-7591-3ca4-9d61-3c89bd6e45a5","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/d1af668b-cff6-464a-9415-a7782ead72d5.j.live003.m3u8"}}
+  - {"name":"JP","type":"vmess","server":"jp11.hneko.online","port":45125,"cipher":"auto","uuid":"a1b5ee2e-1e69-451c-b5dd-7c6c577a4bcc","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/cctv13/hd.m3u8","headers":{"host":"jp11.hneko.online"}}}
   - {"name":"🇳🇱_NL_荷兰_1","type":"ss","server":"172.99.188.99","port":5004,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
   - {"name":"🇵🇦_PA_巴拿马","type":"vmess","server":"185.143.220.25","port":443,"cipher":"auto","uuid":"f28e354e-c2d1-4983-9b07-5acaf1b3b3e5","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/6e9EtZ2dL"}}
   - {"name":"🇺🇸_US_美国_1","type":"vmess","server":"d.pgypgykmoljklj.xyz","port":443,"cipher":"auto","uuid":"fa4cb529-3ac9-4268-bb04-ed4253813508","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws"}

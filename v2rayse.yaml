@@ -236,6 +236,7 @@ proxies:
   - {"name":"🇸🇬_SG_新加坡_4","type":"ss","server":"13.250.40.156","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
   - {"name":"🇺🇸_US_美国_22","type":"vmess","server":"137.175.18.90","port":42002,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇯🇵_JP_日本_2","type":"ss","server":"43.206.210.193","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"🎟@beiten","type":"vless","server":"speedtest.independenttherapeutics.com","port":443,"uuid":"da1502b1-8794-4e34-bc4c-e3c5f9fefdc1","tls":false,"servername":"www.speedtest.net","flow":"xtls-rprx-vision","network":"tcp"}
   - {"name":"美国_1","type":"vmess","server":"192.74.228.177","port":42857,"cipher":"auto","uuid":"051b844f-efe3-4847-92aa-66b5de0b6d4e","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"美国_2","type":"vmess","server":"142.4.97.72","port":44942,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"美国_3","type":"vmess","server":"108.186.116.177","port":55005,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}

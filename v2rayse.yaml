@@ -1,6 +1,7 @@
 proxies:
   - {"name":"codesandbox2","type":"vmess","server":"c6br44-8080.csb.app","port":443,"cipher":"auto","uuid":"465b248d-59c3-4a30-a6e7-885f3ccc42fb","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/vms","headers":{"host":"c6br44-8080.csb.app"}}}
   - {"name":"Argo_xray_trojan","type":"trojan","server":"preservation-hood-stands-consult.trycloudflare.com","port":443,"udp":true,"password":"db5b4014-d2da-11ed-afa1-0242ac120002","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/mio","headers":{"host":"preservation-hood-stands-consult.trycloudflare.com"}}}
+  - {"name":"1","type":"vless","server":"divine-dust-d04a.cameris346.workers.dev","port":443,"uuid":"03541470-1f6a-4f26-9d6f-d5b3c1e41e84","tls":true,"network":"ws","ws-opts":{"path":"yahoo-07pt.onrender.com/vless"}}
   - {"name":"🇺🇸_US_美国_1","type":"vmess","server":"38.40.158.248","port":45002,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇺🇸_US_美国_2","type":"vmess","server":"45.86.11.147","port":39182,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇺🇸_US_美国_3","type":"vmess","server":"140.99.48.24","port":57102,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}

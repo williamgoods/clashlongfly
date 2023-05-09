@@ -468,6 +468,7 @@ proxies:
   - {"name":"日本-2.70MB/s(Youtube:不良林)","type":"vmess","server":"45.88.43.136","port":50801,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"美国-2.53MB/s(Youtube:不良林)","type":"vmess","server":"137.175.52.20","port":33002,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇺🇸_US_美国","type":"vmess","server":"137.175.18.107","port":50004,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"🇺🇸_US_美国","type":"vmess","server":"137.175.18.88","port":42002,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇯🇵_JP_日本_1","type":"ss","server":"43.207.204.138","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
   - {"name":"🇨🇳_CN_中国->🇩🇪_DE_德国","type":"vmess","server":"59.36.84.180","port":63092,"cipher":"auto","uuid":"311f3c4b-90a1-3c5c-a4fe-215cc7c90d02","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws"}
   - {"name":"🇺🇸_US_美国_1","type":"vmess","server":"192.74.231.180","port":49202,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":""}

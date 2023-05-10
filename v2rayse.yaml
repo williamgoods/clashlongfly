@@ -1,4 +1,5 @@
 proxies:
+  - {"name":"🇺🇸_US_美国","type":"vmess","server":"137.175.52.21","port":33002,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"hgjhg7777","type":"vless","server":"divine-dust-d04a.cameris346.workers.dev","port":443,"uuid":"03541470-1f6a-4f26-9d6f-d5b3c1e41e84","tls":true,"network":"ws","ws-opts":{"path":"yahoo-07pt.onrender.com/vless"}}
   - {"name":"日本 V2CROSS.COM","type":"vmess","server":"jp01-alt-vm0.entry.srthdw.art","port":21585,"cipher":"auto","uuid":"1bc52308-0bd9-30d0-90fd-cef337875d10","alterId":1,"tls":true,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"美国 V2CROSS.COM","type":"vmess","server":"192.203.230.86","port":80,"cipher":"auto","uuid":"a442dacf-cbb3-488a-9744-61494ea38630","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"us-1.acyun.cf"}}}

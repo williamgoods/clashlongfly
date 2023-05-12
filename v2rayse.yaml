@@ -170,6 +170,7 @@ proxies:
   - {"name":"🇯🇵_JP_日本","type":"trojan","server":"awsjp4-data.amazon-azure.com","port":443,"udp":true,"password":"794d739c-89a0-444c-b2e7-acce12af3042","sni":"data.amazon-azure.com","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇺🇸_US_美国_5","type":"vmess","server":"192.74.231.175","port":49202,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇰🇷_KR_韩国","type":"ss","server":"13.124.151.241","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"defaultName","type":"http","server":"oss.v2rayse.com/proxies/data/2023-05-12/XPA82Dn.yaml","port":null}
   - {"name":"剩余流量：89.74% 412.73GB","type":"ssr","server":"www.google.com","port":1,"password":"breakwall","cipher":"dummy","obfs":"tls1.2_ticket_auth","protocol":"auth_chain_a","group":"DripCloud"}
   - {"name":"过期时间：2023-05-31 07:53:37","type":"ssr","server":"www.google.com","port":2,"password":"breakwall","cipher":"dummy","obfs":"tls1.2_ticket_auth","protocol":"auth_chain_a","group":"DripCloud"}
   - {"name":"俄罗斯 -1","type":"ssr","server":"ru1.dripcloud.uno","port":30215,"password":"eeuGKX","cipher":"aes-128-ctr","obfs":"tls1.2_ticket_auth","protocol":"auth_aes128_md5","obfs-param":"26b1315218.microsoft.com","protocol-param":"15218:6tnoVg","group":"DripCloud"}

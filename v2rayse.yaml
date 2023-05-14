@@ -393,6 +393,7 @@ proxies:
   - {"type":"trojan","name":"🇸🇬_SG_新加坡_@suyucom","server":"us1.cnamazon.sbs","port":443,"password":"a7d5f659-6ad2-4288-b63a-3d42bdf5b122","udp":true,"skip-cert-verify":true,"sni":"tlsdata.cnamazon.sbs"}
   - {"type":"trojan","name":"🇮🇳_IN_印度_@suyucom","server":"in1.cnamazon.sbs","port":443,"password":"a7d5f659-6ad2-4288-b63a-3d42bdf5b122","udp":true,"skip-cert-verify":true,"sni":"tlsdata.cnamazon.sbs"}
   - {"type":"trojan","name":"🇷🇺_RU_俄罗斯联邦_@suyucom","server":"bgptru1.cnamazon.sbs","port":443,"password":"a7d5f659-6ad2-4288-b63a-3d42bdf5b122","udp":true,"skip-cert-verify":true,"sni":"tlsdata.cnamazon.sbs"}
+  - {"name":"🇺🇸_US_美国","type":"vmess","server":"38.63.17.179","port":50702,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇯🇵_JP_日本_1","type":"ss","server":"43.207.109.56","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
   - {"name":"🇺🇸_US_美国_1","type":"vmess","server":"192.74.234.78","port":51302,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":""}
   - {"name":"🇨🇳_CN_中国_1","type":"trojan","server":"43.198.91.248","port":443,"udp":true,"password":"7c541f1d-9924-4520-9d27-003da6ccb813","sni":"hk3.xn--mes358a9urctx.com","skip-cert-verify":true,"network":"tcp"}

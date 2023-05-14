@@ -1,4 +1,5 @@
 proxies:
+  - {"name":"🇺🇸_US_美国","type":"vmess","server":"192.74.228.171","port":42857,"cipher":"auto","uuid":"051b844f-efe3-4847-92aa-66b5de0b6d4e","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"更多节点关注@ShareCentrePro","type":"vmess","server":"127.0.0.1","port":443,"cipher":"auto","uuid":"2d5d8b9c-8ec4-4a37-b610-78e71e13eaef","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"「SCP」NL-CF-HTTP","type":"vmess","server":"172.64.83.15","port":80,"cipher":"auto","uuid":"2d5d8b9c-8ec4-4a37-b610-78e71e13eaef","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/shirker","headers":{"host":"nl.sharecentrepro.com"}}}
   - {"name":"「SCP」SE-CF-HTTP","type":"vmess","server":"172.67.78.3","port":80,"cipher":"auto","uuid":"2d5d8b9c-8ec4-4a37-b610-78e71e13eaef","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/shirker","headers":{"host":"sw.sharecentrepro.com"}}}

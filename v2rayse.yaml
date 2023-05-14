@@ -164,6 +164,7 @@ proxies:
   - {"name":"🇺🇸_US_美国->🇰🇷_KR_韩国","type":"vmess","server":"cf1.biger.club","port":2087,"cipher":"auto","uuid":"1c31cafa-d514-4c95-836f-bf07773b7cf2","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"cr1.biger.club"}}}
   - {"name":"🇺🇸_US_美国->🇳🇱_NL_荷兰_1","type":"vmess","server":"tech.noaries.de","port":80,"cipher":"auto","uuid":"2d5d8b9c-8ec4-4a37-b610-78e71e13eaef","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/shirker","headers":{"host":"nl.sharecentrepro.com"}}}
   - {"name":"🇺🇸_US_美国->🇳🇱_NL_荷兰_2","type":"vmess","server":"156.225.67.17","port":443,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/1683955693848","headers":{"host":"www.84938863.xyz"}}}
+  - {"name":"🇺🇸_US_美国","type":"vmess","server":"107.148.194.233","port":55504,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":""}
   - {"name":"Hong Kong-01","type":"ss","server":"fzx.6pzfwf.com","port":56001,"password":"Msj5he","cipher":"chacha20-ietf-poly1305"}
   - {"name":"Hong Kong-02","type":"ss","server":"fzx.6pzfwf.com","port":56002,"password":"Msj5he","cipher":"chacha20-ietf-poly1305"}
   - {"name":"Hong Kong-03","type":"ss","server":"fzx.6pzfwf.com","port":56003,"password":"Msj5he","cipher":"chacha20-ietf-poly1305"}

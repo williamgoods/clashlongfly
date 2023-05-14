@@ -116,6 +116,7 @@ proxies:
   - {"name":"🇺🇸_US_美国_22","type":"vmess","server":"108.186.116.178","port":55005,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":""}
   - {"name":"🇺🇸_US_美国_23","type":"trojan","server":"74.217.179.22","port":443,"udp":true,"password":"525d29c2-4c39-477f-a526-2da92861cdff","sni":"glc.windowsupdatea.com","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇺🇸_US_美国_24","type":"vmess","server":"198.2.192.239","port":46680,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸_US_美国","type":"vmess","server":"140.99.59.230","port":55512,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇨🇳_CN_中国->🇹🇼_TW_台湾_1","type":"ssr","server":"14.29.124.168","port":24000,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb","obfs":"plain","protocol":"origin"}
   - {"name":"🇨🇳_CN_中国->🇹🇼_TW_台湾_2","type":"ss","server":"14.29.124.168","port":24007,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
   - {"name":"🇫🇮_FI_芬兰","type":"ss","server":"37.143.129.230","port":989,"password":"f8f7aCzcPKbsF8p3","cipher":"aes-256-cfb"}

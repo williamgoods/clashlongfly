@@ -1,5 +1,6 @@
 proxies:
   - {"name":"🇺🇸_US_美国","type":"vmess","server":"45.12.144.79","port":47127,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸_US_美国","type":"vmess","server":"192.74.237.49","port":30003,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":""}
   - {"name":"🇺🇸_US_美国","type":"vmess","server":"38.63.17.164","port":50702,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇺🇸_US_美国_1","type":"trojan","server":"163.123.192.61","port":443,"udp":true,"password":"b3359b2b-cb0f-44cd-a152-a796d8b46b01","sni":"download.xn--mes358acgm99l.com","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇩🇪_DE_德国","type":"trojan","server":"217.79.181.82","port":443,"udp":true,"password":"b3359b2b-cb0f-44cd-a152-a796d8b46b01","sni":"download.xn--mes358acgm99l.com","skip-cert-verify":true,"network":"tcp"}
